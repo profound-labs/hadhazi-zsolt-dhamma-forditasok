@@ -807,13 +807,6 @@ Az ostobák őrjítő, kábító szórakozását!"
 
 *Forrás: Dhammikasutta, Snp 2.14:19.1-25.4*
 
-## A Buddha felidézése
-
-*„Amikor egy nemes tanítvány felidézi a Beérkezettet, akkor elméje nincs tele kapzsisággal, gyűlölettel, és zavarodottsággal. Akkor elméje rendületlen, a Beérkezettre támaszkodik. A nemes tanítvány, akinek elméje rendületlen, ihletet nyer a jelentésből és a tanításból, örömet talál a tanításban. Amikor örömteli, elragadottság tör fel. Amikor az elme elragadottsággal teli, a test nyugodt lesz. Amikor a test nyugodt, gyönyört érez. Amikor gyönyörteli, az elme összeszedettségbe mélyed.*\
-*Gyakorold a Buddha felidézését séta, állás, ülés, fekvés, munka közben, és mikor otthon vagy gyerekeiddel!"*\
-
-*Forrás: Dutiyamahānāmasutta, AN 11.12*
-
 ## Két hibás nézet az okok nem-látásáról
 
 „Ha anélkül látod a dolgokat keletkezni és elmúlni, hogy értenéd vagy látnád keletkezésük és elmúlásuk mögöttes okait és feltételeit, az kétféle hibás nézethez vezethet. Az egyik, mivel nem látod az okokat és feltételeket, azt gondolhatod, hogy véletlenszerűek. Csak keletkeznek és elmúlnak; okság nélkül. Ez az ahetuka-micchā-diṭṭhi, az ok nélküliség hibás nézete, ami elterjedt volt a Buddha idejében.
@@ -1316,7 +1309,7 @@ Ez a buddhizmus gyakorlata. Vegyük észre, hogy mind ránk vonatkozik. A gyakor
 
 *Forrás: Helping Yourself to Help Others by Somdet Phra Buddhaghosacariya (P. A. Payutto), p 21-23 / Keeping awareness in the present*
 
-## Az érzéstől a birtoklásig
+## Az érzéstől a viszálykodásig
 
 *„Úgy van, Ánanda, hogy az érzés a sóvárgás oka. A sóvárgás a keresés oka. A keresés az anyagi javak szerzésének oka. Az anyagi javak szerzése az értékelés oka. Az értékelés a vágy és kívánás oka. A vágy és kívánás a ragaszkodás oka. A ragaszkodás a birtoklás oka. A birtoklás a zsugoriság oka. A zsugoriság a védelmezés oka. A védelmezés okán sok rossz, káros dolog keletkezik: bot és kard ragadása, veszekedések, vitatkozások, vádaskodások, megosztó beszéd, és hazugság."*\
 
@@ -2250,35 +2243,7 @@ Egy szerzetes megkérdezte Huang-lungot:
 
 *Forrás: Paṭhamakālasutta, AN 4.146*
 
-## A Dhamma idejében hallgatásának öt haszna
-
-*Amikor összegyűltök, e két dolog egyikét tegyétek: beszélgessetek a Dhammáról, vagy őrizzétek a nemes csendet!*
-
-\...
-
-*Ez az öt haszna van a Dhamma megfelelő időben hallgatásának és a Dhamma megfelelő időben megbeszélésének. Milyen öt?*
-
-*Először is, egy szerzetes tanítja a szerzeteseknek a Dhammát, ami jó az elején, jó a közepén, és jó a végén, értelmes és jól fogalmazott. Megmutat egy szellemi gyakorlást, ami egészen teljes és tiszta. Amikor így tesz, a Tanítót kedveli és egyetért vele, tiszteli és értékeli. Ez az első haszna a Dhamma megfelelő időben hallgatásának és a Dhamma megfelelő időben megbeszélésének.*
-
-*Továbbá, egy szerzetes tanítja a szerzeteseknek a Dhammát\... Amikor így tesz, a jelentésében ihletett lesz és a Dhammában ihletett lesz. Ez a második haszna\...*
-
-*Továbbá, egy szerzetes tanítja a szerzeteseknek a Dhammát\... Amikor így tesz, a Dhamma egy mély és lényegi pontját látja meg átható bölcsességgel. Ez a harmadik haszna\...*
-
-*Továbbá, egy szerzetes tanítja a szerzeteseknek a Dhammát\... Amikor így tesz, társai a szellemi életben jobban értékelik, azt gondolván: „Bizonnyal ez a tisztelendő elérte vagy el fogja érni." Ez a negyedik haszna\...*
-
-*Továbbá, egy szerzetes tanítja a szerzeteseknek a Dhammát\... Amikor így tesz, lehetnek még gyakorló szerzetesek jelen, akik nem teljesítették szívük vágyát, de a kötelékektől való legfőbb biztonságra törekszenek. A tanítást hallva erő ébred bennük az el nem ért elérésére, a beteljesítetlen beteljesítésére, a megvalósítatlan megvalósítására. Lehetnek arahantok, akik végeztek a szennyeződésekkel, beteljesítették a szellemi utat, megtették, amit meg kellett tenni, letették a terhet, elérték céljukat, teljesen véget vetettek az újraszületés béklyóinak, és helyesen megszabadultak a végső tudással. Hallva a tanítást egyszerűen boldogan élnek a jelen életben. Ez az ötödik haszna\...*
-
-*Ez az öt haszna van a Dhamma megfelelő időben hallgatásának és a Dhamma megfelelő időben megbeszélésének.*
-
-*Forrás: Nandakasutta, AN 9.4*
-
-## A négy idő
-
-*Szerzetesek! Négy idő van. Milyen négy? A Dhamma hallgatásának ideje. A Dhamma megbeszélésének ideje. A nyugalom ideje. A belátás ideje. Ez a négy idő.*
-
-*Forrás: Paṭhamakālasutta, AN 4.146*
-
-## A Dhamma idejében hallgatásának öt haszna
+## A Dhamma megfelelő időben való hallgatásának öt haszna
 
 *Amikor összegyűltök, e két dolog egyikét tegyétek: beszélgessetek a Dhammáról, vagy őrizzétek a nemes csendet!*
 
