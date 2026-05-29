@@ -78,13 +78,13 @@ Tehát igazából a Dhamma nagyon közel van hozzánk, és nagyon nyilvánvaló.
 
 *Forrás: [Dhamma Question & Answer Session with Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=ZVkjyKLsun0), 49:22-50:52, 15 Mar 2026*
 
-## Az önutálat és az alacsony önbecsülés kezelése
+## Az elme középen tartása
 
 „Az emberek folyton azt kérdik, hogy mi a jó meditáció titka. Egyszer Ácsán Cshá ezt válaszolta: megtanulni középen tartani az elméd. Azt jelenti, hogy éber vagy, tudod, mi történik benned és körülötted a világban, de nem ragadsz bele a kellemes utáni vonzódásba és a kellemetlentől való viszolygásba. Csak tudod a dolgokat, ahogy vannak. Egyes dolgok kellemes jellegűek. Más dolgok kellemetlen jellegűek. Ezek lehetnek a saját emlékeid, vagy amit épp gondolsz abban a pillanatban. Lehetnek külső tapasztalatok, amiket látsz, hallasz, ízlelsz, szagolsz, megérintesz. Egyesek kellemesek, mások kellemetlenek. A célod fenntartani az éberséget, ezt a részrehajlás nélküli, kötetlen figyelmet, és csak tudatában lenni, hogy ez ilyen. A kellemes dolgok ilyenek. A kellemetlen dolgok olyanok. Középen tartod az elméd."
 
 *Forrás: [Dealing With Self-Aversion And Low Self-Esteem by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=aHoY9Gwrdyk), 20:57-21:57, 08 Mar 2026*
 
-## A türelem a meditáló szuperereje
+## Tudatosság a hírek áradatában
 
 „Csak ennyire van szükséged. Annyi a fontos, hogy legyen elég tudatosságod bekötni a cipőfűződet, s folytasd ennyi tudatossággal. Tehát nem egy egyszeri dolog. De csak ennyi kell. Ez elegendő figyelni a jelen pillanatra, arra, hogy mit csinálsz, hogy mi történik. Ahányszor ezt teszed, az életed javul, kicsit közelebb jutsz a nibbánához.
 
@@ -126,7 +126,7 @@ Bármikor, amikor megjelenik az énérzet valamely tapasztalatunkban, elkezdünk
 
 *Forrás: [Bringing Your Mind To Know The Ordinary by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=2A7TRNFMz40), 29:02-31:28, 32:01-35:43, 14 Feb 26*
 
-## Hit, jóakarat, erőfeszítés, türelem és bölcsesség támogatja a meditációt
+## A négy nemes igazság bölccsé tesz
 
 „A sóvárgás mindig szenvedéshez vezet, ez egyszerűen egy természeti tény. Hajlamosak vagyunk személyesre venni: az én sóvárgásom, én érzésem, én vágyam. De ez csak egy tény, egy pszichológiai tény. A sóvárgás zaklatott elméhez vezet. Nem vezet békéhez, nyugalomhoz, világossághoz, hanem szenvedéshez, stresszhez vezet. A sóvárgás sok alkalom után megszilárdul és kemény lesz az elmében, így azt kötődésnek, illetve ragaszkodásnak hívjuk. A kötődés és ragaszkodás táplálja azt, amit létesülésnek hívunk, ami a magunknak épített világ, ahogy a dolgokra tekintünk, úgymond az oka a kammánknak, a döntéseinknek, annak, ahogyan cselekszünk. Ez a létesülés, és valójában további születéshez, a következő élethez vezet. Volt korábbi létesülésünk és itt születtünk. Van létesülésünk és újra meg fogunk születni. És még egy napon belül is folyton létesülünk. Ha közelről megnézzük, a sóvárgás, ragaszkodás, létesülés állandóan körbe megy, forog. Ez a szenvedés okának megértése, amihez szükség van figyelni, tanulni, tudatosnak lenni. Ezért van szükség az éberségre, a meditációra.
 
@@ -138,7 +138,7 @@ Ez tehát a négy nemes igazság, ami segít bölcsebbé válnunk. Ez a Buddha a
 
 *Forrás: [Faith, Goodwill, Effort, Patience, and Wisdom Supports One's Meditation by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=Je79FcfQsXI), 51:50-57:03, 15 Feb 26*
 
-## A legnagyobb áldások mind a Dhammához kötődnek
+## Az öt erő, ami megszabadítja az elmét
 
 „A buddhizmusban van ez az ötös csoportja a dhammáknak, az öt erő: szaddhá, virija, szati, szamádhi, és pannyá. Együtt dolgoznak, hogy segítsenek megszabadítani az elménk a sóvárgástól, a ragaszkodástól.
 
@@ -156,7 +156,7 @@ Ez tehát az öt erő, amit minden alkalommal fejlesztünk, nem csak meditáció
 
 *Forrás: [The Greatest Blessings Are All Related To The Dhamma by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=F3paTWKSsaY), 25:23-29:00, 07 Feb 2026*
 
-## Ácsán Cshá mindent odaadott a Dhamma megvalósításáért
+## A szíla, a szamádhi és a bölcsesség gyümölcse
 
 „A Buddha, lungpó Cshá, és minden tanító azt mondja, tegyünk erőfeszítést a szíla gyakorlásába és értsük meg a szerepét, hogy elnyerjük a hasznát, s megtapasztaljuk szamádhi tudatát. A szamádhi tudata a tudat, ami nyugodt, szilárd, boldog, elégedett. Ez nagyon fontos. Ha igazán érteni akarjuk a Dhammát, a gyakorlásunkban belső boldogságot kell találnunk. Miért tudunk egy nap több órát itt ülve Dhamma beszédeket hallgatni, meditálni? Az egyik oka, hogy örömmel tesszük. Boldogságot nyerünk belőle. Ezt hívjuk a szív táplálékának. A szív boldogsága egyaránt fakad a dánából, az osztozkodásból, adakozásból, mások segítéséből, ahogy a szíla gyakorlásából is, hogy érzékenyebbek vagyunk, törődünk a körülöttünk lévőkkel, a környezettel. De fakad a szilárd, békés, üdvös tudatállapotok kifejlesztéséből is, amit szamádhinak hívunk. Ha ezirányba teszel erőfeszítést, akkor a tudatod elégedettnek kezd érződni. Nincs szüksége sok más dologra, hogy boldog legyen. Megvagy a világ megannyi kényelme és szórakozása nélkül. Mert a tudatod egyre inkább megmarad magában, egyre függetlenebbé válik a világtól a szamádhi miatt, képessé válsz szemlélődni és belátást nyerni.
 
@@ -174,13 +174,13 @@ A Buddha mindig mondta, hogy amikor tökéletesíted, kifejleszted a szílát, a
 
 *Forrás: [The Buddha Gave Us The Way Out Of Suffering by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=TG7cmirSNoo), 33:58-36:34, 5 July 2020*
 
-## Mulandóság, megbocsátás és elengedés
+## Az előírások és a szándékok mulandósága
 
 „Ha megjelenik a szándék, hogy megölj egy hangyát, legyet, bármit, de nem követed, akkor a szándék szükségszerűen csak keletkezik és elmúlik. Nem olyan fontos neked, mert egykedvű vagy irányába. Tudatos és figyelmes vagy rá, hogy az egy szándék, de csupán ideiglenes, és képes vagy elengedni. Így apránként megtisztíthatod a tudatod szílával, majd tudatossággal, és aztán bölcsességgel és belátással. És a szándékot, hogy hazudj, hogy árts. Minden előírás -- legyél akár világi, akár novícius, akár szerzetes -- segít tudatosabbá válnod, s abban is, hogy meglásd a különféle tudatállapotaid mulandóságát."
 
 *Forrás: [Impermanence, Forgiveness And Letting Go - Guided Meditation Day 4 Morning by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=F6sTo3jvcrc), 10:31-11:33, 01 Jan 2026*
 
-## Az én elengedése
+## A békés együttélés az elengedés alapja
 
 „Ácsán Cshá szokta volt mondani, hogy kicsi elengedés, kicsit kevesebb szenvedés; több elengedés, még kevesebb szenvedés; teljes elengedés, teljesen nincs szenvedés. Ezt szeretjük, szeretjük a szép, egyszerű tanításokat. Elengedés, ez jól hangzik. Amikor a Buddha az első öt tanítványának azt mondta: engedd el, akkor értették, mert tudták, hol kell elengedni, mit kell elengedni, hogyan kell csinálni, mert jól képzettek, jól felkészültek voltak. De akinek esetleg újdonság a buddhizmus, újdonság a meditáció, annak azt mondjuk: engedd el, akkor talán bizonytalan, hogy mit engedjen el. Könnyűnek, egyértelműnek hangzik, de mit engedjünk el? Szükségük van némi előkészületre.
 
@@ -294,7 +294,7 @@ Még a Buddha is szenvedett, abban az értelemben, hogy voltak kínjai, fájdalm
 
 *Forrás: Knowing And Putting Down The Burdens Of The Mind by Tan Ajahn Kalyano, 55:15-56:45, 27 Nov 22*
 
-## Fejlődés a meggyőződésben, erőben, éberségben, összpontosításban és bölcsességben
+## A bölcsesség nem tesz érzéketlenné
 
 „Tehát a bölcsesség elengedéshez, feladáshoz, szenvtelenséghez, nem ragaszkodáshoz vezet. És az emberek folyton azt kérdik: »Jaj, ez azt jelenti, hogy a buddhizmustól száraz, robotszerű, érzéketlen leszel? « Mert papíron így hangzik. De ez csak papíron a buddhizmus, ugye? Gyakorolnod kell, hogy megértsd, valójában mit jelent. Vagyis nem jelenti, hogy a Buddhának és a megvilágosodott lényeknek semmi öröme nem volt. Biztosan volt örömük. Békés elméjük volt. Abban rengeteg öröm van. Mindig kedvesek és együttérzők voltak. Ez nem száraz és élettelen, vagy értelmetlen, hanem nagyon is jó. Igazából nagyon kívánatos. Bölcsek és megértők, nem válnak zavarodottá. Így aztán nincs bajuk azzal, hogy átvernék őket, vagy ilyesmi. Nem megtévedtek. Úgy látják a dolgokat, ahogy vannak, és együttérzők, mert nagyon jól értik az emberi elmét. Ezért aztán tanítani, segíteni tudnak másoknak. Tehát távol vannak attól, hogy amolyan élettelenek, szárazak, vagy mondhatnád unalmasak lennének. Nem olyanok. Az elméjük, mert jól képzett, igazából nagyon életteli és éber arra, ahogy a dolgok vannak. De papíron nehéz kifejezni, ugye? Írhatnak róla, beszélhetnek róla. Én is csak beszélek róla, ezek csak szavak. Lehet, nem hangzik olyan vonzónak.
 
@@ -322,7 +322,7 @@ Ezért kell visszatérnünk a buddhó vagy a légzés tudatosságához. Akkor k�
 
 *Forrás: [When Mindful You See Things As They Are by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=-IqKt5I-NKg), 13:08-14:47, 25 July 2025*
 
-## Se a jövő miatt aggódva, se a múltban időzve
+## Az igazi bölcsesség megszabadít a szenvedéstől
 
 „A képzetlen elme hajlamos futni minden után, ami felmerül; kedvelni, nem kedvelni. Sok időt azzal töltünk, hogy igyekszünk elkerülni, ami nem tetszik, és megtölteni az elménket élményekkel, amik tetszenek -- mert élvezetesek, lefoglalnak minket egy darabig. Remélhetőleg kellemesen foglalnak le. De igazán sosem menekülünk a kellemes és fájdalmas, a boldogság és szomorúság keletkezésétől és elmúlásától. De amikor az elméd képzett, vagy képzed az elméd, még ha a kellemes élmény el is tűnik, nem jelenti, hogy az elméd átcsúszik a szenvedésbe. Csak tudatában vagy, hogy elmúlt, anélkül, hogy szenvednél vagy aggódnál miatta, vagy idegesítene, felzaklatna a tény, hogy elmúlt. Csak tudsz róla.
 
@@ -344,7 +344,7 @@ A dhamma itt és most velünk van. Nem valami nagyon távoli. Nem a jövőben va
 
 *Forrás: [The Mind That Has Dhamma Is Peaceful by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=cCqNX4moP2o), 30:00-31:46, 24 May 2025*
 
-## A megismerés és az énérzet szétválasztása
+## Az üdvös és a káros tudatállapotok megismerése
 
 „Hogy tényleg menedéket találj a világban és jobban megértsd a világot, nem kell mindenfele elutaznod, hogy meglásd és megismerd, és nem kell elolvasnod minden könyvet és megtekintened minden fényképet és dokumentumfilmet a világról. Az adna bizonyos mennyiségű részletet, de nagyon felszíneset. Ahol valóban megismered a világot, az belül, az elme világában van, ami tényleg segít megmagyarázni és megérteni a külső világot. Megismerni az elmét, mondjuk egy üdvös elmét.
 
@@ -354,7 +354,7 @@ Ez vezet el a bölcsességhez, ami megmondja, hogy a káros tudatállapotok szen
 
 *Forrás: [Separating Between the Knowing and the Sense of Self by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=6FqT4Di77N0), 21:23-24:50, 19 Dec 21*
 
-## Az üdvös dhammák erősebbek a káros dhammáknál
+## Egykedvűséggel kezelni az aggodalmakat
 
 „Mindig kifogásokat találunk és azt mondjuk: »Nem tudom megcsinálni. Nem lehetek szerzetes. Nem lehetek apáca.« Mintha ez valahogy azt jelentené: »Csak szenvedek tovább. Maradok kapzsi, időnként mérges, időnként aggódó, és nem kezdek ezzel semmit.« Ne hagyd az elméd idáig csúszni!
 
@@ -370,7 +370,7 @@ De amikor nem értjük, mit csinálunk? Még a legkisebb dologból is szenvedés
 
 *Forrás: [Wholesome Dhammas Are Stronger Than Unwholesome Dhammas by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=ArhNIIGYMlo), 26:23-30:12, 23 Feb 25*
 
-## A bölcs felismeri a jó és a rossz kammát
+## Az én téveszméje a szenvedés gyökere
 
 „A csirke nem lehet kacsa, különböznek. A kacsa úszik a vízen, a csirke ül egy faágon vagy valami szénakazalon, de a csirke nem kacsa, a kacsa nem csirke. Ha azt akarod, hogy a kacsa csirke legyen, szenvedni fogsz, bosszankodni fogsz, panaszkodni. Ez olyan, mint amikor valaki azt mondja: »Nem kéne megbetegednem. Nem kéne megöregednem. Miért kell meghalnom?« A legtöbb ember a világon örökké akar élni. Nem így megy, a természet nem így működik.
 
@@ -518,7 +518,7 @@ Egy gondolatot egy pillanat alatt el lehet engedni, valaminek a negatív szemlé
 
 *Forrás: When You Accept The Way Things Are You Can Let Go by Tan Ajahn Kalyano, 36:10-38:44, 30 Jul 22*
 
-## A szamádhi boldogsága
+## Az egykedvűség nem ridegség
 
 „Az egykedvűség eszmeként gyakorta nem hangzik vonzónak az embereknek. Úgy hangzik, mintha érdektelenné, tompává válnál a világ irányába. Ridegnek, szívtelennek hangzik. Lehet, nem annyira vonzó dolog, de ha egyszer találkozol valakivel, aki az éberség és a buddhista út gyakorlásával kifejlesztette az egykedvűséget, az olyan ember nem rideg és szívtelen, általában tele van együttérzéssel. Csak arról van szó, hogy nem szenved a tudatban felmerülő kellemes és kellemetlen élmények hullámzásával, mert képes látni, hogy mulandók, nem én, nem egy állandó én.
 
@@ -528,7 +528,7 @@ A Buddha útja az éberség megalapozása, az egykedvűség fenntartása. Tudat�
 
 *Forrás: The Happiness Of Samadhi by Tan Ajahn Kalyano, Online Retreat Day 2 (Evening), 41:29-43:26*
 
-## Mikor csillapítsd az elméd, és mikor szemlélődj
+## Nem a kellemetlenségeket, hanem a ragaszkodást engedd el
 
 „Nem célunk a világ minden kellemetlen dolgától megszabadulni, az lehetetlen lenne. Meghalnál, mielőtt sikerülne, mert lehetetlen. A célod, hogy elég éber legyél ahhoz, hogy felismerd azokat, mint állandótlan, szenvedés, nem én, mert akkor nem ragaszkodsz hozzájuk, nem veszed fel és nem teremtesz szenvedést a tudatodban."
 
@@ -592,7 +592,7 @@ A ragaszkodás miatt szenvedünk. Ragaszkodunk az én eszméjéhez, mint amit a 
 
 *Forrás: [Letting Go Of Self-View Removes Suffering by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=Zsmbcqlx7F8), 16:20-24:08, 26:18-28:24, 26 May 2024*
 
-## A szív, amely tud
+## Ha figyelmesen nézel, meglátod a szenvedést
 
 „Annyiszor hallani embereket: »Nem kell meditálnom, egyáltalán nem szenvedek.« A szerzetesek mindig nevetnek, amikor ezt hallják, mert szinte látni minden nap minden pillanatában az embereket szenvedni. Ha igazán figyelmesen nézel, láthatod saját magad és másokat szenvedni. Akik ilyet mondanak, nem néznek elég alaposan. Csak vársz egy pár pillanatot, és változtatniuk kell a testhelyzetükön, mert fáj valahol a testük. Ez máris szenvedés."
 
