@@ -879,7 +879,7 @@ Ez a Buddha tanításainak sarokköve. A Buddha gyakran beszélt a feltételekr�
 
 ## Az emberi élet rövidsége
 
-**Hátráltató: alantas beszéd** (*tiracchānakathā* - SN 56.10, AN 10.69):\
+**Hátráltató: alantas beszéd** (*tiracchānakathā* - SN 56.10, AN 10.69):\
 - királyokról, rablókról, miniszterekről;\
 - seregekről, fenyegetésekről, háborúkról;\
 - ételekről, italokról, ruhákról, ágyakról;\
@@ -892,7 +892,7 @@ Ez a Buddha tanításainak sarokköve. A Buddha gyakran beszélt a feltételekr�
 - földről, tengerről;\
 - újraszületésről ilyen-olyan helyen.
 
-**Előrevivő: beszéd önsanyargatásról** (*kathā abhisallekhikā* - MN 122, AN 5.97, AN 9.1, AN 10.69, Ud 4.1)\
+**Előrevivő: beszéd önsanyargatásról** (*kathā abhisallekhikā* - MN 122, AN 5.97, AN 9.1, AN 10.69, Ud 4.1)\
 - kevés vágyról,\
 - elégedettségről,\
 - elvonulásról,\
@@ -1053,7 +1053,7 @@ Hát csak zuhogjatok ti mennyek"*
 
 ## Ahogy jöttek, úgy mentek – minek bánkódni?
 
-A Girimánanda korábbi életeiről szóló versben *(amiben megjelenik a théra saját költeményének képe együtt Patacsára (Thig 6.1) szavaival)* Szumédha buddha így vigasztalja:
+A Girimánanda korábbi életeiről szóló versben *(amiben megjelenik a théra saját költeményének képe együtt Patacsára (Thig 6.1) szavaival)* Szumédha buddha így vigasztalja:
 
 *„Hívatlanul jöttek onnan,\
 Engedély nélkül mentek innen.\
@@ -1278,15 +1278,15 @@ Hattyú fehér, holló fekete - hogy értik meg?\
 Tolvaj! Tolvaj!\
 Elkapta a szerzetesek orrlyukát."*
 
-Jüan-vu: *„Csao-csou egy szabad ember. Ha óvatlanul kérdezed, kikapja a szemeid. Ha tudod, mi van, óvatosan megrágod és lenyeled. Ha nem tudod, mi van, az olyan, mintha egyben nyelnél datolyát."*
+Jüan-vu: *„Csao-csou egy szabad ember. Ha óvatlanul kérdezed, kikapja a szemeid. Ha tudod, mi van, óvatosan megrágod és lenyeled. Ha nem tudod, mi van, az olyan, mintha egyben nyelnél datolyát."*
 
-Dógen: *„Nem van rá szavad, nem nincs rá szavad, nem hozzáfűzés, nem közmondás."*
+Dógen: *„Nem van rá szavad, nem nincs rá szavad, nem hozzáfűzés, nem közmondás."*
 
-Hakuin: *„Múltban és jelenben az emberek képtelenek megkülönböztetni a hattyú fehérét a holló feketéjétől. Hattyú fehér, holló fekete -- hogy értik meg? Ha ismernéd a Csen tartományi óriás retek ízét, ismerd meg a hattyú fehérének és a holló feketéjének gyökérforrását."*
+Hakuin: *„Múltban és jelenben az emberek képtelenek megkülönböztetni a hattyú fehérét a holló feketéjétől. Hattyú fehér, holló fekete -- hogy értik meg? Ha ismernéd a Csen tartományi óriás retek ízét, ismerd meg a hattyú fehérének és a holló feketéjének gyökérforrását."*
 
-Tenkej: *„A darvak fehérek, a hollók feketék, a szemek vízszintesek, az orrok függőlegesek -- ezt mindenki tudja. Nem kapott, nem adott, buddhák és zen mesterek nem egyenesítették ki számunkra; ezt tudva sem tudják igazán."*
+Tenkej: *„A darvak fehérek, a hollók feketék, a szemek vízszintesek, az orrok függőlegesek -- ezt mindenki tudja. Nem kapott, nem adott, buddhák és zen mesterek nem egyenesítették ki számunkra; ezt tudva sem tudják igazán."*
 
-Szuzuki Sunrjú: *„Természetes, hogy egy hattyú fehér és egy holló fekete. Ez a buddha természet. Ne mondd, hogy nem kell gyakorolni a buddhizmust, mert eredendően buddha természetünk van. Csak akkor van buddha természet, amikor a hattyú fehér, a holló fekete, az ember ember, és a buddhista gyakorolja a Buddha életmódját."*
+Szuzuki Sunrjú: *„Természetes, hogy egy hattyú fehér és egy holló fekete. Ez a buddha természet. Ne mondd, hogy nem kell gyakorolni a buddhizmust, mert eredendően buddha természetünk van. Csak akkor van buddha természet, amikor a hattyú fehér, a holló fekete, az ember ember, és a buddhista gyakorolja a Buddha életmódját."*
 
 „*A fém buddha nem jut át a kohón. A fa buddha nem jut át a tűzön. Az agyag buddha nem jut át a vízen. Az igazi buddha odabent ül. Bódhi, nirvána, olyanság, buddha természet: testhez tapadt ruhák, amiket bántalmaknak is neveznek. Nem kérdezni róluk annyi, mint a bántalmak hiánya. A valódi olyanság hol van? »Ha egy tudat sem keletkezik, a tízezer dharma hibátlan.« Csak vizsgáld és ülj húsz-harminc évig! Ha nem jársz sikerrel, levághatod a fejem."*
 
@@ -1302,15 +1302,15 @@ Szuzuki Sunrjú: *„Természetes, hogy egy hattyú fehér és egy holló feket
 
 „Élvezet és irtózat valamely adott érzet függvényében keletkezik. Például, ha látunk valami tetszőt, az elme a tetszés körül bonyolít. Ha elural az élvezet vagy az irtózat, az elme máshogy bonyolít. Más szóval, az elme nem úgy látja a dolgokat, ahogy vannak. Amikor azt mondjuk, az elme nem úgy látja a dolgokat, ahogy vannak, azt úgy értjük, hogy az elme az élvezet és irtózat befolyása alatt áll, amitől az elme vagy a múltba zuhan, vagy a jövőbe száll el. Azt mondani, hogy az elme élvezetbe és irtózatba zuhan, vagy azt, hogy az elme nem úgy látja a dolgokat, ahogy vannak, az egy és ugyanaz. Mindkét esetben az elme nem tudatos az egyes érzetekre, ahogy keletkeznek.
 
-Ha a jelen pillanatban egy érzetet tapasztalunk, de nem ragaszkodunk hozzá élvezettel vagy irtózattal, akkor az elme csupán tudatosan követ minden egyes érzetet. Élvezetnek és irtózatnak nincs esélye keletkezni az *sati* (éberség) miatt, amitől az elme a jelen pillanatban marad.
+Ha a jelen pillanatban egy érzetet tapasztalunk, de nem ragaszkodunk hozzá élvezettel vagy irtózattal, akkor az elme csupán tudatosan követ minden egyes érzetet. Élvezetnek és irtózatnak nincs esélye keletkezni az *sati* (éberség) miatt, amitől az elme a jelen pillanatban marad.
 
 Amikor az elme nem bonyolít élvezet és irtózat hatására, akkor a dolgokat nem saját vonzódásunk és viszolygásunk szemüvegén keresztül látjuk. Úgy látjuk a dolgokat, ahogy vannak. Azt mondják, a világon minden egyszerűen úgy van, ahogy önmagában van, semmi több. De az élvezettel és irtózattal szennyezett elme többnek festi le a dolgokat, mint amik. Nem úgy látjuk a dolgokat, ahogy vannak. A vágy és ellenszenv torzító hatása nélkül úgy látjuk a dolgokat, ahogy vannak.
 
-Így a *sati* megkönnyíti a bölcsesség keletkezését, segíti elménket, hogy ne zuhanjon a múltba vagy szálljon el a jövőbe az élvezettel és irtózattal, hanem lássa a dolgokat, ahogy vannak, ami a *paññā*, a bölcsesség működése.
+Így a *sati* megkönnyíti a bölcsesség keletkezését, segíti elménket, hogy ne zuhanjon a múltba vagy szálljon el a jövőbe az élvezettel és irtózattal, hanem lássa a dolgokat, ahogy vannak, ami a *paññā*, a bölcsesség működése.
 
-A *satipaṭṭhāna* gyakorlata segít eltörölni a vágyat és ellenszenvet, és úgy látni a dolgokat, ahogy vannak. Amikor már jártasabbak vagyunk látni a dolgokat, ahogy keletkeznek, akkor észre vesszük keletkezésüket, létezésüket és megszűnésüket. Amikor észleljük a különféle érzeteket, ahogy jönnek és mennek, akkor látjuk a folyamatot, ahogy működnek, látjuk, hogy állandóan keletkeznek és megszűnnek. Állandótlanok. Látva a mulandóságot (*anicca*) meglátjuk a szenvedést (*dukkha*) és az éntelenséget (*anattā*) is, a három jelleget. Tehát a *satipaṭṭhāna* gyakorlata mélyebb szinteken képessé tesz látni minden keletkezését, változását és eloszlását. Ez a feltételes létezés három jellegének látása, ami a bölcsesség keletkezése. Az elme többé nem kapaszkodik külső érzetekbe, illetve azok nem befolyásolják. Az elme önmaga ura lesz és kiszabadul, és ez a szabadság a bölcsesség kifejlesztésének gyümölcse.
+A *satipaṭṭhāna* gyakorlata segít eltörölni a vágyat és ellenszenvet, és úgy látni a dolgokat, ahogy vannak. Amikor már jártasabbak vagyunk látni a dolgokat, ahogy keletkeznek, akkor észre vesszük keletkezésüket, létezésüket és megszűnésüket. Amikor észleljük a különféle érzeteket, ahogy jönnek és mennek, akkor látjuk a folyamatot, ahogy működnek, látjuk, hogy állandóan keletkeznek és megszűnnek. Állandótlanok. Látva a mulandóságot (*anicca*) meglátjuk a szenvedést (*dukkha*) és az éntelenséget (*anattā*) is, a három jelleget. Tehát a *satipaṭṭhāna* gyakorlata mélyebb szinteken képessé tesz látni minden keletkezését, változását és eloszlását. Ez a feltételes létezés három jellegének látása, ami a bölcsesség keletkezése. Az elme többé nem kapaszkodik külső érzetekbe, illetve azok nem befolyásolják. Az elme önmaga ura lesz és kiszabadul, és ez a szabadság a bölcsesség kifejlesztésének gyümölcse.
 
-Ahogy ennek a beszédnek az elején mondtam, ha az elme ismeri az élet igazságát, a tudatlanság (*avijjā*) kórsága nem jön létre. Az elme betegségét az *avijjā* okozza, amitől az elme bonyolít.
+Ahogy ennek a beszédnek az elején mondtam, ha az elme ismeri az élet igazságát, a tudatlanság (*avijjā*) kórsága nem jön létre. Az elme betegségét az *avijjā* okozza, amitől az elme bonyolít.
 
 Ez a buddhizmus gyakorlata. Vegyük észre, hogy mind ránk vonatkozik. A gyakorlat, amiről itt beszéltem, ezen az ölnyi testen alapszik. Az igazság itt helyben meglátható. Ebben a világban élve a környezetet érzetekként tapasztaljuk. Ha nem megfelelően gyakorlunk ezen érzetek viszonyában, akkor bajokat tapasztalunk."
 
@@ -1475,10 +1475,10 @@ A széteső jelenségeket el nem hagyja,\
 
 ## A három Dharma-pecsét
 
-**A három Dharma pecsét** (dharmamudrā trilakṣaṇā 三法印):\
-1. **Minden összetett állandótlan** (sarvasaṃskārā anityāḥ 諸行無常)\
-2. **Minden dharma éntelen** (sarvadharmā anātmānaḥ 諸法無我)\
-3. **A nyugalom nirvána** (śāntaṃ nirvāṇaṃ 寂滅涅槃)
+**A három Dharma pecsét** (dharmamudrā trilakṣaṇā 三法印):\
+1. **Minden összetett állandótlan** (sarvasaṃskārā anityāḥ 諸行無常)\
+2. **Minden dharma éntelen** (sarvadharmā anātmānaḥ 諸法無我)\
+3. **A nyugalom nirvána** (śāntaṃ nirvāṇaṃ 寂滅涅槃)
 
 *„A három Dharma pecsét (Dharma mudrá) az állandótlanság (anitjá), az éntelenség (anátman), és a nirvána. Bármely tanítás, amelyik nem viseli ezt a három pecsétet, nem mondható a Buddha tanításának."*\
 
