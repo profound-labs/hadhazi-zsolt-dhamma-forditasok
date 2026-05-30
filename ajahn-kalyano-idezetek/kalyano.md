@@ -292,7 +292,7 @@ Ha tudatosabbak vagyunk és szemlélődünk, láthatjuk, hogy akár egyetlen med
 
 Még a Buddha is szenvedett, abban az értelemben, hogy voltak kínjai, fájdalmai, betegségei. Az öregedés fájdalmai. Hallott kellemetlen hangokat, amikor az őt nem kedvelő emberek odamentek és szidalmazták, veszekedtek vele. Tehát nem úgy van, hogy a Buddha semmi szenvedést nem tapasztalt, csak nem vette magára, nem hagyta az elméjét megérinteni azt, olyan értelemben, hogy ellenszenvvel reagáljon, ragaszkodjon hozzá, és teherként magára vegye. A hang csak hang volt, a fájdalmas érzetek csak fájdalmas érzetek."
 
-*Forrás: Knowing And Putting Down The Burdens Of The Mind by Tan Ajahn Kalyano, 55:15-56:45, 27 Nov 22*
+*Forrás: [Knowing And Putting Down The Burdens Of The Mind by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=uAxkt7m2Q8A), 55:15-56:45, 27 Nov 22*
 
 ## A bölcsesség nem tesz érzéketlenné
 
@@ -402,7 +402,7 @@ Ha a Dhammából indulunk ki, akkor is szomorú, hogy a szüleid megöregszenek,
 
 „Luangpó Cshá mindig azt mondta, ha megszilárdítottad a szammáditthit, a helyes nézetet, akkor a tapasztalataidra, a test és tudat tárgyaira mindig úgy tekintesz, úgy reflektálsz, mint mulandók, bajosak, személytelenek. Ezért sosem ragaszkodsz valamihez száz százalékig, még ha úgy is tűnik. Talán azt gondolod »lehet megvilágosodtam« -- nem biztos. Ezt mondaná Ácsán Cshá: »nem biztos«. Azt gondolod, folyamba lépett vagy -- nem biztos. Azt gondolod, arahant vagy, teljesen megvilágosodott -- nem biztos. Ez az, ami megszabadít a hibás nézettől. Nem biztos. Sose adj száz százalék bizalmat egy gondolatnak, egy nézetnek, egy véleménynek, egy tapasztalatnak, mert nem biztos. Akkor biztonságos talajon állsz. Amint az elméd megragadja, hogy ez én vagyok, megvilágosodott vagyok, ezt elértem, elértem a haláltalant, túljutottam születésen és halálon, lehet, hogy csak egy nézethez, egy hiedelemhez ragaszkodsz, ami még mindig énérzettel keveredik. Ezért ezt egy eszközként használjuk, hogy kétszeresen ellenőrizzük, vajon tényleg szabadok vagyunk a ragaszkodástól vagy nem. Nem biztos."
 
-*Forrás: Dhamma Question & Answer Session with Ajahn Kalyano, 23:05-24:34, 11 Feb 25*
+*Forrás: [Dhamma Question & Answer Session with Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=Mh8ZmXS5mFs), 23:05-24:34, 11 Feb 25*
 
 ## A kellemes élmények rejtett hátrányainak meglátása
 
@@ -476,7 +476,7 @@ De hogy eljussunk oda, gyakorolnunk kell, ki kell fejlesztenünk ezeket a minős
 
 „Tehát kifejlesztjük a nyugalmat, hogy segítsen meglátnunk a test, az elme, az érzések, a gondolatok igaz természetét. Tehát a nyugalomból bölcsességet nyersz. A Buddha kifejezése erre: nyánadasszana. A dasszana látást, tisztán látást jelent; a nyána azt, hogy tudással. Ez a célunk: tudással, megértéssel látni a dolgokat. Mert normálisan a tapasztalatainkat rosszul látjuk, rosszul tudjuk. Vagyis nem látjuk a mulandóságot, mindent megragadunk, mint én, önmagam, és aztán szenvedünk. De aki tisztán lát, tisztán tud, az nem szenved ugyanúgy. Azt mondja: a fájdalom kellemetlen, de keletkezik és megszűnik, nem egy személy, nem egy lény. Ez a test nem igazán egy személy vagy egy lény, csak elemek gyűjteménye, ugye? Föld, levegő, tűz, víz. A gondolatok és érzések nem igazán egy személy vagy egy lény, csak tudatállapotok, amik keletkeznek, elmúlnak. Ha képes vagy ezt látni, amikor az elméd nyugodt és csendes, látod, hogy ezek egyikében sincs egy személy, akkor szabad vagy. Az elméd hátra lép kicsit, nem szenved. Időnként úgy mondjuk, az elme az ürességbe megy. Nem alkot egy személyt vagy ént ennek a testnek és tudatnak a tapasztalatából. Másként mondva: senki nincs otthon. Mert nem építesz egy ént. Ha nincs én az elmében, üres, akkor nagyon békés, ugye? Ha meg tudod csinálni, intézheted a dolgaid üres elmével: sétálsz, eszel, meditálsz, ide mész, oda mész; nincs énérzet, akkor nagyon békés vagy. Nem egy halott, vagy hipnotizált, vagy furcsa állapotot értek ezalatt, hanem csak hogy az én érzete nem alakul ki a normális tapasztalatodban, mert elegendő belátásod van felismerni, hogy az egy téveszme. A Buddha kifejezése: szakkájaditthi; azt jelenti ragaszkodni az én nézethez, vagyis ezt a testet és tudatot énként tekinteni, egy állandó, rögzített énnek, miközben nem az. Tehát áttörsz ezen a téveszmén. Minden alkalommal, amikor meditálsz, elérsz erre a nyugodt helyre, és szemlélődsz az öt khandhád, a tested és tudatod mulandó természetén, akkor áttöröd az én téveszméjét, szétválasztod, látod, hogy amit eddig énnek vettünk, az nem egy én, az üresség, éntől üres. Ez a legmagasabb fajta belátás, amit elérhetsz. Megszabadító. Nagyon fontos a gyakorlásunk fejlődésében. De az éberség, nyugalom, majd a megfigyelés, a tapasztalatainkra tekintés kifejlesztéséből következik."
 
-*Forrás: Breaking Through The Delusion Of Self by Ajahn Kalyano, 45:43-46:54, 50:11-53:25, 13 Oct 24*
+*Forrás: [Breaking Through The Delusion Of Self by Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=7jaycTQFHiQ), 45:43-46:54, 50:11-53:25, 13 Oct 24*
 
 ## Az érzést érzésként megismerni
 
@@ -492,7 +492,7 @@ De hogy eljussunk oda, gyakorolnunk kell, ki kell fejlesztenünk ezeket a minős
 
 „A test visszataszítóságán vagy állandótlanságán szemlélődés mettát idézhet elő, mert felismered, te és mások pont ugyanolyanok vagytok. Ugyanaz a négy elem alkot minket, ugyanúgy szenvedünk, amikor ragaszkodunk ehhez a testhez és kötődünk az eszméhez, hogy ez én vagyok, mert azt akarod, hogy egészséges, boldog, maradandó legyen. Vagyis alapvetően örökké akarunk élni. Ez egy téveszme, de amikor lebontod ezt a téveszmét, kifejleszted a belátást erről a testről, akkor felismered, hogy mindenki ugyanolyan. Ez természetes módon előhozza a mások iránti kedvesség, részvét érzetét, mert látod, hogy van egyfajta egyetemes közösség köztünk és mások között. Tehát az egyik előny -- akár közvetlenül irányítod a tudatod a mettá kifejlesztésére a meditációban, akár az egy mellékterméke egy másfajta meditációdnak -- az egyik eredmény, hogy kifejleszted ezt az érzést, amiben mindenkit inkább rokonodnak látsz, semmint a preferenciáid követnéd, hogy ezt az embert szeretem, azt az embert nem szeretem, ez az ember az én csoportomban van, az az ember nem, és így tovább. Ténylegesen inkább rokonként látsz másokat, fivérekként és nővérekként, s ezt a hozzáállást nagyon egészséges kifejleszteni. Nyugalomban tartja a tudatod és valami közöst látsz mindenki mással a világon. Tehát a mettá egy fontos része a buddhista útnak a megvilágosodáshoz, ami naponta fejlesztendő testileg, beszédben, és tudatilag."
 
-*Forrás: Liberating Your Mind Through Kindness by Tan Ajahn Kalyano, Online Retreat Day 2 (Morning), 5:04-5:20, 12:40-13:18, 24:49-26:42*
+*Forrás: [Liberating Your Mind Through Kindness by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=kxh8gLju9mo), Online Retreat Day 2 (Morning), 5:04-5:20, 12:40-13:18, 24:49-26:42*
 
 ## A legfőbb boldogság a feltétel nélküli elme
 
@@ -500,7 +500,7 @@ De hogy eljussunk oda, gyakorolnunk kell, ki kell fejlesztenünk ezeket a minős
 
 Amikor új vagy, azt gondolod csodálatos és lenyűgöző, érdekel és lenyűgöz. Erről gondolkozol, beszélsz, felvillanyoz. De amikor szemlélődtél az aniccsa-dukkha-anattán, letépve a zavarodottság minden rétegét egészen addig, hogy ó, csak ennyi, akkor az nem sok. De amire emlékezned kell, hogy a tudat, ami ezt látja, az egy nagyon jó helyen levő tudat. Békés, tiszta, nem zavarodott. Ez a boldogság egy fajtája. Jobb mint az érzéki tapasztalatok boldogsága. Sőt, jobb mint a szamádhi békés állapotában lévő tudat boldogsága. A legfőbb boldogság a feltétel nélküli, a feltétel nélküli tudata. Natthi szantiparam szukham. A feltétel nélkülivel levő tudat, nem kötődő, úgy mondjuk: nem született, nem teremtett; ez az én elengedése, avagy elengedte az ént."
 
-*Forrás: The Highest Happiness is the Unconditioned Mind by Tan Ajahn Kalyano, 30:43-32:51, 31 Dec 21*
+*Forrás: [The Highest Happiness is the Unconditioned Mind by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=lp5mtrPKvN4), 30:43-32:51, 31 Dec 21*
 
 ## Átlátni az én téveszméjén minden tapasztalatban
 
@@ -508,7 +508,7 @@ Amikor új vagy, azt gondolod csodálatos és lenyűgöző, érdekel és lenyűg
 
 Tehát ez a Buddha útja ki a szenvedésből, és az elegendő világosság és belátás kifejlesztésére, hogy lássuk: a látásban csak a látás van, a hallásban csak hallás, a tudattal megismerésben, mint a gondolat, csak gondolat van. Nem építeni semmi többet a tapasztalatból. Észre fogod venni, hogy időnként képes vagy ezt elérni. Egyikünk képességeit sem haladja ez meg. Képesek vagyunk látni egy gondolatot, még egy nagyon kellemetlen gondolatot vagy reakciót is, keletkezni és elmúlni. Korábban is csináltuk, korábban is keletkezett és elmúlt, és képesek vagyunk újra megcsinálni. De a cél az, hogy teljes éberséggel és világossággal tegyük, hogy áttörjük az én tévképzetét, hogy lássuk a nem ént a tapasztalásunkban, mert ez megszabadít a szenvedés okaitól."
 
-*Forrás: Seeing Through the Delusion of Self in All Experiences by Tan Ajahn Kalyano, 35:30-38:08, 02 Apr 22. Lásd még: Ud 1.10, SN 35.95*
+*Forrás: [Seeing Through the Delusion of Self in All Experiences by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=iyCpEIlvL00), 35:30-38:08, 02 Apr 22. Lásd még: Ud 1.10, SN 35.95*
 
 ## Ha elfogadod a dolgokat, ahogy vannak, el tudsz engedni
 
@@ -516,7 +516,7 @@ Tehát ez a Buddha útja ki a szenvedésből, és az elegendő világosság és 
 
 Egy gondolatot egy pillanat alatt el lehet engedni, valaminek a negatív szemléletét el lehet engedni, egy kellemetlen érzéshez ragaszkodást el lehet hagyni egy pillanat alatt, egy ujjcsettintés alatt meg lehet tenni. De gyakorolnunk kell, oda kell figyelnünk rá, hogy ezt tegyük. Befele kell fordítsd a figyelmed, minthogy az éberség szépsége, vagy haszna, a figyelem megfordítása, hogy a saját elmédre nézz, semmint hogy elvessz odakint a világ dolgaiban, és a saját gondolataidban és észleléseidben a világról. A gondolatot gondolatként látod, mint ami keletkezik és elmúlik. Az érzést érzésként, keletkezik és elmúlik. Egy magasabb szintre viszi az elméd, egy magasabb tudatosságra. Ezért tudsz túljutni a stresszen és szenvedésen, még ha csak egy pár pillanatra is. Ha folytatod, egyre jobb leszel benne. Mondhatnád, hogy a Buddha vagy egy megvilágosodott személy csak folytatja addig, amíg tökélyre nem fejleszti. Többé nem vesznek el azokban a gondolatokban, amik a stresszt és szenvedést táplálják. Annak látják őket, amik, ezért szabadok, megszabadultak."
 
-*Forrás: When You Accept The Way Things Are You Can Let Go by Tan Ajahn Kalyano, 36:10-38:44, 30 Jul 22*
+*Forrás: [When You Accept The Way Things Are You Can Let Go by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=odmDK4e88kQ), 36:10-38:44, 30 Jul 22*
 
 ## Az egykedvűség nem ridegség
 
@@ -526,13 +526,13 @@ A képzetlen tudat mindent az énjének vesz. Mindent birtoklunk, minden apró d
 
 A Buddha útja az éberség megalapozása, az egykedvűség fenntartása. Tudatában lehetsz, hogy a dicséret az dicséret, a szidalom az szidalom, a kellemes az kellemes, a fájdalom az fájdalom, de ne vessz el benne. Tartsd meg az egykedvűséget! Ehhez szükséged van az éberségre, és a rálátásra, hogy ez mulandó, nem én, csak egy világi körülmény."
 
-*Forrás: The Happiness Of Samadhi by Tan Ajahn Kalyano, Online Retreat Day 2 (Evening), 41:29-43:26*
+*Forrás: [The Happiness Of Samadhi by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=Biw7Q3gFtRg), Online Retreat Day 2 (Evening), 41:29-43:26*
 
 ## Nem a kellemetlenségeket, hanem a ragaszkodást engedd el
 
 „Nem célunk a világ minden kellemetlen dolgától megszabadulni, az lehetetlen lenne. Meghalnál, mielőtt sikerülne, mert lehetetlen. A célod, hogy elég éber legyél ahhoz, hogy felismerd azokat, mint állandótlan, szenvedés, nem én, mert akkor nem ragaszkodsz hozzájuk, nem veszed fel és nem teremtesz szenvedést a tudatodban."
 
-*Forrás: Knowing When To Calm Your Mind And When To Contemplate by Tan Ajahn Kalyano, 40:01-40:21, 11 Aug 24*
+*Forrás: [Knowing When To Calm Your Mind And When To Contemplate by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=B8CTus8aNfo), 40:01-40:21, 11 Aug 24*
 
 ## Megismerés túlgondolás nélkül
 
@@ -596,7 +596,7 @@ A ragaszkodás miatt szenvedünk. Ragaszkodunk az én eszméjéhez, mint amit a 
 
 „Annyiszor hallani embereket: »Nem kell meditálnom, egyáltalán nem szenvedek.« A szerzetesek mindig nevetnek, amikor ezt hallják, mert szinte látni minden nap minden pillanatában az embereket szenvedni. Ha igazán figyelmesen nézel, láthatod saját magad és másokat szenvedni. Akik ilyet mondanak, nem néznek elég alaposan. Csak vársz egy pár pillanatot, és változtatniuk kell a testhelyzetükön, mert fáj valahol a testük. Ez máris szenvedés."
 
-*Forrás: The Heart That Knows by Tan Ajahn Kalyano, 19:49-20:19, 10 Mar 24*
+*Forrás: [The Heart That Knows by Tan Ajahn Kalyano (youtube.com)](https://www.youtube.com/watch?v=GcIyquzSI8w), 19:49-20:19, 10 Mar 24*
 
 ## Hála a nibbánáért
 
