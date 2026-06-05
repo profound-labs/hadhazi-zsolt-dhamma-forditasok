@@ -1,7 +1,7 @@
 all:
 	pandoc \
-		--output "Dharma Idézetek.epub" \
+		--output "Dharma Tanítások.epub" \
 		--css "../assets/stylesheets/output-epub.css" \
 		title.txt \
 		dharma.md && \
-	~/bin/epubcheck "Dharma Idézetek.epub"
+	~/bin/epubcheck "Dharma Tanítások.epub"

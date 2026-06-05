@@ -1,6 +1,7 @@
 ---
-title: Dharma Idézetek
+title: Dharma Tanítások
 author: Különféle Forrásokból
 lang: hu
 keywords: Dhamma, buddhism, RELIGION / Buddhism / Theravada
+cover-image: cover.jpg
 ...

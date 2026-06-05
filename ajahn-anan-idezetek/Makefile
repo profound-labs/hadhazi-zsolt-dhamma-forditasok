@@ -1,7 +1,7 @@
 all:
 	pandoc \
-		--output "Ácsán Ánán Idézetek.epub" \
+		--output "Ácsán Ánán Tanításai.epub" \
 		--css "../assets/stylesheets/output-epub.css" \
 		title.txt \
 		anan.md && \
-	~/bin/epubcheck "Ácsán Ánán Idézetek.epub"
+	~/bin/epubcheck "Ácsán Ánán Tanításai.epub"

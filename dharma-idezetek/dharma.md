@@ -1,6 +1,186 @@
-# Dharma Idézetek
+# Dharma Tanítások
 
-## Az elme megtisztítása az éberség alapjaival
+## Tartalom
+
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+
+- [Az elme megtisztítása az éberség alapjaival](#az-elme-megtiszttsa-az-bersg-alapjaival)
+- [Sürgősség ébredése a hanyag vándorlás után](#srgssg-bredse-a-hanyag-vndorls-utn)
+- [A világ mint korsó és habcsomó](#a-vilg-mint-kors-s-habcsom)
+- [Cselekvő nélküli tettek a testben](#cselekv-nlkli-tettek-a-testben)
+- [Nem minden remete érte el a végső célt](#nem-minden-remete-rte-el-a-vgs-clt)
+- [Amit közvetlen tudásból tanítottam](#amit-kzvetlen-tudsbl-tantottam)
+- [Maradj középen – a vagyon, ami harap](#maradj-kzpen--a-vagyon-ami-harap)
+- [A szennyeződések elhomályosítják az érzékelést](#a-szennyezdsek-elhomlyostjk-az-rzkelst)
+- [A három világ csak az elme](#a-hrom-vilg-csak-az-elme)
+- [Az ősi buddhák tudata](#az-si-buddhk-tudata)
+- [A világ kielégíthetetlen, a sóvárgás rabja](#a-vilg-kielgthetetlen-a-svrgs-rabja)
+- [Pszichoszomatikus kondíciók halmaza](#pszichoszomatikus-kondcik-halmaza)
+- [Érintés a ragaszkodástól függ](#rints-a-ragaszkodstl-fgg)
+- [A helyes nézet öt támogató tényezője](#a-helyes-nzet-t-tmogat-tnyezje)
+- [A kifejezhetőn túl](#a-kifejezhetn-tl)
+- [Egyetlen tárgyon szemlélődő szív](#egyetlen-trgyon-szemlld-szv)
+- [Mi a kialvás?](#mi-a-kialvs)
+- [Remetelátogatás a fenyvesben](#remeteltogats-a-fenyvesben)
+- [A szennyeződések eltávolíthatók](#a-szennyezdsek-eltvolthatk)
+- [A hívő tanítvány erőfeszítése](#a-hv-tantvny-erfesztse)
+- [A helyes gyakorlás](#a-helyes-gyakorls)
+- [Otthonlakó és hontalan a helyes tanban](#otthonlak-s-hontalan-a-helyes-tanban)
+- [Amit a világ boldogságnak lát, a nemesek szenvedésnek](#amit-a-vilg-boldogsgnak-lt-a-nemesek-szenvedsnek)
+- [Soha nem elégít ki semmi látott alak](#soha-nem-elgt-ki-semmi-ltott-alak)
+- [Minden csak elme-találmány](#minden-csak-elme-tallmny)
+- [Megjelenő, mégis üres, mint a szivárvány](#megjelen-mgis-res-mint-a-szivrvny)
+- [Az oroszlán kölyke](#az-oroszln-klyke)
+- [A tíz erény és a hat tökéletesség](#a-tz-erny-s-a-hat-tkletessg)
+- [A valódi gyakorlás helye](#a-valdi-gyakorls-helye)
+- [Öt fontos szutta a megvilágosodáshoz](#t-fontos-szutta-a-megvilgosodshoz)
+- [A gondolat felismerése keletkezésekor](#a-gondolat-felismerse-keletkezsekor)
+- [Csak tetteid követnek a halálban](#csak-tetteid-kvetnek-a-hallban)
+- [A négy nemes igazság: mi micsoda](#a-ngy-nemes-igazsg-mi-micsoda)
+- [Tekints a világra úgy, mint az időjárásra](#tekints-a-vilgra-gy-mint-az-idjrsra)
+- [A dukkha, ami megszünteti a dukkhát](#a-dukkha-ami-megsznteti-a-dukkht)
+- [A négy fény közül legjobb a bölcsesség](#a-ngy-fny-kzl-legjobb-a-blcsessg)
+- [A bölcsesség fénye eljött a világba](#a-blcsessg-fnye-eljtt-a-vilgba)
+- [A Buddha testének bölcsesség-fénye](#a-buddha-testnek-blcsessg-fnye)
+- [Mulandóság, szenvedés, üresség](#mulandsg-szenveds-ressg)
+- [A tanító megütötte](#a-tant-megttte)
+- [Az igazi én a nem-én](#az-igazi-n-a-nem-n)
+- [Egy ember csontjainak hegye](#toc-egy-ember-csontjainak-hegye)
+- [Az öt halmaz elengedése](#az-t-halmaz-elengedse)
+- [Az »én« és az »enyém« téves hiedelme](#az-n-s-az-enym-tves-hiedelme)
+- [Betekintés a tudat lényegébe](#betekints-a-tudat-lnyegbe)
+- [Az érzékszervek mind tanítóvá válnak](#az-rzkszervek-mind-tantv-vlnak)
+- [Az érzékterületek: a buddhizmus ábécéje](#az-rzkterletek-a-buddhizmus-bcje)
+- [Üresség az itt lévő dolgokban](#ressg-az-itt-lv-dolgokban)
+- [Támaszkodj a szellemi barátra!](#tmaszkodj-a-szellemi-bartra)
+- [Az erényes szellemi barát](#az-ernyes-szellemi-bart)
+- [Miért imádkozunk a bódhiszattvákhoz?](#mirt-imdkozunk-a-bdhiszattvkhoz)
+- [Az érzéki élvezetek csekély kielégülése](#az-rzki-lvezetek-csekly-kielglse)
+- [A formátlannál a megszűnés békésebb](#a-formtlannl-a-megszns-bksebb)
+- [Még a »kialudt vagyok« is ragaszkodás](#mg-a-kialudt-vagyok-is-ragaszkods)
+- [Az otthonlakó kötelessége](#az-otthonlak-ktelessge)
+- [Két hibás nézet az okok nem-látásáról](#kt-hibs-nzet-az-okok-nem-ltsrl)
+- [A gondolatok mint múló jelenségek](#a-gondolatok-mint-ml-jelensgek)
+- [Hirtelen felébredés, fokozatos gyakorlás](#hirtelen-felbreds-fokozatos-gyakorls)
+- [A hanyatlás és a felemelkedés elvei](#a-hanyatls-s-a-felemelkeds-elvei)
+- [Hátráltató és előrevivő beszéd témák](#htrltat-s-elreviv-beszd-tmk)
+- [A gyakorlás az elengedéshez vezet](#a-gyakorls-az-elengedshez-vezet)
+- [Az emberi élet rövidsége](#az-emberi-let-rvidsge)
+- [Szeretettel minden lény iránt](#szeretettel-minden-lny-irnt)
+- [Minden lény halandó – tégy jót!](#minden-lny-haland--tgy-jt)
+- [A feltételek megbízhatatlansága](#a-felttelek-megbzhatatlansga)
+- [A valódi ellenség: a harag](#a-valdi-ellensg-a-harag)
+- [A hét nemes kincs](#a-ht-nemes-kincs)
+- [Az én, mint a meddő nő fia](#az-n-mint-a-medd-n-fia)
+- [A nem buddhista én cáfolata](#a-nem-buddhista-n-cfolata)
+- [A világi ember nyolc minősége](#a-vilgi-ember-nyolc-minsge)
+- [Öt szemlélődés a kiábránduláshoz](#t-szemllds-a-kibrndulshoz)
+- [Csak zuhogjatok, ti mennyek!](#toc-csak-zuhogjatok-ti-mennyek)
+- [Ahogy jöttek, úgy mentek – minek bánkódni?](#ahogy-jttek-gy-mentek--minek-bnkdni)
+- [Bizalom a legjobbban](#toc-bizalom-a-legjobbban)
+- [Négy dolog, amit senki sem biztosíthat](#ngy-dolog-amit-senki-sem-biztosthat)
+- [A meditáció: az elme megszelídítése](#a-meditci-az-elme-megszeldtse)
+- [Nem vagyok az a múlt – a változás szabadsága](#nem-vagyok-az-a-mlt--a-vltozs-szabadsga)
+- [Éberség az evésben és az ízen](#bersg-az-evsben-s-az-zen)
+- [Az egész tanítás megtartása](#az-egsz-tants-megtartsa)
+- [Közvetlen tudással tanítok](#kzvetlen-tudssal-tantok)
+- [A két igazság](#a-kt-igazsg)
+- [Boldogság! Szenvedés!](#boldogsg-szenveds)
+- [A testet ragadó gondolat szenvedést hoz](#a-testet-ragad-gondolat-szenvedst-hoz)
+- [A megkötők: élvezetesnek vagy unalmasnak látni](#a-megktk-lvezetesnek-vagy-unalmasnak-ltni)
+- [Az éberség és a helyes erőfeszítés kertje](#az-bersg-s-a-helyes-erfeszts-kertje)
+- [Rossz tettből nem jön kellemes következmény](#rossz-tettbl-nem-jn-kellemes-kvetkezmny)
+- [Tett és eredmény elkerülhetetlen megfelelése](#tett-s-eredmny-elkerlhetetlen-megfelelse)
+- [Egykedvűség: se pesszimizmus, se optimizmus](#egykedvsg-se-pesszimizmus-se-optimizmus)
+- [Rövid szünetek a jelen pillanatba](#rvid-sznetek-a-jelen-pillanatba)
+- [Csen tartományban nagy retek terem](#csen-tartomnyban-nagy-retek-terem)
+- [Az igazi buddha odabent ül](#az-igazi-buddha-odabent-l)
+- [Nincs senki a gondolatok mögött](#nincs-senki-a-gondolatok-mgtt)
+- [Úgy látni a dolgokat, ahogy vannak](#gy-ltni-a-dolgokat-ahogy-vannak)
+- [Az érzéstől a viszálykodásig](#az-rzstl-a-viszlykodsig)
+- [A vedanā szemlélése](#a-vedan-szemllse)
+- [A szenvedés vége: az üresség felismerése](#a-szenveds-vge-az-ressg-felismerse)
+- [Aki nem szegény](#aki-nem-szegny)
+- [Ne hozzám járulj menedékért!](#ne-hozzm-jrulj-menedkrt)
+- [A folytonosság félreértése](#a-folytonossg-flrertse)
+- [A halmaz valótlan, mint a füzér](#a-halmaz-valtlan-mint-a-fzr)
+- [A folytonosság káprázata](#a-folytonossg-kprzata)
+- [A három érzés és a rejtett hajlamok](#a-hrom-rzs-s-a-rejtett-hajlamok)
+- [A függő keletkezés és a figyelmesség](#a-fgg-keletkezs-s-a-figyelmessg)
+- [A három Dharma-pecsét](#a-hrom-dharma-pecst)
+- [A három pecsét: az én elpusztítása](#a-hrom-pecst-az-n-elpuszttsa)
+- [Az összetett dharmák állandótlanok](#az-sszetett-dharmk-llandtlanok)
+- [Boldog vég dal](#boldog-vg-dal)
+- [A négy pecsét: a tanítás jelei](#a-ngy-pecst-a-tants-jelei)
+- [Az üresség széttörése](#az-ressg-szttrse)
+- [A világ hatban keletkezett](#a-vilg-hatban-keletkezett)
+- [A jól mondott beszéd](#a-jl-mondott-beszd)
+- [Kedves és nem kedves hangok](#kedves-s-nem-kedves-hangok)
+- [Ki hallja a zajt?](#toc-ki-hallja-a-zajt)
+- [A harag levágása](#a-harag-levgsa)
+- [Oda, ahol nincs változás](#oda-ahol-nincs-vltozs)
+- [Aludj hangban és formában!](#aludj-hangban-s-formban)
+- [Ne kövesd a tárgyakat, ne maradj az ürességben!](#ne-kvesd-a-trgyakat-ne-maradj-az-ressgben)
+- [A megvetés feladása](#a-megvets-feladsa)
+- [A tudat: pillanatnyi folyamatok sorozata](#toc-a-tudat-pillanatnyi-folyamatok-sorozata)
+- [A tudat keletkezése: szemtől és alaktól függ](#a-tudat-keletkezse-szemtl-s-alaktl-fgg)
+- [A tudat, mint káprázat](#a-tudat-mint-kprzat)
+- [Három tanító nézete az énről](#hrom-tant-nzete-az-nrl)
+- [Az öt előírás: az erény kifejlesztése](#az-t-elrs-az-erny-kifejlesztse)
+- [Mennyei dicséret a Buddhának](#mennyei-dicsret-a-buddhnak)
+- [Nincs tudat – üres, mint a délibáb](#nincs-tudat--res-mint-a-dlibb)
+- [A buddhák tanítása (Ovāda-páṭimokkha)](#a-buddhk-tantsa-ovda-pimokkha)
+- [A hang elvágva](#a-hang-elvgva)
+- [Még több jég a hóra](#mg-tbb-jg-a-hra)
+- [Még Mahábrahmá is átalakul](#mg-mahbrahm-is-talakul)
+- [A holdra mutató ujj](#a-holdra-mutat-ujj)
+- [Az összetett jelenségek szemlélése](#az-sszetett-jelensgek-szemllse)
+- [Tíz fiút szültem, majd szabaddá lettem](#tz-fit-szltem-majd-szabadd-lettem)
+- [A tavasz tavasznak érződik](#a-tavasz-tavasznak-rzdik)
+- [Adj a békéseknek!](#adj-a-bkseknek)
+- [A sárkányok és a felébredési tényezők](#a-srknyok-s-a-felbredsi-tnyezk)
+- [A hét felébredési tényező](#a-ht-felbredsi-tnyez)
+- [Az oroszlán bömbölése](#az-oroszln-bmblse)
+- [Minden dharma célja: az énhez ragaszkodás csökkentése](#minden-dharma-clja-az-nhez-ragaszkods-cskkentse)
+- [Sem létesüléssel, sem nemlétesüléssel nem szabadulsz](#sem-lteslssel-sem-nemlteslssel-nem-szabadulsz)
+- [A tudat eleve üres](#a-tudat-eleve-res)
+- [A Buddha felidézése](#a-buddha-felidzse)
+- [Helyesen látni az érzéseket](#helyesen-ltni-az-rzseket)
+- [Lát, de nem vágyik](#lt-de-nem-vgyik)
+- [A bölcsesség: a három méreg elengedése](#a-blcsessg-a-hrom-mreg-elengedse)
+- [A félelemtől való szabadság ajándéka](#a-flelemtl-val-szabadsg-ajndka)
+- [A tehénszarv fejése – a helytelen út](#a-tehnszarv-fejse--a-helytelen-t)
+- [Kétféle betegség: testi és tudati](#ktfle-betegsg-testi-s-tudati)
+- [A függő keletkezés megértése](#a-fgg-keletkezs-megrtse)
+- [Az erény és a bölcsesség](#az-erny-s-a-blcsessg)
+- [Ahogy én, úgy ők](#ahogy-n-gy-k)
+- [Amit magadnak nem kívánsz](#amit-magadnak-nem-kvnsz)
+- [Disszociáció vagy éberség?](#disszocici-vagy-bersg)
+- [A sehol sem időző tudat](#a-sehol-sem-idz-tudat)
+- [A káros dolgok elhagyásáért tanítom](#a-kros-dolgok-elhagysrt-tantom)
+- [Kútmélyi béka lenyeli a holdat](#ktmlyi-bka-lenyeli-a-holdat)
+- [Miért nyeli le a béka a holdat?](#mirt-nyeli-le-a-bka-a-holdat)
+- [Az öt halmaz épp most a tiszta nirvána](#az-t-halmaz-pp-most-a-tiszta-nirvna)
+- [A négy idő](#a-ngy-id)
+- [A Dhamma megfelelő időben való hallgatásának öt haszna](#a-dhamma-megfelel-idben-val-hallgatsnak-t-haszna)
+- [Mindenki a boldogságot keresi](#mindenki-a-boldogsgot-keresi)
+- [A tudat figyelése](#a-tudat-figyelse)
+- [Saját egészségünk apasztja a világ tüzeit](#sajt-egszsgnk-apasztja-a-vilg-tzeit)
+- [A nézetekhez ragaszkodás kammája](#a-nzetekhez-ragaszkods-kammja)
+- [A gondolat tudatosítása megszünteti a gondolkodást](#a-gondolat-tudatostsa-megsznteti-a-gondolkodst)
+- [Csak föld, víz, tűz, szél](#csak-fld-vz-tz-szl)
+- [Belátás a három jellegbe](#belts-a-hrom-jellegbe)
+- [Nyugalom és különleges felismerés](#nyugalom-s-klnleges-felismers)
+- [A Dhamma egy tó](#a-dhamma-egy-t)
+- [A Buddhát a függő keletkezés látásával látjuk](#a-buddht-a-fgg-keletkezs-ltsval-ltjuk)
+- [Három feltétel a nibbána tapasztalásához](#hrom-felttel-a-nibbna-tapasztalshoz)
+- [Helyes gyakorlás világiaknak és lemondottaknak](#helyes-gyakorls-vilgiaknak-s-lemondottaknak)
+- [Az üdvös minőségek kezdete: erkölcs és helyes nézet](#az-dvs-minsgek-kezdete-erklcs-s-helyes-nzet)
+- [Licenc](#toc-licenc)
+
+<!-- markdown-toc end -->
+
+## Az elme megtisztítása az éberség alapjaival<span id="az-elme-megtiszttsa-az-bersg-alapjaival"> </span>
 
 „A függő keletkezés (paṭiccasamuppāda) és a három jelleg (tilakkhaṇa) tanításainak szemszögéből levonható a következtetés, hogy kezdetben a legtöbb ember nem tud a tényről, hogy az úgynevezett én, amihez ragaszkodnak, végső soron nem létezik. Az emberek csupán rengeteg összekapcsolódó és összefüggő testi és tudati jelenségek folyamataként léteznek, melyek keletkeznek, átalakulnak, és eloszlanak.
 
@@ -16,7 +196,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: [Buddhadhamma: The Laws of Nature and Their Benefits to Life by Bhikkhu P. A. Payutto (buddhadhamma.github.io)](https://buddhadhamma.github.io/path-factors-of-concentration.html), chapter 18*
 
-## Sürgősség ébredése a hanyag vándorlás után
+## Sürgősség ébredése a hanyag vándorlás után<span id="srgssg-bredse-a-hanyag-vndorls-utn"> </span>
 
 *„Meggyőződésből mentem el*\
 *Otthonból hontalanságba.*\
@@ -41,7 +221,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: Mittākāḷītherīgāthā, Thig 5.6*
 
-## A világ mint korsó és habcsomó
+## A világ mint korsó és habcsomó<span id="a-vilg-mint-kors-s-habcsom"> </span>
 
 *„Korsóként felfogva világot*\
 *Káprázatszerű gyors létezés*\
@@ -54,7 +234,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: The Scriptural Text: Verses of the Doctrine with Parables, BDK ed, p 68, T4n211p584c29-585a3; vö. Udānavarga 18.18-19, Dhammapada 4.46*
 
-## Cselekvő nélküli tettek a testben
+## Cselekvő nélküli tettek a testben<span id="cselekv-nlkli-tettek-a-testben"> </span>
 
 *„Vannak olyan bolondok,*\
 *Énnek hiszik testet, tudatot,*\
@@ -79,7 +259,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: Mahāprajñāpāramitāśāstra XXXVII.III; 大智度論 T25n1509p230c8-17*
 
-## Nem minden remete érte el a végső célt
+## Nem minden remete érte el a végső célt<span id="nem-minden-remete-rte-el-a-vgs-clt"> </span>
 
 - Minden remete és bráhmana egyazon tannal, erkölccsel, vággyal, és ragaszkodással rendelkezik?
 
@@ -99,7 +279,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: Sakkapañhasutta, DN 21:2.6.2-13*
 
-## Amit közvetlen tudásból tanítottam
+## Amit közvetlen tudásból tanítottam<span id="amit-kzvetlen-tudsbl-tantottam"> </span>
 
 „Alaposan megjegyezve, amiket közvetlen tudásomból tanítottam, ápoljátok, fejlesszétek, és vigyétek sokra azokat, hogy ez a szellemi élet hosszú ideig fennálljon! Az az emberek javára és boldogságára válik, a világ iránti együttérzésből, az istenek és emberek hasznára, jólétére, és boldogságára.
 
@@ -115,7 +295,7 @@ Ez a tökéletes tudati egészség állapota. Hasonló egy teljesen egészséges
 
 *Forrás: Mahāparinibbānasutta, DN 16:3.50.3-5*
 
-## Maradj középen – a vagyon, ami harap
+## Maradj középen – a vagyon, ami harap<span id="maradj-kzpen--a-vagyon-ami-harap"> </span>
 
 „Értsd meg légy szíves! Nem valaki más gondja. A probléma nem az, hogy mások szeretnek vagy utálnak minket. A többiek valahol távol nem kényszerítenek minket kammát és szenvedést gyártani. A tulajdonunk, otthonunk, családunk az, ahol oda kell figyelnünk. Vagy hogy gondolod? Mostanában hol tapasztalsz szenvedést? Hol szeretsz, utálsz, vagy félsz? Fegyelmezd magad, törődj magaddal! Figyelj, hogy ne harapjanak meg! Ha nem harapnak, akkor lehet, hogy rúgnak. Ne gondold, hogy nem fognak megharapni vagy megrúgni! Ha pedig megharapnak, akkor figyelj rá, hogy csak egy kicsit! Ne rúgjanak és harapjanak darabokra! Ne próbáld azt mondani magadnak, hogy nincs veszély! Tulajdon, gazdagság, hírnév, szerettek, ezek mind rúgnak és harapnak, ha nem vagy éber.
 
@@ -127,7 +307,7 @@ Felajánlásokat tenni, tanításokat hallgatni, meditációt gyakorolni, bármi
 
 *Forrás: About Being Careful, in The Collected Teachings of Ajahn Chah, p 64-65*
 
-## A szennyeződések elhomályosítják az érzékelést
+## A szennyeződések elhomályosítják az érzékelést<span id="a-szennyezdsek-elhomlyostjk-az-rzkelst"> </span>
 
 „Az érzékszerveink elé kerülő tárgyak egyedüli szerepe az, hogy tudatunkban elindítsák az érzékelés folyamatát. A tudat ezután a felgyülemlett szokások és múltbéli élmények alapján, tehát teljesen szubjektív módon viszonyul az érzékelés tárgyához. Amikor a tudatot elöntik a harag hullámai, az egész világ pokolnak tűnik. Békés, ragaszkodástól és beidegződésektől mentes tudatállapotban, amikor tetteink a tanításokat követik, mindent eredendően tisztának érzékelünk. A buddhák még a poklot is mennyországnak látják, az elhomályosult tudat számára azonban a mennyország is pokolnak tűnik.
 
@@ -137,7 +317,7 @@ A ragaszkodás meghaladása érdekében fontos, hogy világosan megértsük az �
 
 *Forrás: Patrul Rinpocse: A megvilágosodás ékköve, 42. v., 126-127. o., Erdődy Gábor ford.*
 
-## A három világ csak az elme
+## A három világ csak az elme<span id="a-hrom-vilg-csak-az-elme"> </span>
 
 *„Hasonlatokkal megvilágítottam az üresség jelentését,*\
 *Ezért tudd: a három világ csak az elme.*\
@@ -160,7 +340,7 @@ A ragaszkodás meghaladása érdekében fontos, hogy világosan megértsük az �
 
 *Forrás: The Mahayana Sutra of Previous Lives and Contemplation of the Mind-ground, p 191-192; T3n159p328a16-24*
 
-## Az ősi buddhák tudata
+## Az ősi buddhák tudata<span id="az-si-buddhk-tudata"> </span>
 
 - Mi az ősi buddhák tudata? - kérdezte egy szerzetes.
 
@@ -172,7 +352,7 @@ A ragaszkodás meghaladása érdekében fontos, hogy világosan megértsük az �
 
 *Forrás: Records of the Transmission of the Lamp, vol 4, 17.464; T51n2076p342b25-27*
 
-## A világ kielégíthetetlen, a sóvárgás rabja
+## A világ kielégíthetetlen, a sóvárgás rabja<span id="a-vilg-kielgthetetlen-a-svrgs-rabja"> </span>
 
 - Azt mondta, hogy a világ nélkülöző, kielégíthetetlen, a sóvárgás rabja. Hogy értsem ezt a kijelentést?
 
@@ -192,7 +372,7 @@ A ragaszkodás meghaladása érdekében fontos, hogy világosan megértsük az �
 
 *Forrás: Raṭṭhapālasutta, MN 82*
 
-## Pszichoszomatikus kondíciók halmaza
+## Pszichoszomatikus kondíciók halmaza<span id="pszichoszomatikus-kondcik-halmaza"> </span>
 
 „Minden testi jelenség egynél több ok eredménye. Ami fontos itt, hogy a testben semmi sem áll magában, úgy, hogy az ne okok következménye lenne. Az olvasó esetleg nem ért azonnal egyet azzal, hogy az elménk (tudatunk) minden része csupán okok kombinációjának eredménye, de a lényegi értelme ennek, hogy az elme egy része sem áll magában ok nélkül. Ha ezt elfogadjuk, akkor látjuk, hogy az emberek egyszerűen pszichoszomatikus kondíciók halmazai. Amikor az instabil pszichoszomatikus kondíciók e halmaza tudatlanul fogja fel magát, létrejön az én és az enyém fogalma.
 
@@ -200,7 +380,7 @@ Az én sóvárog és viszolyog. Amikor a sóvárgást kielégítik, az eredmény
 
 *Forrás: [A Buddhist Perspective on Pain, Stress and Illness by Bhikkhu Sumedha (buddhasasana.net)](https://bhikkhu-sumedha.buddhasasana.net/perspective/perspective.htm), ch 1*
 
-## Érintés a ragaszkodástól függ
+## Érintés a ragaszkodástól függ<span id="rints-a-ragaszkodstl-fgg"> </span>
 
 *„Jó vagy fájó érint falun és kívül:*\
 *Ne magadtól vagy mástól valónak vedd!*\
@@ -209,13 +389,13 @@ Az én sóvárog és viszolyog. Amikor a sóvárgást kielégítik, az eredmény
 
 *Forrás: Sakkārasutta, Ud 2.4*
 
-## A helyes nézet öt támogató tényezője
+## A helyes nézet öt támogató tényezője<span id="a-helyes-nzet-t-tmogat-tnyezje"> </span>
 
 *„Ha a helyes nézetet öt tényező támogat, a gyümölcse és haszna a tudat szabadsága és a bölcsességgel megszabadulás. Milyen öt? Az, amikor a helyes nézetet erényesség, tanulás, megbeszélés, nyugalom, és belátás támogat. Ha a helyes nézetet ez az öt tényező támogatja, a gyümölcse és haszna a tudat szabadsága és a bölcsességgel megszabadulás."*
 
 *Forrás: Anuggahitasutta, AN 5.25*
 
-## A kifejezhetőn túl
+## A kifejezhetőn túl<span id="a-kifejezhetn-tl"> </span>
 
 *„Kifejezhetőt észlelő lényeknek*\
 *A kifejezhető lesz támasztékuk.*\
@@ -232,7 +412,7 @@ Az én sóvárog és viszolyog. Amikor a sóvárgást kielégítik, az eredmény
 
 *Forrás: Addhāsutta, Iti 63; vö. SN 1.20*
 
-## Egyetlen tárgyon szemlélődő szív
+## Egyetlen tárgyon szemlélődő szív<span id="egyetlen-trgyon-szemlld-szv"> </span>
 
 „Olyan, mint egy fatönk: csak egyetlen ember ülhet rá. Ha már valaki ül rajta, hiába vannak ott sokan mások, nem tudnak sehova ülni. Az élőlények természete szintén egyetlen: ha az egyetlen szív egyetlen tárgyon szemlélődik, hiába vannak sokan a szív szennyeződései, nem szennyezhetik azon a szinten a szívet.
 
@@ -240,7 +420,7 @@ Ezért kell megtisztítani a szívünket egyetlen kammaṭṭhānán való medit
 
 *Forrás: [Saṅkhittʼovād: Discourses in Brief by Somdet Phra Wanrut (Tup Buddhasiri) (vimokkharam.org)](https://vimokkharam.org/uploads/translations/Sankhittovad.pdf), p 15*
 
-## Mi a kialvás?
+## Mi a kialvás?<span id="mi-a-kialvs"> </span>
 
 Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztelendő Száriputta, amikor a vándor Dzsambukhádaka odament hozzá, köszöntötték egymást, majd miután az üdvözlésnek és udvarias beszélgetésnek vége volt, leült az egyik oldalra és így szólt Száriputtához:
 
@@ -260,7 +440,7 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: Nibbānapañhāsutta, SN 38.1*
 
-## Remetelátogatás a fenyvesben
+## Remetelátogatás a fenyvesben<span id="remeteltogats-a-fenyvesben"> </span>
 
 (Csongho Hjudzsong)
 
@@ -271,25 +451,25 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: Collected Works of Korean Buddhism, vol 9, p 332*
 
-## A szennyeződések eltávolíthatók
+## A szennyeződések eltávolíthatók<span id="a-szennyezdsek-eltvolthatk"> </span>
 
 „A képzetlen elme sokféle olyan tudatállapotnak esik áldozatul, amik beszennyezik természetes ragyogását. Ezek közé tartoznak a kapzsiság, irigység, harag, utálat és ellenségesség, tompaság és zaklatottság, önelégültség, zavarodottság, önteltség, megvetés és önhittség, és a nézetekhez és hiedelmekhez való vak ragaszkodás különböző formái. Szerencsére ezen tudatállapotok egyike sincs bevésve az elmébe, mindegyik eltávolítható a nyolcrétű út gyakorlásával. Ezeket a negatív, káros tudatállapotokat hívják páliul kilészának, amit szennyeződéseknek szokás fordítani."
 
 *Forrás: Without and Within – Questions and Answers on the Teachings of Theravāda Buddhism by Ajahn Jayasaro, p 66*
 
-## A hívő tanítvány erőfeszítése
+## A hívő tanítvány erőfeszítése<span id="a-hv-tantvny-erfesztse"> </span>
 
 „A nemes tanítvány, aki biztos és odaadó a Beérkezett iránt, kétely és bizonytalanság nélkül van a Beérkezett és az útmutatásai felé. Egy ilyen hívő nemes tanítványtól elvárható, hogy erőfeszítést tesz a káros minőségek feladásáért és az üdvös minőségek gyarapításáért. Hogy erős, rendületlenül erélyes, nem renyhe az üdvös minőségek kifejlesztésében."
 
 *Forrás: Āpaṇasutta, SN 48.50*
 
-## A helyes gyakorlás
+## A helyes gyakorlás<span id="a-helyes-gyakorls"> </span>
 
 „Hibás gyakorlás miatt nem sikeresek sem világiak, sem világról lemondottak az üdvös tanítás rendszerében. A helyes gyakorlást dicsérem világiaknak és világról lemondottaknak. Helyes gyakorlás miatt sikeresek világiak és világról lemondottak az üdvös tanítás rendszerében. És mi a helyes gyakorlás? Helyes nézet, helyes elhatározás, helyes beszéd, helyes cselekvés, helyes életvitel, helyes törekvés, helyes éberség, helyes összeszedettség. Ezt hívják helyes gyakorlásnak."
 
 *Forrás: Dutiyapaṭipadāsutta, SN 45.24*
 
-## Otthonlakó és hontalan a helyes tanban
+## Otthonlakó és hontalan a helyes tanban<span id="otthonlak-s-hontalan-a-helyes-tanban"> </span>
 
 *„Otthon lakó és hontalan*\
 *Rosszul végzett gyakorlatban*\
@@ -302,7 +482,7 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: Saṁyuktāgama 751, T2n99p198c22-25*
 
-## Amit a világ boldogságnak lát, a nemesek szenvedésnek
+## Amit a világ boldogságnak lát, a nemesek szenvedésnek<span id="amit-a-vilg-boldogsgnak-lt-a-nemesek-szenvedsnek"> </span>
 
 *„Látvány, hangok, ízek, szagok,*\
 *Érintés, gondolat - mindük*\
@@ -339,7 +519,7 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: Paṭhamarūpārāmasutta, SN 35.136*
 
-## Soha nem elégít ki semmi látott alak
+## Soha nem elégít ki semmi látott alak<span id="soha-nem-elgt-ki-semmi-ltott-alak"> </span>
 
 *„A korszak végén, mikor éget a nap,*\
 *Még az óceánok is kiszáradnak,*\
@@ -348,7 +528,7 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: The Application of Mindfulness of the Sacred Dharma, 4.B.477*
 
-## Minden csak elme-találmány
+## Minden csak elme-találmány<span id="minden-csak-elme-tallmny"> </span>
 
 *„Mint esőfelhők tornyai,*\
 *Égi várak és szivárvány,*\
@@ -357,13 +537,13 @@ Egyszer Magadha országában, a Nálaka falu közelében tartózkodott a tisztel
 
 *Forrás: Lankávatára szútra, 10.682; T16n671p581b24-25*
 
-## Megjelenő, mégis üres, mint a szivárvány
+## Megjelenő, mégis üres, mint a szivárvány<span id="megjelen-mgis-res-mint-a-szivrvny"> </span>
 
 „Minden úgy keletkezik, mint egy álomban vagy bűvésztrükkben. Olyan, mint a szivárvány, ami, bár tisztán megjelenik az égen, nem szilárd. Megjelenő, mégis üres. De üressége és megjelenése nem két külön jelleg. Nem az van, hogy egyrészt jelen van a szivárvány, és másrészt üres. A szivárvány egyszerre megjelenő és üres, és nincs másik üresség, mint maga a szivárvány. Ugyanez igaz szamszára és nirvána minden jelenségére: megjelenésük pillanatától fogva üresek."
 
 *Forrás: Zurchungpa's Testament by Dilgo Khyentse Rinpohce, p 161-162*
 
-## Az oroszlán kölyke
+## Az oroszlán kölyke<span id="az-oroszln-klyke"> </span>
 
 Egy látogató szerzeteshez így szólt Liaoran:
 
@@ -377,7 +557,7 @@ A szerzetes nem válaszolt.
 
 *Forrás: Records of the Transmission of the Lamp, vol 3, 11.255; T51n2076p289a9-12*
 
-## A tíz erény és a hat tökéletesség
+## A tíz erény és a hat tökéletesség<span id="a-tz-erny-s-a-hat-tkletessg"> </span>
 
 „A dharma, amit meg szeretnék osztani veletek: ahhoz, hogy valóban gyakoroljuk a dharmát, ebben az időben, jelen elménkkel, elnyertük az emberi testet, mint alapot. Rendelkezünk az öt érzékszervvel. Olyan helyen születtünk, ahol az igaz dharma elterjedt. Ilyen alap a múltbeli életeinkben felhalmozott érdemekből született. Mielőtt halálos betegség sújtana minket, gyakorolnunk kell valamennyi dharmát. Ami fontos számunkra, az a tíz erénytelenség elhagyása és a tíz erény megvalósítása.
 
@@ -391,13 +571,13 @@ Nincs más dharmám, csak ez."
 
 *Forrás: A String of Pearls: A Collection of Dharma Talks by Lord Gampopa Sönam Rinchen, p 53-54*
 
-## A valódi gyakorlás helye
+## A valódi gyakorlás helye<span id="a-valdi-gyakorls-helye"> </span>
 
 „A legtöbben még mindig nem ismerik a meditációs gyakorlat lényegét. Azt gondolják, hogy a sétáló meditáció, az ülő meditáció, és a Dhamma beszédek hallgatása a gyakorlat. Ezek csak a gyakorlat külső formái. A valódi gyakorlat akkor történik, amikor az elme találkozik az érzéktárggyal. Itt kell gyakorolni, ahol az érzéki benyomás történik. Amikor olyat mondanak nekünk, amit nem szeretünk, akkor megsértődünk; ha pedig olyat mondanak, amit szeretünk, akkor örülünk. Ez a gyakorlat helye. Hogyan fogunk ezekkel gyakorolni? Ez a lényegi pont. Ha mindig csak futunk a boldogság után és a szenvedés elől, akkor halálunkig is gyakorolhatunk, soha nem látjuk meg a Dhammát. Ez haszontalan. Amikor megjelenik az élvezet és a fájdalom, hogyan fogjuk használni a Dhammát, hogy megszabaduljunk tőlük? Ez a gyakorlat értelme."
 
 *Forrás: The Collected Teachings of Ajahn Chah, p 169*
 
-## Öt fontos szutta a megvilágosodáshoz
+## Öt fontos szutta a megvilágosodáshoz<span id="t-fontos-szutta-a-megvilgosodshoz"> </span>
 
 - A Szuttapitaka számos szuttát tartalmaz. Az ember nem képes mindet elolvasni, mert szutták ezreit tartalmazza. Tudna ajánlani néhány szuttát, amiket olvasva elérhető a nirvána, úgy értem, ami segít az útra lépésben? Tudna mondani párat?
 
@@ -415,7 +595,7 @@ Ez az öt szutta az, amit tanulmányozz, ha meg akarsz világosodni.
 
 *Forrás: [Dhamma chat via Zoom by Ajahn Suchart Abhijato (youtube.com)](https://www.youtube.com/watch?v=Rkktcmj4A4g), 2:09:24-2:11:30, April 30, 2024*
 
-## A gondolat felismerése keletkezésekor
+## A gondolat felismerése keletkezésekor<span id="a-gondolat-felismerse-keletkezsekor"> </span>
 
 „Ahogy \[Jen-sou\] mondta: »Ne a gondolatok keletkezésétől tarts, csak az érdekeljen, nehogy későn vedd észre őket!«
 
@@ -425,7 +605,7 @@ Azon személyek esetben, akiknek volt felébredésük, bár még vannak ideiglen
 
 *Forrás: Moguja's Secrets on Cultivating the Mind, in Collected Works of Korean Buddhism, vol 2, p 228-229*
 
-## Csak tetteid követnek a halálban
+## Csak tetteid követnek a halálban<span id="csak-tetteid-kvetnek-a-hallban"> </span>
 
 *„Gabona, pénz, ezüst, arany,*\
 *És egyéb vagyonod mi van;*\
@@ -446,7 +626,7 @@ Azon személyek esetben, akiknek volt felébredésük, bár még vannak ideiglen
 
 *Forrás: Dutiya aputtaka sutta, SN 3.20*
 
-## A négy nemes igazság: mi micsoda
+## A négy nemes igazság: mi micsoda<span id="a-ngy-nemes-igazsg-mi-micsoda"> </span>
 
 „Lényegében a Buddha tanítása, ahogyan az megvan a Tipiṭakában, semmi más, mint annak tudása, hogy mi micsoda, mi a dolgok valódi természete -- csak ennyi. Tartsuk magunk ehhez a meghatározáshoz. Ez így megfelelő, és jó észben tartani, amíg gyakorlók vagyunk. Most bemutatjuk e meghatározás érvényességét a négy nemes igazság példájával.
 
@@ -456,7 +636,7 @@ A negyedik nemes igazságot hívják az útnak, és ez alkotja a vágy kioltás�
 
 *Forrás: Handbook for Mankind by Buddhadāsa Bhikkhu, p 17-18*
 
-## Tekints a világra úgy, mint az időjárásra
+## Tekints a világra úgy, mint az időjárásra<span id="tekints-a-vilgra-gy-mint-az-idjrsra"> </span>
 
 - Milyen tanácsot adna azoknak, akik aggódnak a hírek, a választás, a globális felmelegedés miatt? Minthogy sok ilyen ember van, mit mondana nekik?
 
@@ -464,7 +644,7 @@ A negyedik nemes igazságot hívják az útnak, és ez alkotja a vágy kioltás�
 
 *Forrás: [Elements: Body, Knowing, Nibbāna by Ajahn Suchart (youtube.com)](https://www.youtube.com/watch?v=jAE2uzgb2PU), 54:22-56:28*
 
-## A dukkha, ami megszünteti a dukkhát
+## A dukkha, ami megszünteti a dukkhát<span id="a-dukkha-ami-megsznteti-a-dukkht"> </span>
 
 „Olyan könnyű módját találni a szórakozásnak, és ez annyira normális. Lehet, most is azt csinálod. »Nem tudom miről beszél. Ez unalmas. Inkább gondolok erre, vagy arra, vagy akármire.« Ez elég szomorú, mert ilyenkor ellenébe megyünk a lehetőségnek, hogy meglássuk a Dhammát abban, ami megjelenik. Nem kell valami üdvösnek lennie. Láthatjuk, amikor valami káros jelent meg. Ha észrevesszük a kegyetlenség, vagy félelem, vagy vágyódás gondolatát, és látjuk azt, akkor az a Dhamma. Itt van jelen, ez a tanítónk, s ezért nem akarunk elhúzódni tőle vagy más szórakozást találni."
 
@@ -472,13 +652,13 @@ A negyedik nemes igazságot hívják az útnak, és ez alkotja a vágy kioltás�
 
 *Forrás: [If This Was My Last Talk: What is Most Important to Our Practice by Ajahn Cunda (youtube.com)](https://www.youtube.com/watch?v=nVjMEPrRrDU), 10:42-11:34, 22:18-24:18*
 
-## A négy fény közül legjobb a bölcsesség
+## A négy fény közül legjobb a bölcsesség<span id="a-ngy-fny-kzl-legjobb-a-blcsessg"> </span>
 
 „Négy fény van. Milyen négy? A Hold fénye, a Nap fénye, a tűz fénye, és a bölcsesség fénye. Ez a négy fény. A négy fény közül legjobb a bölcsesség fénye."
 
 *Forrás: Ālokasutta, AN 4.143*
 
-## A bölcsesség fénye eljött a világba
+## A bölcsesség fénye eljött a világba<span id="a-blcsessg-fnye-eljtt-a-vilgba"> </span>
 
 *„Mindenki javára*\
 *Szabadságra vezetni*\
@@ -491,19 +671,19 @@ A negyedik nemes igazságot hívják az útnak, és ez alkotja a vágy kioltás�
 
 *Forrás: Uruvela Kassapa Performs Miracles, SA-2 13, T2n100p377b16-18*
 
-## A Buddha testének bölcsesség-fénye
+## A Buddha testének bölcsesség-fénye<span id="a-buddha-testnek-blcsessg-fnye"> </span>
 
 „Ha bármely lény megérinti a Buddha testének ékkövéből sugárzó bölcsesség fényt, ugyanolyan színűek lesznek, és már ha csak látják, akkor is a Dharma-szemük megtisztul. Bárhova ragyog fénye, minden lény elhagyja tőle a szegénység szenvedését és végül képessé teszi őket a Buddha felébredésének gyönyörét teljesen birtokolni."
 
 *Forrás: The Flower Adornment Sutra, ch 37, p 1328; T10n279p267b12-15*
 
-## Mulandóság, szenvedés, üresség
+## Mulandóság, szenvedés, üresség<span id="mulandsg-szenveds-ressg"> </span>
 
 „Az, ahogy a dolgok valójában vannak, a mulandóságot, szenvedést, és ürességet jelenti. Minden feltételes dolog, minden halmaz mulandó: az elme mulandó, a test mulandó... És mert mulandók, van szenvedés. A mulandóság automatikusan szenvedésre utal, ezért beszélünk mindent átható szenvedésről. Végül, az üresség arra a tényre utal, hogy minden lényegi létezés nélküli. Aki gyakorolja a Dharmát, megfigyeli a tapasztalataid - az is lényegi létezés nélküli, ezért mondjuk, hogy természeténél fogva tiszta. Amikor ezt tudod, megérint a buddhák fénye."
 
 *Forrás: [Pithy Guidelines for Your Practice by Phakchok Rinpoche (samyeinstitute.org)](https://www.samyeinstitute.org/grd/pithy-guidelines-for-your-practice/)*
 
-## A tanító megütötte
+## A tanító megütötte<span id="a-tant-megttte"> </span>
 
 Hszüe-feng felment a csarnokban, megemelte a hessegetőjét és így szólt:
 
@@ -519,7 +699,7 @@ A tanító megütötte.
 
 *Forrás: Records of the Transmission of the Lamp, vol 4, 16.389; T51n2076p328a23-25*
 
-## Az igazi én a nem-én
+## Az igazi én a nem-én<span id="az-igazi-n-a-nem-n"> </span>
 
 **Thich Nhat Hanh**: Meditálni azt jelenti: hazatérni önmagadhoz. Akkor tudod, hogyan törődj a dolgokkal, amik benned történnek, és tudod, hogyan törődj a dolgokkal, amik körülötted történnek. Minden meditációs gyakorlat célja visszavinni az igazi otthonodhoz: önmagadhoz. Anélkül, hogy visszaállítanád a békéd és nyugalmad, és segítenél a világnak visszaállítani a békét és nyugalmat, nem tudsz túl messzire jutni a gyakorlatban.
 
@@ -539,7 +719,7 @@ Ez a gyakorlat célja: felismerni a nem-ént és az összekapcsolódottságot. E
 
 *Forrás: [Shambhala Sun interview with Thich Nhat Hanh (plumvillage.org)](https://plumvillage.org/about/thich-nhat-hanh/interviews-with-thich-nhat-hanh/shambhala-sun-march-2006-exclusive-interview), March 2006*
 
-## Egy ember csontjainak hegye
+## Egy ember csontjainak hegye<span id="toc-egy-ember-csontjainak-hegye"> </span>
 
 *„Egy koron át gyűjtve egy*\
 *Embernek összes csontja*\
@@ -562,7 +742,7 @@ Ez a gyakorlat célja: felismerni a nem-ént és az összekapcsolódottságot. E
 
 *Forrás: Puggalasutta, SN 15.10 & Aṭṭhipuñjasutta, Iti 24*
 
-## Az öt halmaz elengedése
+## Az öt halmaz elengedése<span id="az-t-halmaz-elengedse"> </span>
 
 Meghallgattad a Dhammát, mégsem sikerült átlátnod, avagy megvalósítást elérned, az összeszedettség hiánya miatt. Át tudod látni, ha az elméd összeszedett. Ha nem tudod összeszedni az elméd, nem leszel képes hozzáférni a tudati alaphoz (citta). Nem fogsz tudni eljutni a sóvárgásod és vágyad gyökeréhez (kilesa-taṇhā), és nem leszel képes átlátni a négy nemes igazságot.
 
@@ -584,7 +764,7 @@ Amint elfogadod ezt a valóságot, az elmédből azonnal eltűnik a szenvedés. 
 
 *Forrás: [Letting Go of Self and Other Fetters, in Essential Teachings by Phra Ajahn Suchart Abhijāto (phrasuchart.com)](https://www.phrasuchart.com/enbook/), p 128-132*
 
-## Az »én« és az »enyém« téves hiedelme
+## Az »én« és az »enyém« téves hiedelme<span id="az-n-s-az-enym-tves-hiedelme"> </span>
 
 „Számos nem buddhista hagyomány nem veszi figyelembe az én hiányát. A buddhizmusban azonban az én hiányát nagyon fontosnak tartják, és \[egyike\] a »négy pecsétnek«, amelyek egy tant Buddha szavaként jelölnek meg. Az éntelenség kiemelkedő helyet foglal el, mert az éntelenség megvalósításával a békétlen elme békéssé és megszelídíthetővé tehető. Ezért az éntelenség felismerése és megvalósítása rendkívül fontosnak tekinthető, és a buddhista hagyomány megkülönböztető jegye.
 
@@ -598,7 +778,7 @@ Az »enyém« fogalma egyszer az egyik, majd a másik tárgyra irányul, így az
 
 *Forrás: Distinguishing Dharma and Dharmata commentary by Thrangu Rinpoche, p 20-21*
 
-## Betekintés a tudat lényegébe
+## Betekintés a tudat lényegébe<span id="betekints-a-tudat-lnyegbe"> </span>
 
 „Amit tudatnak hívunk, az az, ami végeláthatatlanul gondol a világon mindenre. Amikor a lényegét keressük, hogy meghatározzuk igazi természetét, megvizsgálunk mindegyik keletkező, fennálló, elmúló gondolatot. Utánajárunk, hogy hol lehet a keletkezés és megnézzük a keletkezés helyét, illetve forrását. Kinyomozzuk a fennállás helyét és a fennálló természetét, továbbá az elmúláshoz a megszűnő természetét és a megszűnés helyét. Mindegyik alkalommal rákérdezünk, milyenek lényegükben. Ezáltal felismerjük, hogy még egy részecskényi igaz valóságuk sincsen. A valótlanság ellenére mégis van, ami tud, avagy tudatában van jónak és rossznak, és ami szüntelen jelen van. A gondolatokat nem előhívva vagy követve, változtatása vagy alakítása nélkül hagyjuk magától megállapodni, így természetesen megtapasztalhatunk egy minden kifejezésen túli állapotot, ami a világosság, tudatosság és üresség szétválaszthatatlansága. Ennek folytonosságát fenntartani az, amit a tudat lényegébe tekintésnek hívunk.
 
@@ -608,19 +788,19 @@ Csökji Lodrö ezt ajánlotta fel, hogy ne utasítson el egy kérést."
 
 *Forrás: [Recognizing the Nature of Mind by Jamyang Khyentse Chökyi Lodrö (lotsawahouse.org)](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/recognizing-nature-of-mind)*
 
-## Az érzékszervek mind tanítóvá válnak
+## Az érzékszervek mind tanítóvá válnak<span id="az-rzkszervek-mind-tantv-vlnak"> </span>
 
 „Valaki egyszer megkérdezte ácsán Mánt: »Az erdei meditáló szerzetesek milyen könyvekből tanulnak?« Erre azt válaszolta: »Csukott szemmel, de éber elmével tanulnak.« Amint felébredek reggel, formák bombázzák a szemeim, ezért megvizsgálom a kapcsolatot szem és forma közt. A füleimet hangok sújtják, az orromat szagok, és a nyelvemet ízek; a testem meleget és hideget, keményet és puhát érez, miközben a szívemet gondolatok és érzelmek rohamozzák. Folyamatosan megvizsgálom mindezt. Így az összes érzékszervem tanítóvá válik, és egész nap szünet nélkül a Dhammát tanulom. Rajtam áll, hogy melyik érzékszervre akarok összpontosítani. Amint összeszedett vagyok, igyekszem átlátni az igazságát. Ácsán Mán engem így tanított meditálni."
 
 *Forrás: Mae Chee Kaew: Her Journey to Spiritual Awakening and Enlightenment by Bhikkhu Dick Sīlaratano, p 237*
 
-## Az érzékterületek: a buddhizmus ábécéje
+## Az érzékterületek: a buddhizmus ábécéje<span id="az-rzkterletek-a-buddhizmus-bcje"> </span>
 
 „A buddhista tanítások helyes tanulmányozása az érzékterületekkel (ájatanákkal) kezdődik. Ez a buddhizmus ábécéje, amit minden más előtt kell megérteni. A Buddha azt tanította, hogy a gyönyör és fájdalom (szukha és dukkha) érzései, továbbá a sóvárgások és romlottságok mind a hat érzékre adott reakció során alakul ki. Ezért fedezzük fel, hogyan hoz létre érzeteket, sóvárgást, és ragaszkodást -- és így kilészákat és azok keserű gyümölcsét, a dukkhát -- a szem, fül, orr, nyelv, test, és tudat együtt a párjaikkal, a formákkal, hangokkal, szagokkal, ízekkel, tapinthatókkal, és tudati tárgyakkal! Ha nem ismerjük tisztán, hogyan történik ez, akkor a megértésünk másodkézből való lesz és bajosan tudjuk majd megérteni helyesen a buddhizmust. Amikor nincs valódi megértés, akkor nincs tisztán látás és nincs valódi haszna a tanulásunknak. Ezért először ismerd meg a szemet, fület, orrot, nyelvet, testet, és tudatot!"
 
 *Forrás: Seeing with the Eye of Dhamma by Buddhadasa Bhikkhu, p 32*
 
-## Üresség az itt lévő dolgokban
+## Üresség az itt lévő dolgokban<span id="ressg-az-itt-lv-dolgokban"> </span>
 
 „Időtől és tértől függetlenül, a Dhamma gyakorlásának egésze ott teljesül be, ahol nincs semmi. Az a feladás, az üresség, a teher lerakásának helye. Ez a végcél. Nem olyan, mint aki azt mondja: »Miért lobog a szélben a zászló? Azt mondom, a szél miatt.« Egy másik azt mondja, a zászló miatt. De visszavágnak neki, hogy a szél miatt. Ennek sosincs vége. Ugyanaz, mint a régi találóskérdés: »Melyik volt előbb, a csirke vagy a tojás?« Nem lehet végeredményre jutni, ez csupán a természet.
 
@@ -630,7 +810,7 @@ Mindezek, amiket mondunk, csupán konvenciók, mi magunk állapítjuk meg őket.
 
 *Forrás: The Collected Teachings of Ajahn Chah, p 25-26, 32*
 
-## Támaszkodj a szellemi barátra!
+## Támaszkodj a szellemi barátra!<span id="tmaszkodj-a-szellemi-bartra"> </span>
 
 *„Ha a szív javára van, az egy útmutatás;*\
 *Aki gyakorlatba ülteti, az alkalmas edény.*\
@@ -654,37 +834,37 @@ Mindezek, amiket mondunk, csupán konvenciók, mi magunk állapítjuk meg őket.
 
 *Forrás: The Jewel Garland of Dialogues, ch 11, in The Book of Kadam, p 175*
 
-## Az erényes szellemi barát
+## Az erényes szellemi barát<span id="az-ernyes-szellemi-bart"> </span>
 
 „Egy erényes szellemi barát, egy erényes társ, egy erényes támasz az egész, a romlatlan, a teljes, a tiszta, a teljesen megtisztított szent élet, de egy erénytelen szellemi barát, egy erénytelen társ, egy erénytelen támasz nem az."
 
 *Forrás: The Noble Sūtra on Reliance upon a Virtuous Spiritual Friend, 1.5*
 
-## Miért imádkozunk a bódhiszattvákhoz?
+## Miért imádkozunk a bódhiszattvákhoz?<span id="mirt-imdkozunk-a-bdhiszattvkhoz"> </span>
 
 „Az érző lényeket az kell segítse, amit képesek megérteni, ami el tudja érni őket a szinten, amin épp vannak. Lehet, nincs semmi a Buddha vagy Kvan-jin elméjében, de az érző lények imádkozhatnak hozzájuk szinte bármiért. Nincs határa, hogy mit kérhetnek és mit érhetnek el saját erejükből. Az érdemeik és erényeik teszik lehetővé az érző lényeknek, hogy elérjék, amiért küzdenek. De ha ez tényleg így van, miért nem tudjuk megvalósítani céljainkat csupán saját nevünk szólításával? Miért van szükség Kvan-jinhez imádkozni? Miért nem mondjuk »Hé, én! Hiszek magamban. Van hitem magamban. Legyen meg, amit akarok!« Ez működne? Bizonyosan nem. A buddhák és bódhiszattvák elméje világos, megvilágosodott. A miénk még nem. Ameddig nem vagyunk megvilágosodottak, hinnünk kell a buddhákban és a bódhiszattvákban. Erre hasonlat, amikor magunkra néznénk tükör nélkül. Szükség van a tükörre, hogy lássuk a képünk. Senki nem tudja kiemelni a szemét a helyéről, visszafordítani, és a saját arcára nézni."
 
 *Forrás: Until We Reach Buddhahood – Lectures on the Shurangama Sutra by Master Sheng Yen, vol 2, p 105-106*
 
-## Az érzéki élvezetek csekély kielégülése
+## Az érzéki élvezetek csekély kielégülése<span id="az-rzki-lvezetek-csekly-kielglse"> </span>
 
 „Az érzéki élvezetek csekély kielégülést, de sok szenvedést és gyötrelmet adnak, s annál inkább tele vannak hátrányokkal. Ezért, Mahánáma, bár a nemes tanítvány helyes bölcsességgel világosan belátta ezt, ameddig nem éri el az érzéki élvezetektől és káros minőségektől különálló örömöt és boldogságot, vagy valami azoknál még békésebbet, visszatérhet az érzéki élvezetekhez. De amikor eléri azt az örömöt és boldogságot, vagy valami annál békésebbet, nem tér vissza az érzéki élvezetekhez."
 
 *Forrás: Cūḷadukkhakkhandhasutta, MN 14:4*
 
-## A formátlannál a megszűnés békésebb
+## A formátlannál a megszűnés békésebb<span id="a-formtlannl-a-megszns-bksebb"> </span>
 
 „A formánál a formátlan békésebb, a formátlannál a megszűnés még békésebb."
 
 *Forrás: Santatarasutta, Iti 73:2.1*
 
-## Még a »kialudt vagyok« is ragaszkodás
+## Még a »kialudt vagyok« is ragaszkodás<span id="mg-a-kialudt-vagyok-is-ragaszkods"> </span>
 
 „Amikor így tekintenek magukra: »békés vagyok, kialudt vagyok, nem ragaszkodó vagyok«, azt is a ragaszkodásuknak hívják. »Mindez feltételes és durva. De a feltételek megszűnnek -- ez valódi.« Ezt megértve, és látva a menekülést belőle, a Beérkezett túljutott mindezen."
 
 *Forrás: Pañcattayasutta, MN 102:24.6-9*
 
-## Az otthonlakó kötelessége
+## Az otthonlakó kötelessége<span id="az-otthonlak-ktelessge"> </span>
 
 *„Elmondom az otthonlakó kötelességét,*\
 *Amitől jó tanítvánnyá lesz.*\
@@ -717,7 +897,7 @@ Mindezek, amiket mondunk, csupán konvenciók, mi magunk állapítjuk meg őket.
 
 *Forrás: Dhammikasutta, Snp 2.14:19.1-25.4*
 
-## Két hibás nézet az okok nem-látásáról
+## Két hibás nézet az okok nem-látásáról<span id="kt-hibs-nzet-az-okok-nem-ltsrl"> </span>
 
 „Ha anélkül látod a dolgokat keletkezni és elmúlni, hogy értenéd vagy látnád keletkezésük és elmúlásuk mögöttes okait és feltételeit, az kétféle hibás nézethez vezethet. Az egyik, mivel nem látod az okokat és feltételeket, azt gondolhatod, hogy véletlenszerűek. Csak keletkeznek és elmúlnak; okság nélkül. Ez az ahetuka-micchā-diṭṭhi, az ok nélküliség hibás nézete, ami elterjedt volt a Buddha idejében.
 
@@ -729,13 +909,13 @@ Ez a Buddha tanításainak sarokköve. A Buddha gyakran beszélt a feltételekr�
 
 *Forrás: [Anatta & Self-Responsibility in Theory and Practice by Aggacitta Bhikkhu (sasanarakkha.org)](https://sasanarakkha.org/wp-content/uploads/2019/01/ANATTA.pdf), p 18*
 
-## A gondolatok mint múló jelenségek
+## A gondolatok mint múló jelenségek<span id="a-gondolatok-mint-ml-jelensgek"> </span>
 
 „Ahogy folyamatosan próbálod figyelni a gondolataid és érzelmeid, az egyik első belátás, amire rájössz, hogy mennyire illékony és fegyelmezetlen az elme. Valóban elgondolkoztat: »Ki vagyok én?« Jobban meg fogod érteni, hogy mire gondolt a Buddha a »nem én« (anattā) alatt, ha képes vagy tisztán látni, hogyan keletkeznek a gondolatok és érzelmek különféle sajátos feltételek szerint. Múló jelenségek áramlásaként tapasztalod őket, amik különállók, mégis oksági viszonyban vannak. Az énképed (énérzeted) látszólagos szilárdsága elkezd olvadni. Nézheted őket, mint egy külső megfigyelő, anélkül, hogy azonosulnál velük. Aztán még a »megfigyelő« is látható úgy, mint különálló tudatosság pillanatok, amik keletkeznek és eltűnnek sajátos feltételek következtében. Ez nagyon felszabadító lehet, mivel általában azonosulunk a gondolatainkkal, érzelmeinkkel, és tudatosságunkkal, mint az »énünkel«."
 
 *Forrás: [Wherever You Are, Whatever You're Doing, Whenever You Can Be Present by Aggacitta Bhikkhu (sasanarakkha.org)](https://sasanarakkha.org/wp-content/uploads/2018/06/Be-Mindful.pdf), p 11*
 
-## Hirtelen felébredés, fokozatos gyakorlás
+## Hirtelen felébredés, fokozatos gyakorlás<span id="hirtelen-felbreds-fokozatos-gyakorls"> </span>
 
 „Azt mondják az emberek: »Elméd a Tiszta föld, tehát nem születhetsz a Tiszta földön. Természeted Amitábha, tehát Amitábha nem látható.« Igaz szavaknak tűnnek, mégis hibásak. Az a buddha nem sóvárog és nem haragszik, akkor én se sóvárgok és haragszok? Az a buddha oly könnyedén változtatja a poklot lótuszok (országává), ahogy megfordítja a kezét, viszont én mindig félek a karma következtében pokolra zuhanástól, tehát hogyan is van ez a lótuszok (országává) változtatás? Az a buddha úgy szemlélődik a végtelen világok felett, mintha a szeme előtt lennének, de én még az elválasztó falon túli dolgokról se tudok, tehát hogyan láthatnám az összes égtáj világait, mintha a szemem előtt lennének? Ezért, bár mindenki természete buddha, mivel gyakorlatban érző lények, ha tulajdonságaikról és működésükről van szó, a különbség köztük ég és föld.
 
@@ -743,7 +923,7 @@ Kuj-feng azt mondta: »Még ha tényleg hirtelen meg is világosodsz, végül fo
 
 *Forrás: Hyujeong: Seonga gwigam, ch 52, in Collected Works of Korean Buddhism, vol 3, p 123-125*
 
-## A hanyatlás és a felemelkedés elvei
+## A hanyatlás és a felemelkedés elvei<span id="a-hanyatls-s-a-felemelkeds-elvei"> </span>
 
 *„A világi, aki kihagyja*\
 *Gyakorlottak látogatását;*\
@@ -781,7 +961,7 @@ Kuj-feng azt mondta: »Még ha tényleg hirtelen meg is világosodsz, végül fo
 
 *Forrás: Parābhavasutta, AN 7.31*
 
-## Hátráltató és előrevivő beszéd témák
+## Hátráltató és előrevivő beszéd témák<span id="htrltat-s-elreviv-beszd-tmk"> </span>
 
 **Hátráltató: alantas beszéd** (*tiracchānakathā* - SN 56.10, AN 10.69):
 
@@ -810,7 +990,7 @@ Kuj-feng azt mondta: »Még ha tényleg hirtelen meg is világosodsz, végül fo
 - megszabadulásról,
 - a megszabadulás tudásáról és látásáról.
 
-## A gyakorlás az elengedéshez vezet
+## A gyakorlás az elengedéshez vezet<span id="a-gyakorls-az-elengedshez-vezet"> </span>
 
 „Sok időt tölthetünk térképek olvasásával. Vitázhatunk rajta, melyik térképet gondoljuk pontosabbnak. Összehasonlíthatunk térképeket. De még nem vagyunk a célnál. A leírások és útmutatások értelme, hogy gyakoroljunk, ameddig belátásra jutunk, ameddig megtapasztaljuk a szamádhit. Akkor tudod, milyen a higgadt és összeszedett elme. Akkor tudod, hogy képes vagy egy higgadt és összeszedett elmét elérni.
 
@@ -820,7 +1000,7 @@ Amikor az első nemes igazságra tekintünk, a különféle módokra, ahogy szen
 
 *Forrás: [True Peace, the Outwards and Inner Journey (youtube.com)](https://www.youtube.com/watch?v=rpzecwxw5xY), Retreat Mar 2025, Ajahn Achalo; 25:13-27:15*
 
-## Az emberi élet rövidsége
+## Az emberi élet rövidsége<span id="az-emberi-let-rvidsge"> </span>
 
 „Helytálló lenne azt mondani manapság: »Az emberi élet rövid, kevés, és illékony, tele szenvedéssel és nehézséggel. Légy meggondolt és ébredj fel! Tedd a jót és szellemi életet élj, mert senki született nem menekülhet a haláltól!«
 
@@ -830,7 +1010,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Arakasutta, AN 7.74*
 
-## Szeretettel minden lény iránt
+## Szeretettel minden lény iránt<span id="szeretettel-minden-lny-irnt"> </span>
 
 *„Ne gyilkolj és ne öless!*\
 *Ne hódíts és ne hódíttass!*\
@@ -839,7 +1019,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Mettāsutta, AN 8.1*
 
-## Minden lény halandó – tégy jót!
+## Minden lény halandó – tégy jót!<span id="minden-lny-haland--tgy-jt"> </span>
 
 *„Minden lény halandó,*\
 *Életük vége halál.*\
@@ -854,7 +1034,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Ayyikāsutta, SN 3.22*
 
-## A feltételek megbízhatatlansága
+## A feltételek megbízhatatlansága<span id="a-felttelek-megbzhatatlansga"> </span>
 
 „Olyan, mint mikor a finomított vaj vagy olaj lángol és elég: se hamvát, se kormát nem találni. Ugyanígy, amikor a nagy föld és a hegyek királya Szinéru lángol és elég: se hamvát, se kormát nem találni.
 
@@ -865,7 +1045,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Sattasūriyasutta, AN 7.66:9.6-11*
 
-## A valódi ellenség: a harag
+## A valódi ellenség: a harag<span id="a-valdi-ellensg-a-harag"> </span>
 
 *„Minden bódhiszattva gyakorlata az elme legyőzése*\
 *A szerető kedvesség és az együttérzés haderőivel.*\
@@ -874,7 +1054,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: The Thirty-Seven Practices of All the Bodhisattvas by Gyalse Tokme Zangpo, v 20, tr Adam Pearcey*
 
-## A hét nemes kincs
+## A hét nemes kincs<span id="a-ht-nemes-kincs"> </span>
 
 *„Vagyon: a hit és az erény,*\
 *Lelkiismeret, óvatosság,*\
@@ -891,7 +1071,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Vitthatadhanasutta, AN 7.6*
 
-## Az én, mint a meddő nő fia
+## Az én, mint a meddő nő fia<span id="az-n-mint-a-medd-n-fia"> </span>
 
 *„Mivel születetlen, mint egy meddő nő fia,*\
 *Nem létezhet olyan én, amiről beszélsz,*\
@@ -900,13 +1080,13 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Candrakīrti: Madhyamakāvatāra 6.122*
 
-## A nem buddhista én cáfolata
+## A nem buddhista én cáfolata<span id="a-nem-buddhista-n-cfolata"> </span>
 
 „A nem buddhista iskolák tanította én egyáltalán nem létezik; születetlen, mint egy meddő nő gyereke. Mivel születetlen, természetesen nem szolgálhat a közönséges tapasztalat eredendő én-kötődésnek alapjául. Nem csak a végső szinten nem képezi az én-kötődés alapját, még a konvencionális valóság szintjén sem létezik. Ami születetlen, az olyan, mint a gyerektelen nő gyereke: egyáltalán nem létezik. Ami korábban soha nem jött létre, az nem létezhet itt és most. Lehetetlen létezőnek tulajdonítani azt, ami sosem keletkezett. Az én jellemzőit, miként azt a vaisésikák és más nem buddhista iskolák értekezéseiben (amik valamennyire eltérnek a szánkhja leírásoktól) kifejtenek, cáfolja a kezdet nélküliség érve, amit ők maguk állítanak. Ha az alap (ez esetben az én) nem létezik, a jellemzői sem léteznek. Ezért nem létezhet én a halmazoktól külön. Ha létezne, fel lehetne fogni a halmazoktól függetlenül, viszont ténylegesen ilyen sosincs."
 
 *Forrás: Introduction to the Middle Way: Chandrakirti's Madhyamakavatara with Commentary by Ju Mipham, p 284*
 
-## A világi ember nyolc minősége
+## A világi ember nyolc minősége<span id="a-vilgi-ember-nyolc-minsge"> </span>
 
 *„Munkájában vállalkozó,*\
 *Szorgos szervező;*\
@@ -927,7 +1107,7 @@ Mert manapság a hosszú élet száz év vagy kicsit több. Száz évnyi élet a
 
 *Forrás: Paṭhamasampadāsutta, AN 8.75; lásd még: AN 8.54-55, AN 8.76*
 
-## Öt szemlélődés a kiábránduláshoz
+## Öt szemlélődés a kiábránduláshoz<span id="t-szemllds-a-kibrndulshoz"> </span>
 
 A nyolc minőség: vállalkozókészség, megőrzés, jó barátság, kiegyensúlyozott költségvetés, hit, erény, bőkezűség, bölcsesség.
 
@@ -939,7 +1119,7 @@ Ez az öt dolog, amikor fejlesztik és gyakorolják, egyedül kiábránduláshoz
 
 *Forrás: Nibbidāsutta, AN 5.69*
 
-## Csak zuhogjatok, ti mennyek!
+## Csak zuhogjatok, ti mennyek!<span id="toc-csak-zuhogjatok-ti-mennyek"> </span>
 
 *„Egek esője édes ének\
 Kunyhócskám kellemes, szélvédett\
@@ -968,7 +1148,7 @@ Hát csak zuhogjatok ti mennyek"*
 
 *Forrás: Girimānandattheragāthā, Thag 5.3*
 
-## Ahogy jöttek, úgy mentek – minek bánkódni?
+## Ahogy jöttek, úgy mentek – minek bánkódni?<span id="ahogy-jttek-gy-mentek--minek-bnkdni"> </span>
 
 A Girimánanda korábbi életeiről szóló versben *(amiben megjelenik a théra saját költeményének képe együtt Patacsára (Thig 6.1) szavaival)* Szumédha buddha így vigasztalja:
 
@@ -987,7 +1167,7 @@ Mi haszna bánkódni miatta?"*
 
 *Forrás: Girimānandattheraapadāna, Tha Ap 399*
 
-## Bizalom a legjobbban
+## Bizalom a legjobbban<span id="toc-bizalom-a-legjobbban"> </span>
 
 *„Akik bíznak a legjobban,\
 Tudják a legjobb tant;\
@@ -1008,13 +1188,13 @@ A legjobb elérésének örvendez."*
 
 *Forrás: Aggappasādasutta, Iti 90; AN 4.34, AN 5.32*
 
-## Négy dolog, amit senki sem biztosíthat
+## Négy dolog, amit senki sem biztosíthat<span id="ngy-dolog-amit-senki-sem-biztosthat"> </span>
 
 „Négy dolgot nem biztosíthat senki, sem szamana, sem bráhmana, sem déva, sem mára, sem brahmá, sem senki a világon. Mi az a négy? Senki sem biztosíthatja, hogy az öregedésre hajlamos nem lesz öreg. Senki sem biztosíthatja, hogy a betegségre hajlamos nem lesz beteg. Senki sem biztosíthatja, hogy a halálra hajlamos nem lesz halott. Senki sem biztosíthatja, hogy korábbi életekben elkövetett gonosz tettek -- amik megrontanak, jövőbeli életekhez vezetnek, bántók, szenvedést és jövőbeli születést, öregséget, és halált okoznak -- nem teremtik meg eredményüket. Ez az a négy dolog, amit nem biztosíthat senki, sem szamana, sem bráhmana, sem déva, sem mára, sem brahmá, sem senki a világon."
 
 *Forrás: Pāṭibhogasutta, AN 4.182; lásd még: SN 3.3 & AN 5.48*
 
-## A meditáció: az elme megszelídítése
+## A meditáció: az elme megszelídítése<span id="a-meditci-az-elme-megszeldtse"> </span>
 
 „Általánosan a meditáció, és konkrétan a dharma útja semmi más, mint az elménk megszelídítésének folyamata. Az egész út az elmével dolgozásról szól. Egyáltalán nem több ennél, bármennyi szintje és módszere is legyen az elme szelídítésének. Van a théraváda hagyomány, a mahájána hagyomány, és a mély, mégis botrányos vadzsrajána hagyomány. A buddhista családban a vadzsrajánások a család fekete bárányai, de amerikaiként büszkék vagyunk erre a státuszra, mert a büszkeség fontos nekünk. Ha nem vagyunk elég büszkék, akkor matricákat veszünk. Akárhogy is, a három jána útján először az elme és a tudati bántalmak szelídítésének folyamatával foglalkozunk. Ha az elméd nem szelíd, nem tudod képezni. Például, ha nem szelíd az elméd, amikor a lodzsong mondásokat gyakorlod, akkor csak becsapod magad.
 
@@ -1024,7 +1204,7 @@ Ahogy a szútrákban mondják, teljesen megszelídíteni az elménket a Buddha t
 
 *Forrás: Analytical Meditation: Taming the Mind by Dzogchen Ponlop Rinpoche, p 10*
 
-## Nem vagyok az a múlt – a változás szabadsága
+## Nem vagyok az a múlt – a változás szabadsága<span id="nem-vagyok-az-a-mlt--a-vltozs-szabadsga"> </span>
 
 „Mindannyiunknak van az az érzése, hogy különálló lények vagyunk. Ez mondatja velünk: vagyok. Azonban, ha figyelmesen magunkra tekintünk, felfedezzük, hogy sok összetevőből állunk, és hogy nincs semmi a testünkben vagy tudatunkban, amit rögzíthetnénk és azonosíthatnánk, mint én. Van bármi abban, amit látunk, bármi, amire tudunk gondolni, bármilyen anyagi vagy anyagtalan dolog, ami teljességgel egy, állandó, és független? Tudunk találni csak egy dolgot is, aminek ezek a jellemzői? Ha nem tudunk, az azt jelenti, hogy semmi sem állandó, hogy minden mindig változik. Azt jelenti, hogy minden összetett, sok részből áll. Azt gondolhatjuk, hogy ez a könyv egy, pedig sok oldalból áll. Mindegyik oldal különböző anyagokból készült, s tintával nyomott jelképek fedik be. A tinta és a papír megint csak különféle anyagok keveréke. Mindent szét lehet szedni addig, amíg szinte semmi sem marad. Ez azt jelenti, hogy semmi sem független. Minden sok más dolog segítségével létezik. Ha csak egy elem is hiányzik, az egész megváltozik vagy eltűnik. Minden jelenség, beleértve magunkat is, kölcsönösen függő.
 
@@ -1040,7 +1220,7 @@ Minden nap döntésekkel és választásokkal szembesülünk, és mindannyian sz
 
 *Forrás: Path to Buddhahood: Teachings on Gampopa's Jewel Ornament of Liberation by Ringu Tulku, p 112-115*
 
-## Éberség az evésben és az ízen
+## Éberség az evésben és az ízen<span id="bersg-az-evsben-s-az-zen"> </span>
 
 „Kevesen meditálnak az evésen és az ízen. A közönséges világiak nem igazán ismerik ezt a meditációs gyakorlatot. Még tanult emberek sem foglalkoznak vele, feltételezve, hogy az evés közben érzett ízt nem szükséges éberen észlelni. Ez felér egy tiszteletlenséggel a belátás meditáció tanításaival szemben. Mások odáig mennek, hogy azt mondják, az ízen meditálás puszta időpocsékolás. Azt mondják, az evéssel gyorsan kell végezni, hogy több idő legyen a meditációra.
 
@@ -1052,7 +1232,7 @@ A kolostori képzés elvárása, hogy a szerzetesek bölcs megfontolással egyen
 
 *Forrás: [A Discourse on the Mālukyaputta Sutta by Mahāsi Sayādaw (aimwell.org)](https://aimwell.org/malukyaputta.html)*
 
-## Az egész tanítás megtartása
+## Az egész tanítás megtartása<span id="az-egsz-tants-megtartsa"> </span>
 
 „A gyakorlók időnként szektariánus érzelmeket dédelgetnek a négy tibeti buddhista iskola közti különbségek miatt. Ha megérted mindegyik hagyomány sajátos jellegeit -- megközelítési módjaikat, tanításukat és különféle gyakorlataikat -- akkor értékelni fogod e sokféleség jelentőségét és fontosságát. Tényleg lehetséges egyetlen embernek az összes különféle tanítást integrálni személyes gyakorlatába. Ahogy a kadampa mesterek mondták: »Tudni kell, hogyan tartsuk fenn a Buddha egész tanítását, ahogyan egy ruhadarab egészét felemeljük a sarkánál fogva!«
 
@@ -1062,7 +1242,7 @@ Ezek valóban az alapjai és sarokkövei a buddhista gyakorlatnak. Ezekhez hozz�
 
 *Forrás: Illuminating the Path to Enlightenment by His Holiness the Dalai Lama, p 41-42*
 
-## Közvetlen tudással tanítok
+## Közvetlen tudással tanítok<span id="kzvetlen-tudssal-tantok"> </span>
 
 Egyszer a Magasztos Vészálinál, a Gótamaka szentélynél lakozott.
 
@@ -1076,7 +1256,7 @@ Ezt mondta a Magasztos. Megelégedetten, a szerzetesek egyetértettek a Magaszto
 
 *Forrás: Gotamakacetiyasutta, AN 3.125*
 
-## A két igazság
+## A két igazság<span id="a-kt-igazsg"> </span>
 
 *„A minden jelenség kifejezés az öt halmazra utal.\
 Mivel keletkeznek, elmúlnak, és ideiglenesek:\
@@ -1102,7 +1282,7 @@ Minden jelenséget így elemezz!"*
 
 *Forrás: [Ascertaining the Two Truths by Chögyal Pakpa Lodrö Gyaltsen (lotsawahouse.org)](https://www.lotsawahouse.org/tibetan-masters/chogyal-pakpa-lodro-gyaltsen/two-truths)*
 
-## Boldogság! Szenvedés!
+## Boldogság! Szenvedés!<span id="boldogsg-szenveds"> </span>
 
 Tien-huang egész életében így kiáltott fel: „Boldogság! Boldogság!" De halálos ágyán ezt mondta:
 
@@ -1116,7 +1296,7 @@ A kolostorfőnök szótlan maradt. A tanító ellökte favánkosát és távozot
 
 *Forrás: Seonmun Yeomsong Seolhwa, case 351, in Collected Works of Korean Buddhism, vol 7, p 436*
 
-## A testet ragadó gondolat szenvedést hoz
+## A testet ragadó gondolat szenvedést hoz<span id="a-testet-ragad-gondolat-szenvedst-hoz"> </span>
 
 *„Születés-halál unalom\
 Jövés-menés bajos\
@@ -1125,7 +1305,7 @@ Végtelen szenvedést hoz"*
 
 *Forrás: Dharmapada 19.8; T4n210p565c7-8*
 
-## A megkötők: élvezetesnek vagy unalmasnak látni
+## A megkötők: élvezetesnek vagy unalmasnak látni<span id="a-megktk-lvezetesnek-vagy-unalmasnak-ltni"> </span>
 
 „Amikor a megkötőket élvezetesnek látod, nem hagysz fel a kapzsisággal, utálattal, és zavarodottsággal. Amikor nem hagysz fel velük, nem vagy szabad a születéstől, öregségtől, haláltól, bútól, bánattól, fájdalomtól, szomorúságtól, és gyötrelemtől. Azt mondom: nem vagy szabad a szenvedéstől.
 
@@ -1133,7 +1313,7 @@ Amikor a megkötőket unalmasnak látod, felhagysz a kapzsisággal, utálattal, 
 
 *Forrás: Saññojana sutta, AN 2.6; vö. SN 12.53-54, SN 12.57-59*
 
-## Az éberség és a helyes erőfeszítés kertje
+## Az éberség és a helyes erőfeszítés kertje<span id="az-bersg-s-a-helyes-erfeszts-kertje"> </span>
 
 „Annyi tanító, annyi világi tanító, és még szerzetesek is tanítják az éberséget (mindfulness), de egy olyan fajta éberséget, amit kiemeltek az útból, az út nagyon hasznos és szép tanácsaiból, és ha nem nézted meg alaposan, hogy mit mond a Buddha helyes erőfeszítésként, akkor valójában nem fogod learatni az éberség minden hasznát, az nem lesz helyes éberség. Igazából a hatodik tényező, a helyes erőfeszítés az, ami tanácsot ad neked az érzelmekről és hogy miként kezeld az érzelmeidet.
 
@@ -1149,19 +1329,19 @@ Lehet érzelmi nyugalmad pont ebben a világban, folyamatosan, onnantól hogy fe
 
 *Forrás: [The Dhamma is a Strategy for Emotional Ease in the Midst of This Very World by Ajahn Sona (youtube.com)](https://www.youtube.com/watch?v=k4xlbCYtRkM), 32:43-38:27*
 
-## Rossz tettből nem jön kellemes következmény
+## Rossz tettből nem jön kellemes következmény<span id="rossz-tettbl-nem-jn-kellemes-kvetkezmny"> </span>
 
 „Lehetetlen, szerzetesek, nem történhet, hogy egy kellemes, kívánatos, elfogadható következmény jöjjön rossz testi, szóbeli, tudati cselekedetből. De lehetséges, hogy egy kellemetlen, nem kívánatos, el nem fogadható következmény jöjjön rossz testi, szóbeli, tudati cselekedetből."
 
 *Forrás: AN 1.284-286*
 
-## Tett és eredmény elkerülhetetlen megfelelése
+## Tett és eredmény elkerülhetetlen megfelelése<span id="tett-s-eredmny-elkerlhetetlen-megfelelse"> </span>
 
 „Azt mondják, minden erényes tett következménye boldogság és minden erénytelen tett következménye szenvedés. Egyesek azt gondolhatják, ez az általános szabály, de vannak kivételek. Azt gondolhatják, hogy egyes erényes tettek valószínűleg szenvedést okoznak, és hogy talán egyes erénytelen tettek boldogságot. Tényleg nincs kivétel a megfelelés szabálya alól. Amikor a szándék és a tett tiszta, akkor minden abból keletkező csak boldogság és sosem szenvedés. De amikor a szándék és a tett tisztátalan, minden abból keletkező csak szenvedés lehet és semmi más. Ez az elkerülhetetlen megfelelés tett és eredmény közt, ugyanaz a minőség lesz a következményben, mint a tettben."
 
 *Forrás: Je Gampopa's The Jewel Ornament of Liberation by Khenchen Thrangu Rinpoche, p 87-88*
 
-## Egykedvűség: se pesszimizmus, se optimizmus
+## Egykedvűség: se pesszimizmus, se optimizmus<span id="egykedvsg-se-pesszimizmus-se-optimizmus"> </span>
 
 „Egyáltalán nem meglepő, ha az olvasó arra a következtetésre jut, hogy a szenvedés buddhista fogalma nagyon nem hívogató. Miként a Buddha rámutatott, minden lény a kellemes és élvezetes után sóvárog. Utálják a kellemetlent és nem élvezetest. A bánatosak élvezetet keresnek, míg akik már boldogok, azok még többet és többet.
 
@@ -1173,13 +1353,13 @@ Megkérdeztek egy anyát, miért nem siránkozik szeretett fia halála miatt. V�
 
 *Forrás: [The Buddha's Ancient Path by Piyadassi Thera (store.pariyatti.org)](https://store.pariyatti.org/buddhas_ancient_path), BPS Pariyatti Edition, 2017, p 41-42*
 
-## Rövid szünetek a jelen pillanatba
+## Rövid szünetek a jelen pillanatba<span id="rvid-sznetek-a-jelen-pillanatba"> </span>
 
 „A rendszeres meditációs gyakorlás megadja nekünk a képességet, hogy felismerjük és elengedjük a krónikus feszültség mögött húzódó mérgező hangulatokat és gondolatokat. Például, a magunkkal és a körülöttünk lévőkkel szembeni irreális elvárások bénítóak lehetnek. A hétköznapokban rendszeres rövid szüneteket tartani, hogy lenyugtassuk és összeszedjük az elmét, segít megelőzni a stressz felhalmozódását a nap folyamán. Ezek a szünetek lehetnek a számítógép előtti hatvan másodperces légző gyakorlatok, vagy csak pár mély leföldelő lélegzet, mielőtt felvesszük a csörgő telefont. A képesség kifejlesztése, hogy rendszeresen visszatérjünk a jelen pillanatba és visszaállítsuk a nyugodt figyelmet, jelentős változásokat hozhat az életminőségünkben."
 
 *Forrás: Without and Within by Ajahn Jayasaro, p 153*
 
-## Csen tartományban nagy retek terem
+## Csen tartományban nagy retek terem<span id="csen-tartomnyban-nagy-retek-terem"> </span>
 
 - Úgy hallottam, a tisztelendő személyesen látta Nan-csüant. Ez igaz? -- kérdezte egy szerzetes Csao-csout.
 - Csen tartományban nagy retek terem -- válaszolta Csao-csou.
@@ -1188,7 +1368,7 @@ Megkérdeztek egy anyát, miért nem siránkozik szeretett fia halála miatt. V�
 
 u.i.: Nan-csüan (南泉) tanítványa volt Csao-csou (趙州), s a kérdés idején a Csen tartományi (鎮州) Csen-csi kolostor (真際禪院) apátja volt.
 
-## Az igazi buddha odabent ül
+## Az igazi buddha odabent ül<span id="az-igazi-buddha-odabent-l"> </span>
 
 Hszüe-tou verse:
 
@@ -1213,13 +1393,13 @@ Szuzuki Sunrjú: „Természetes, hogy egy hattyú fehér és egy holló fekete.
 
 *Forrás: Csao-csou mester feljegyzett beszédei, 209; 趙州和尚語錄 J24nB137p363c2-6*
 
-## Nincs senki a gondolatok mögött
+## Nincs senki a gondolatok mögött<span id="nincs-senki-a-gondolatok-mgtt"> </span>
 
 „Ha gondolkodás közben nem vagyunk éberek, hajlamosak vagyunk azt gondolni, hogy van valaki a folyamat mögött. De ha éberek vagyunk, akkor tudjuk, hogy ténylegesen nincs senki, nincs én vagy lélek, aki gondolkozik. Ezek csak tudati jelenségek, amik saját igazi természetük szerint viselkednek: mulandók, elégtelenek, személytelenek."
 
 *Forrás: [The Way to Happiness of Peace: Understanding the Basics of Insight Meditation by Sayadaw U Pandita (bps.lk)](https://www.bps.lk/library-search-select.php?id=wh441), p 38*
 
-## Úgy látni a dolgokat, ahogy vannak
+## Úgy látni a dolgokat, ahogy vannak<span id="gy-ltni-a-dolgokat-ahogy-vannak"> </span>
 
 „Élvezet és irtózat valamely adott érzet függvényében keletkezik. Például, ha látunk valami tetszőt, az elme a tetszés körül bonyolít. Ha elural az élvezet vagy az irtózat, az elme máshogy bonyolít. Más szóval, az elme nem úgy látja a dolgokat, ahogy vannak. Amikor azt mondjuk, az elme nem úgy látja a dolgokat, ahogy vannak, azt úgy értjük, hogy az elme az élvezet és irtózat befolyása alatt áll, amitől az elme vagy a múltba zuhan, vagy a jövőbe száll el. Azt mondani, hogy az elme élvezetbe és irtózatba zuhan, vagy azt, hogy az elme nem úgy látja a dolgokat, ahogy vannak, az egy és ugyanaz. Mindkét esetben az elme nem tudatos az egyes érzetekre, ahogy keletkeznek.
 
@@ -1237,13 +1417,13 @@ Ez a buddhizmus gyakorlata. Vegyük észre, hogy mind ránk vonatkozik. A gyakor
 
 *Forrás: Helping Yourself to Help Others by Somdet Phra Buddhaghosacariya (P. A. Payutto), p 21-23 / Keeping awareness in the present*
 
-## Az érzéstől a viszálykodásig
+## Az érzéstől a viszálykodásig<span id="az-rzstl-a-viszlykodsig"> </span>
 
 „Úgy van, Ánanda, hogy az érzés a sóvárgás oka. A sóvárgás a keresés oka. A keresés az anyagi javak szerzésének oka. Az anyagi javak szerzése az értékelés oka. Az értékelés a vágy és kívánás oka. A vágy és kívánás a ragaszkodás oka. A ragaszkodás a birtoklás oka. A birtoklás a zsugoriság oka. A zsugoriság a védelmezés oka. A védelmezés okán sok rossz, káros dolog keletkezik: bot és kard ragadása, veszekedések, vitatkozások, vádaskodások, megosztó beszéd, és hazugság."
 
 *Forrás: Mahānidānasutta, DN 15*
 
-## A vedanā szemlélése
+## A vedanā szemlélése<span id="a-vedan-szemllse"> </span>
 
 „A védanának a tapasztalás folyamatában betöltött befolyásoló nyomása miatt annak éber megfigyelése jelentős hatással lehet a gondolatok és reakciók kialakulásának kezdeti szakaszában, lehetővé téve a káros tényezők észlelését és kezelését azok megjelenésekor, amikor még nem annyira erősödtek meg.
 
@@ -1251,7 +1431,7 @@ Továbbá, a védanák tényleges szemlélése az állandótlanság olyan tapint
 
 *Forrás: [Deepening Insight: Teachings on vedanā in the Early Buddhist Discourses by Bhikkhu Anālayo (buddhismuskunde.uni-hamburg.de)](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/deepening.pdf), p 89*
 
-## A szenvedés vége: az üresség felismerése
+## A szenvedés vége: az üresség felismerése<span id="a-szenveds-vge-az-ressg-felismerse"> </span>
 
 „Semmi sem marad ugyanaz, minden folyamatos áramlásban van. Változik a viselkedésünk, változik a környezetünk - a világ és a politika. Ez a mulandóság természete. Bár felszínesen képesek vagyunk megérteni, hogy semmi sem marad ugyanaz és minden változik, amit nem értékelünk, az a mély szintű mulandóság. És mert nem értékeljük a mély szintű mulandóságot, ezért nem ismerjük fel az ürességet, és mert nem ismerjük fel az ürességet, továbbra is szenvedünk a szamszárában. Az üresség felismerésével együtt jár a teljes felszámolása a ragaszkodásnak a valósághoz, a dolgokhoz, mint lényeggel bírók és valami módon rögzültek vagy állandók. Értjük, hogy egy nap meghalunk, de nem értjük, hogy pillanatról pillanatra minden, amit igaznak és valódinak tartunk, elmúlik és soha többé nem tér vissza. Ez az az értékelése a valóság mulandó természetének, aminek hiánya miatt annyit szenvedünk.
 
@@ -1261,7 +1441,7 @@ Igazából a meditáció semmi más, mint elengedni. Nem valamilyen különleges
 
 *Forrás: The End of all Suffering is the Realisation of the Truth of Emptiness! by Lama Choga, 0:40-3:15, 4:26-6:27*
 
-## Aki nem szegény
+## Aki nem szegény<span id="aki-nem-szegny"> </span>
 
 *Akinek hite a Beérkezettben\
 Jól megállapodott és rendületlen;\
@@ -1278,13 +1458,13 @@ A buddhák szavaira emlékezve.*
 
 *Forrás: Ariyadhanagāthā; pl. AN 5.47, SN 55.51*
 
-## Ne hozzám járulj menedékért!
+## Ne hozzám járulj menedékért!<span id="ne-hozzm-jrulj-menedkrt"> </span>
 
 „Ne hozzám járulj menedékért! Járulj menedékért ugyanahhoz a magasztoshoz, akihez én járultam menedékért!"
 
 *Forrás: Madhurasutta, MN 84*
 
-## A folytonosság félreértése
+## A folytonosság félreértése<span id="a-folytonossg-flrertse"> </span>
 
 *„A folytonosságot félreértve\
 Állandónak mondják a dolgokat.\
@@ -1293,14 +1473,14 @@ Létezőnek mondják a dolgokat."*
 
 *Forrás: Āryadeva: Catuḥśataka 14.22/347*
 
-## A halmaz valótlan, mint a füzér
+## A halmaz valótlan, mint a füzér<span id="a-halmaz-valtlan-mint-a-fzr"> </span>
 
 *„Amit folytonosságnak neveznek, mint egy füzér, valótlan\
 A halmaz, így a hadsereg és a többi fogalmához hasonlóan."*
 
 *Forrás: Śāntideva: Bodhicaryāvatāra 8.101, Végh J. ford.*
 
-## A folytonosság káprázata
+## A folytonosság káprázata<span id="a-folytonossg-kprzata"> </span>
 
 „A folytonosság egy káprázat, mert a dolgok olyan gyorsan keletkeznek és elmúlnak. Egy káprázat, ami úgy elvakít minket, hogy nem látjuk, mi történik igazából. Ha egy nap tisztán látjuk a tapasztalatunkban, hogy a tudat nem mi vagyunk, akkor a világon soha többé nem értünk félre semmit se önmagunkként.
 
@@ -1308,7 +1488,7 @@ A halmaz, így a hadsereg és a többi fogalmához hasonlóan."*
 
 *Forrás: [Walk to Be the Knower by Phra Anek Thanissarapoti (wattamwua.com)](https://www.wattamwua.com/wp-content/uploads/2021/11/WALK-TO-BE-THE-KNOWER.pdf), p 127*
 
-## A három érzés és a rejtett hajlamok
+## A három érzés és a rejtett hajlamok<span id="a-hrom-rzs-s-a-rejtett-hajlamok"> </span>
 
 *„Élvezetet érezve\
 Az érzést ha nem érted,\
@@ -1337,7 +1517,7 @@ A bölcs kimérhetetlen."*
 
 *Forrás: Pahānasutta, SN 36.3*
 
-## A függő keletkezés és a figyelmesség
+## A függő keletkezés és a figyelmesség<span id="a-fgg-keletkezs-s-a-figyelmessg"> </span>
 
 *„A bölcs bódhiszattva,\
 Buddha felébredését akarva,\
@@ -1398,7 +1578,7 @@ A széteső jelenségeket el nem hagyja,\
 
 *Forrás: The Questions of the Nāga King Anavatapta 1.189-194 / 佛說弘道廣顯三昧經 T15n635p497a28-b10; 1.219-223 / T15n635p498a3-12*
 
-## A három Dharma-pecsét
+## A három Dharma-pecsét<span id="a-hrom-dharma-pecst"> </span>
 
 **A három Dharma pecsét** (dharmamudrā trilakṣaṇā 三法印):
 
@@ -1410,19 +1590,19 @@ A széteső jelenségeket el nem hagyja,\
 
 *Forrás: The Heart of the Buddha's Teaching by Thich Nhat Hanh, p 131*
 
-## A három pecsét: az én elpusztítása
+## A három pecsét: az én elpusztítása<span id="a-hrom-pecst-az-n-elpuszttsa"> </span>
 
 „Minden összetett dharma állandótlan: ez elpusztítja az énhez tartozó öt külső kívánnivalót. Minden dharma éntelen: ez elpusztítja a belső ént. Az én és az enyém elpusztulása: ez a nirvána nyugalma."
 
 *Forrás: Mahāprajñāpāramitāśāstra, XXXVI.2.II.6; 大智度論 卷22, T25n1509p222b18-20*
 
-## Az összetett dharmák állandótlanok
+## Az összetett dharmák állandótlanok<span id="az-sszetett-dharmk-llandtlanok"> </span>
 
 „Továbbá, az összetett dharmák állandótlanok, mert pillanatonként keletkeznek és megszűnnek. Mind okok és feltételek szerint összeállnak, nincs önállóságuk. Mivel nincs önállóságuk, ezért éntelenek. Mert állandótlanok, éntelenek, jellegtelenek, ezért a tudat nem ragaszkodik. Mert nincs jelleg, sem ragaszkodás, ezért ez a nirvána nyugalma."
 
 *Forrás: Mahāprajñāpāramitāśāstra, XXXVI.2.II.7; T25n1509p223b8-10*
 
-## Boldog vég dal
+## Boldog vég dal<span id="boldog-vg-dal"> </span>
 
 *„Amikor meghalok, az emberek ne vegyék észre\
 Bomló hullám ne lássák a madarak az égen\
@@ -1456,7 +1636,7 @@ Azzal akaratom tényleg beteljesülhet"*
 
 *Forrás: [Boldog vég dal (Happy Ending Song) by Khenpo Cültrim Gyamco Rinpocse (1934-2024) (ktgrinpoche.org)](https://www.ktgrinpoche.org/songs/happy-ending-song), részlet*
 
-## A négy pecsét: a tanítás jelei
+## A négy pecsét: a tanítás jelei<span id="a-ngy-pecst-a-tants-jelei"> </span>
 
 „Mindenesetre, ha a buddhadharma leglényegét akarjuk leszűrni, akkor azt a függő keletkezés nézete és a nem ártó viselkedés tartalmazza. A nem ártó viselkedés nem csupán az ártalom okozásától tartózkodás. Sokkal inkább az együttérzés álláspontjából a mások javára és boldogságáért való tevékeny munkálkodásra utal. Még ha erre nem is vagy képes, akkor legalább annyiban áll a jelentése, hogy tudatosan kerülöd a másoknak ártást. Ez a nem ártó viselkedés jelentése. Továbbá, a nem ártó viselkedést adott tanrendszer, avagy egy látásmód alapján kell betartani. Nem elegendő csupán könnyelműen tartózkodni az ártalom okozásától.
 
@@ -1471,7 +1651,7 @@ Ezek úgy ismeretesek, mint a négy pecsét, amik a tanítás jelei. A pecsét s
 
 *Forrás: A Lamp Illuminating the Path to Liberation: An Explanation of Essential Topics for Dharma Students by Khenpo Gyaltsen, p 41-42*
 
-## Az üresség széttörése
+## Az üresség széttörése<span id="az-ressg-szttrse"> </span>
 
 - Mi van akkor, ha egy bottal széttörik az ürességet?
 
@@ -1479,7 +1659,7 @@ Ezek úgy ismeretesek, mint a négy pecsét, amik a tanítás jelei. A pecsét s
 
 *Forrás: Records of the Transmission of the Lamp, vol 5, 20.529; T51n2076p362c25-26*
 
-## A világ hatban keletkezett
+## A világ hatban keletkezett<span id="a-vilg-hatban-keletkezett"> </span>
 
 *„Miben keletkezett a világ?\
 Mihez közelít?\
@@ -1508,7 +1688,7 @@ Szabadulsz minden szenvedéstől."*
 
 *Forrás: Hemavatasutta, Snp 1.9*
 
-## A jól mondott beszéd
+## A jól mondott beszéd<span id="a-jl-mondott-beszd"> </span>
 
 *„Csak olyan szavakat szólj,\
 Mik téged nem bántanak,\
@@ -1532,7 +1712,7 @@ A legjobb beszéd."*
 
 *Forrás: Subhāsitasutta, SN 8.5; Snp 3.3*
 
-## Kedves és nem kedves hangok
+## Kedves és nem kedves hangok<span id="kedves-s-nem-kedves-hangok"> </span>
 
 *„Kedves és nem kedves hangokat hallva\
 Ne ejtsenek rabul a kedves hangok,\
@@ -1541,13 +1721,13 @@ Nem kedvelt gondolatával elméd ne rontsd!"*
 
 *Forrás: Adantaaguttasutta, SN 35.94*
 
-## Ki hallja a zajt?
+## Ki hallja a zajt?<span id="toc-ki-hallja-a-zajt"> </span>
 
 „A »nem fogalmi« azt jelenti: a dolgokat úgy hagyjuk, ahogy vannak, anélkül, hogy hozzátennénk vagy elvennénk bármit. A »nem kettős« jelentése szinte ugyanaz. Azt mondani »ez az én gondolatom« vagy »ez zavar engem« kettős megközelítést tükröz. Hogy egy kocsi hangja zavar, ebből az jön, hogy egy »én« létét tételezem, amit zavar egy »zaj« hallása. Ki hallja valójában a zajt? A zaj külön van a személytől, aki hallja, vagy nem? Ha a zaj és a halló elválaszthatatlan, akkor hogyan zavarhat? Hogyan zavarhat engem a hang, ha nem vagyok külön tőle? Ez csak akkor lehet, ha azt gondolom, van valami vagy valaki külön a hangtól. Ha meg tudunk maradni egy tudatállapotban, amiben nem különböztetjük meg a hangot és önmagunkat, többé nem zavarnak a zajok, mindegy, mennyi kocsi halad el."
 
 *Forrás: Path to Buddhahood: Teachings on Gampopa's Jewel Ornament of Liberation by Ringu Tulku, p 151*
 
-## A harag levágása
+## A harag levágása<span id="a-harag-levgsa"> </span>
 
 *„Haragot levágva jól alszol.\
 Haragot levágva nem bánkódsz.\
@@ -1558,7 +1738,7 @@ Mert azt levágva nem bánkódsz."*
 
 *Forrás: Dhanañjānīsutta, SN 7.1*
 
-## Oda, ahol nincs változás
+## Oda, ahol nincs változás<span id="oda-ahol-nincs-vltozs"> </span>
 
 Cao-san elbúcsúzott Tung-santól, amikor Tung-san megkérdezte:
 
@@ -1572,7 +1752,7 @@ Cao-san elbúcsúzott Tung-santól, amikor Tung-san megkérdezte:
 
 *Forrás: Records of the Transmission of the Lamp, 17.427; T51n2076p336a10-12*
 
-## Aludj hangban és formában!
+## Aludj hangban és formában!<span id="aludj-hangban-s-formban"> </span>
 
 Tan-hszia magyarázatából:
 
@@ -1580,13 +1760,13 @@ Ha nyomok nélküli, és hangokon és formákon túli helyet keresel, akkor csak
 
 *Forrás: Collected Works of Korean Buddhism, vol 7.2, p 70*
 
-## Ne kövesd a tárgyakat, ne maradj az ürességben!
+## Ne kövesd a tárgyakat, ne maradj az ürességben!<span id="ne-kvesd-a-trgyakat-ne-maradj-az-ressgben"> </span>
 
 „Például, amikor zazenben ülsz, ha tudatod nem keletkezik és nem működik, és ha nem látsz semmit, nem hallasz semmit, nem érzel semmi fájdalmat vagy viszketést, akkor csak az ürességben vesztegelsz. Ezzel szemben, ha látsz vagy hallasz valamit odakint és gondolkozol rajta, vagy fájdalmat vagy viszketést érzel, akkor csak az alany és tárgy kettőssége okozta elterelődésben vesztegelsz. Mindkét állapotot korlátozzák a megtévedt gondolatok. Ezért a harmadik ős így mondta: »Ne kövesd a tárgyakat és ne maradj az ürességben!« Ezt tanulmányozd közelről és tisztán értsd meg! Csak megvilágítani a színt, alakot, hangot, stb., és nem hozzáadni semmi megkülönböztetést, ez a Buddha bölcsessége."
 
 *Forrás: [Samadhi of the Self (Jijuyū-Zanmai) by Menzan Zuihō (sotozen.com)](https://www.sotozen.com/eng/library/leaflet/heartofzen/pdf/Heart_of_Zen.pdf), in Heart of Zen: Practice without Gaining-mind, p 49-50*
 
-## A megvetés feladása
+## A megvetés feladása<span id="a-megvets-feladsa"> </span>
 
 *"Megvetéssel telve\
 Jutnak rossz helyre\
@@ -1597,13 +1777,13 @@ Már nem jön e világra."*
 
 *Forrás: Iti 5 & 13*
 
-## A tudat: pillanatnyi folyamatok sorozata
+## A tudat: pillanatnyi folyamatok sorozata<span id="toc-a-tudat-pillanatnyi-folyamatok-sorozata"> </span>
 
 „A tudat, ami a legfontosabb egy lényben, az a tudatosság és a tudati tényezők. A tudatosság csupán a tudomás képessége, ami tud a tárgyról. Általában az emberek azt képzelik, hogy a tudat valahol az agyban vagy a szívben van, mint szilárd létező. De ténylegesen nincs így. Az úgynevezett tudat semmi más, mint egymást követő pillanatnyi gondolatok vagy tudatosság folyamatok sorozata, amik az érzéktárgy és az érzékszerv közti benyomás terméke. A szem és a látható tárgy találkozásából keletkezik a szem-tudatosság (viññāṇa), és ezzel egyidejűleg keletkeznek a tudati összetevők (cetasika), úgy mint bármiféle érzés vagy érzet (vedanā), az érzéktárgyak észlelete (saññā), és a hajlamokba vagy késztetésekbe (saṅkhāra) tartozó ötven fajta tudati tényező. Tehát az úgynevezett tudat a négy tudati halmazból áll."
 
 *Forrás: Sayadaw U Pannadipa: The Essential Principles of Enlightenment III.9*
 
-## A tudat keletkezése: szemtől és alaktól függ
+## A tudat keletkezése: szemtől és alaktól függ<span id="a-tudat-keletkezse-szemtl-s-alaktl-fgg"> </span>
 
 *„Ahogyan egy gyermek születését\
 Apától és anyától függőnek mondják,\
@@ -1612,7 +1792,7 @@ Szemtől és alaktól függőnek mondják."*
 
 *Forrás: Nāgārjuna: Ratnāvalī 4.355*
 
-## A tudat, mint káprázat
+## A tudat, mint káprázat<span id="a-tudat-mint-kprzat"> </span>
 
 *„Szemtől és alaktól függőn\
 Káprázatként keletkezik a tudat.\
@@ -1621,7 +1801,7 @@ Hívni azt, aminek létezése van."*
 
 *Forrás: Āryadeva: Catuḥśataka 13.323*
 
-## Három tanító nézete az énről
+## Három tanító nézete az énről<span id="hrom-tant-nzete-az-nrl"> </span>
 
 „Szénija! Az első tanító, akinek a nézete, hogy a jelen világban igazán létezik én, és aki megértése szerint beszél, ő úgy ismerszik, mint akinek a nézete a megsemmisülés.
 
@@ -1631,13 +1811,13 @@ A harmadik tanító, akinek nincs az a nézete, hogy a jelen világban igazán l
 
 *Forrás: Discourse to Seniya, Saṁyuktāgama 105 (T2n99p32a9-14), tr Bhikkhu Anālayo*
 
-## Az öt előírás: az erény kifejlesztése
+## Az öt előírás: az erény kifejlesztése<span id="az-t-elrs-az-erny-kifejlesztse"> </span>
 
 „Az öt előírás egy eszköz pozitív minőségek kifejlesztésére erkölcsös cselekvéssel. A legkevesebb megfogadásával kezdjük: tartózkodni a másoknak különféle módokon ártástól. Ennyit elkerülni jó, de végső soron nem elég. Igazán aktívan keresnünk kéne mások javát! Nem ölünk vagy bántunk élőlényeket, mint az első lépés az együttérzés kifejlesztéséhez. Amikor tartózkodunk a lopástól, elismerjük, mennyire ragaszkodnak az emberek tulajdonaikhoz, aztán tovább megyünk a bőkezűség kifejlesztésére, akár addig, hogy életünk adjuk másokért. Ugyanígy, nem engedjük, hogy kapzsiságunk vagy kéjvágyunk ártson a társadalomnak vagy rombolja a környezetet. Tisztes tagjai próbálunk lenni a társadalomnak, s abban békéltetőként fellépni. Igyekszünk nem gyengíteni az ehhez a képzéshez szükséges önuralmat puszta élvhajhászásból. Ahogy megértjük a jóságot, ami ezekkel a minőségekkel jár, több erőfeszítést teszünk a kifejlesztésükért."
 
 *Forrás: Rewata Dhamma: Emptying the Rose-Apple Seat, p 9*
 
-## Mennyei dicséret a Buddhának
+## Mennyei dicséret a Buddhának<span id="mennyei-dicsret-a-buddhnak"> </span>
 
 *Számtalan mennyei tündér fenn az égben\
 Együtt zenét és dalt ajánlott a Buddha dicséretére,\
@@ -1669,14 +1849,14 @@ Dicséret felajánlásához, elhallgattak és a Buddhára néztek.*
 
 *Forrás: The Flower Adornment Sutra, ch 26, vol 2, p 957, tr Bhikshu Dharmamitra*
 
-## Nincs tudat – üres, mint a délibáb
+## Nincs tudat – üres, mint a délibáb<span id="nincs-tudat--res-mint-a-dlibb"> </span>
 
 *„Külső és belső érzékterületek függvényében keletkezik a tudat.\
 Ezért nincs tudat. Üres, mint a káprázat és a délibáb."*
 
 *Forrás: Śūnyatāsaptatiḥ, 56. v.*
 
-## A buddhák tanítása (Ovāda-páṭimokkha)
+## A buddhák tanítása (Ovāda-páṭimokkha)<span id="a-buddhk-tantsa-ovda-pimokkha"> </span>
 
 Ovāda-pāṭimokkha
 
@@ -1712,7 +1892,7 @@ Adhicitte ca āyogo, etaṁ buddhānasāsanan'ti.
 
 *Forrás: Ovāda-pāṭimokkha (vö. Dhammapada 183–185)*
 
-## A hang elvágva
+## A hang elvágva<span id="a-hang-elvgva"> </span>
 
 - Mi van, amikor a nagy harangot még nem kongatták? - kérdezte egy szerzetes.
 
@@ -1724,7 +1904,7 @@ Adhicitte ca āyogo, etaṁ buddhānasāsanan'ti.
 
 *Forrás: Records of the Transmission of the Lamp, vol 6, 23.772; T51n2076p394c26-28*
 
-## Még több jég a hóra
+## Még több jég a hóra<span id="mg-tbb-jg-a-hra"> </span>
 
 - Mit jelent hirtelen elérni az összes karma megszűnését?
 
@@ -1732,25 +1912,25 @@ Adhicitte ca āyogo, etaṁ buddhānasāsanan'ti.
 
 *Forrás: Records of the Transmission of the Lamp, vol 5, 19.518; T51n2076p359c19-20*
 
-## Még Mahábrahmá is átalakul
+## Még Mahábrahmá is átalakul<span id="mg-mahbrahm-is-talakul"> </span>
 
 „Ameddig ez az ezerszeres világrendszer kiterjed, Mahábrahmá a legfőbb rangú. De még Mahábrahmá is átalakul és megváltozik. Ezt látva a tanult nemes tanítvány kiábrándul belőle. Kiábrándulva belőle szenvtelenné válik a legfőbb iránt, nem beszélve arról, ami alsóbbrendű."
 
 *Forrás: Paṭhamakosalasutta, AN 10.29*
 
-## A holdra mutató ujj
+## A holdra mutató ujj<span id="a-holdra-mutat-ujj"> </span>
 
 „A szútrák tanításai olyanok, mint a holdra mutató ujj. Ha még nem láttuk a holdat, az ujjra kell támaszkodnunk; ha már láttuk a holdat, az ujjnak nincs haszna. Ha még rá kell ébrednünk a buddha tudatra, a tanításokra kell támaszkodnunk; ha felismerjük a buddha tudatot, a nyolcvanezer dharma kapu mind világosan megjelenik az egy tudatban."
 
 *Forrás: A Vernacular Dharma Talk by the National Teacher Shoichi of Tofuku (聖一国師仮名法語), in Buddhism in Practice: Abridged Edition, p 154*
 
-## Az összetett jelenségek szemlélése
+## Az összetett jelenségek szemlélése<span id="az-sszetett-jelensgek-szemllse"> </span>
 
 „Az összetett jelenségek azokat jelentik, amik okok és feltételek összeállásából keletkeznek. Mert okok és feltételek összeállásából vannak, nincs bennük semmi énhez tartozó. Mert összetettek, ezért mulandók. Ha mulandók, akkor más tényezők kényszerítik, és ezért szenvedés a jellemzőjük. Ha szenvedés a jellemzőjük és nem függetlenek átalakulásukban, nincs énjük. Így szemlélődj az összetett jelenségeken!"
 
 *Forrás: The Bodhisaṃbhāra Treatise Commentary, p 303; T32n1660p535b4-7*
 
-## Tíz fiút szültem, majd szabaddá lettem
+## Tíz fiút szültem, majd szabaddá lettem<span id="tz-fit-szltem-majd-szabadd-lettem"> </span>
 
 *„Tíz fiat szültem e formában, e csontzsákban;\
 Majd gyengén és öregen egy apácához mentem.\
@@ -1765,7 +1945,7 @@ Légy átkozott, nyomorult öregség! Már nincs több újraszületés."*
 
 *Forrás: Soṇātherīgāthā, Thig 5.8*
 
-## A tavasz tavasznak érződik
+## A tavasz tavasznak érződik<span id="a-tavasz-tavasznak-rzdik"> </span>
 
 „A tavasz tavasznak érződik, és az ősz ősznek néz ki; nincs tőle menekvés. Így amikor a tavaszt vagy őszt másnak akarod, mint ami, vedd észre, hogy csak úgy lehet, ahogy van. Vagy amikor a tavaszt vagy őszt meg akarod tartani, ahogy van, szemlélődj rajta, hogy nincs változatlan természete.
 
@@ -1773,7 +1953,7 @@ Ami összegyűlt, az én nélküli, és semmilyen tudati tevékenységnek nincs 
 
 *Forrás: Dógen: Csak egy buddha és egy buddha, in Treasury of the True Dharma Eye, ch 92, ed. Kazuaki Tanahashi*
 
-## Adj a békéseknek!
+## Adj a békéseknek!<span id="adj-a-bkseknek"> </span>
 
 A házigazda Anáthapindika és ötszáz világi követője látogatásakor a Buddha a következő verset szavalta Száriputtának (Gihisutta, AN 5.179):
 
@@ -1840,7 +2020,7 @@ A házigazda Anáthapindika és ötszáz világi követője látogatásakor a Bu
 
 *Forrás: Gihisutta, AN 5.179*
 
-## A sárkányok és a felébredési tényezők
+## A sárkányok és a felébredési tényezők<span id="a-srknyok-s-a-felbredsi-tnyezk"> </span>
 
 „A sárkányok a Himalájának, a hegyek királyának köszönhetően nagyok és erősek lesznek. Amikor erősek, tavakba merülnek. Aztán nagy tavakba, patakokba, folyókba, és végül a tengerbe merülnek. Ott óriási és gazdag testük lesz.
 
@@ -1848,13 +2028,13 @@ Ugyanígy, egy szerzetes kifejleszti és gyakorolja a nemes nyolcas utat ... a h
 
 *Forrás: Nāgasutta, SN 45.151; Himavantasutta, SN 46.1*
 
-## A hét felébredési tényező
+## A hét felébredési tényező<span id="a-ht-felbredsi-tnyez"> </span>
 
 „Ez a hét felébredési tényező nem akadálya, nem gátja, nem megrontója a tudatnak. Amikor gyakorolják és kifejlesztik, a tudás és megszabadulás gyümölcsének megtapasztalásához vezetnek. Mi ez a hét felébredési tényező? Az éberség, az elvek vizsgálata, erősség, öröm, derű, összeszedettség, egykedvűség. Ez a hét felébredési tényező nem akadálya, nem gátja, nem megrontója a tudatnak. Amikor gyakorolják és kifejlesztik, a tudás és megszabadulás gyümölcsének megtapasztalásához vezetnek."
 
 *Forrás: Anupakkilesasutta, SN 46.34*
 
-## Az oroszlán bömbölése
+## Az oroszlán bömbölése<span id="az-oroszln-bmblse"> </span>
 
 *„A tanító, kinek nincs párja*\
 *Istenek közt, se az egész világba',*\
@@ -1875,7 +2055,7 @@ Ugyanígy, egy szerzetes kifejleszti és gyakorolja a nemes nyolcas utat ... a h
 
 *Forrás: Sīhasutta, AN 4.33*
 
-## Minden dharma célja: az énhez ragaszkodás csökkentése
+## Minden dharma célja: az énhez ragaszkodás csökkentése<span id="minden-dharma-clja-az-nhez-ragaszkods-cskkentse"> </span>
 
 „Az első útmutatás, hogy minden dharmának, a hínajána és a mahájána összes tanításának egy közös célja van: csökkenteni és felszámolni az énhez ragaszkodást. Bármilyen dharmát gyakorlunk, bármilyen tudat képzésen meditálunk, a cél ennek a ragaszkodásnak a leépítése. Ha ragaszkodásunk nem csökken, akkor nem jól működik a gyakorlásunk. Ha észre vesszük, hogy önmagunk fontosnak gondolása egyre kevesebb, az egy jel, hogy a tudat képzésünk működik.
 
@@ -1885,7 +2065,7 @@ Azt mondják, nyolcvannégyezer fajta dharma van, ami túl sok ahhoz, hogy egés
 
 *Forrás: The Seven Points of Mind Training by Khenchen Thrangu Rinpoche, p 77-78*
 
-## Sem létesüléssel, sem nemlétesüléssel nem szabadulsz
+## Sem létesüléssel, sem nemlétesüléssel nem szabadulsz<span id="sem-lteslssel-sem-nemlteslssel-nem-szabadulsz"> </span>
 
 „A remeték és bráhminok közül, akik azt mondják, hogy a létesülésből létesüléssel szabadulunk, azt mondom: egyikük sem szabad a létesüléstől. A remeték és bráhminok közül, akik azt mondják, hogy a létesülésből nemlétesüléssel szabadulunk, azt mondom: egyikük sem szabad a létesüléstől. Mert e szenvedés minden ragaszkodástól függően keletkezik. Minden ragaszkodás végével nem keletkezik szenvedés. Nézzetek e világra! Mindenféle tudatlanságba merülve a létbe szerelmes lények nem menekülnek a létesülésből. Bármiféle létállapot is legyen - mindenhol, mindenfele - mind mulandó, szenvedés, és változó.
 
@@ -1898,13 +2078,13 @@ Szenvtelenséggel, s maradéktalan elmúlással jön."*
 
 *Forrás: Lokasutta, Ud 3.10*
 
-## A tudat eleve üres
+## A tudat eleve üres<span id="a-tudat-eleve-res"> </span>
 
 „A közönséges emberek többsége nem akarja kiüresíteni a tudatát, attól tartva, hogy belezuhannak az ürességbe. Nem tudják, hogy tudatuk eleve üres."
 
 *Forrás: Huang-po Hszi-jün: A tudat-törvény átadásának lényege, T48n2012Ap382a3-4*
 
-## A Buddha felidézése
+## A Buddha felidézése<span id="a-buddha-felidzse"> </span>
 
 „Amikor egy nemes tanítvány felidézi a Buddhát, tudatát nem ragadja el a sóvárgás, gyűlölet és zavarodottság. Ekkor a tudata egyenes, a Buddhán alapszik. Egy nemes tanítvány, akinek tudata egyenes, ihletet nyer a jelentésből, ihletet nyer a Dhammából, a Dhammával kapcsolatos vidámságot nyer. Amikor vidám, öröm keletkezik. Akinek örömteli a tudata, annak a teste megnyugszik. Akinek a teste nyugodt, az boldogságot érez. Aki boldogságot érez, annak a tudata összeszedett lesz.
 
@@ -1912,7 +2092,7 @@ Az ilyet hívják egy nemes tanítványnak, aki egyensúlyban van a nem egyensú
 
 *Forrás: Mahānāmasutta, AN 11.11-12*
 
-## Helyesen látni az érzéseket
+## Helyesen látni az érzéseket<span id="helyesen-ltni-az-rzseket"> </span>
 
 *„A boldogat fájónak,\
 A fájdalmast tüskének,\
@@ -1927,7 +2107,7 @@ Halálától el sem gondolható."*
 
 *Forrás: Daṭṭhabbasutta, SN 36.5*
 
-## Lát, de nem vágyik
+## Lát, de nem vágyik<span id="lt-de-nem-vgyik"> </span>
 
 *„A Magasztosnak van szeme,\
 És szemével lát alakot;\
@@ -1961,7 +2141,7 @@ Tudata jól megszabadult."*
 
 *Forrás: Koṭṭhikasutta, SN 35.232*
 
-## A bölcsesség: a három méreg elengedése
+## A bölcsesség: a három méreg elengedése<span id="a-blcsessg-a-hrom-mreg-elengedse"> </span>
 
 „Néha megkérnek, hogy mondjak még valamit arról, mit értek a bölcsesség szó alatt. Itt van egy válasz, amit adni szoktam.
 
@@ -1981,37 +2161,37 @@ Aztán békét tapasztalsz magadban. Aztán a tudatod szabad lesz a mohóságtó
 
 *Forrás: Beyond Mindfulness in Plain English by Henepola Gunaratana, p 37-38*
 
-## A félelemtől való szabadság ajándéka
+## A félelemtől való szabadság ajándéka<span id="a-flelemtl-val-szabadsg-ajndka"> </span>
 
 „Ím, egy nemes tanítvány, felhagyva az élet elpusztításával, tartózkodik az élet elpusztításától. Mivel tartózkodik az élet elpusztításától, a nemes tanítvány mérhetetlen számú lénynek adja meg a félelemtől, ellenségességtől és bántalomtól való szabadságot. Így ő is élvezi a félelemtől, ellenségességtől és bántalomtól való mérhetetlen szabadságot. \... Továbbá, a nemes tanítvány, felhagyva a nem adott elvételével, tartózkodik a nem adott elvételétől \... tartózkodik a helytelen nemi viszonytól \... tartózkodik a hamis beszédtől \... tartózkodik a szesztől, bortól és bódító szerektől, amik hanyagságot okoznak. Mivel tartózkodik a szesztől, bortól és bódító szerektől, amik hanyagságot okoznak, a nemes tanítvány mérhetetlen számú lénynek adja meg a félelemtől, ellenségességtől és bántalomtól való szabadságot. Így ő is élvezi a félelemtől, ellenségességtől és bántalomtól való mérhetetlen szabadságot."
 
 *Forrás: Abhisandasutta, AN 8.39*
 
-## A tehénszarv fejése – a helytelen út
+## A tehénszarv fejése – a helytelen út<span id="a-tehnszarv-fejse--a-helytelen-t"> </span>
 
 „Tegyük fel, hogy valaki, akinek tejre van szüksége, tejet keres, tej után kutat, egy nemrégiben ellett tehén szarvát húzná. Így, ha kívánta \... ha nem kívánta \... ha kívánta és nem kívánta \... ha sem kívánta sem nem kívánta és úgy tenne, akkor sem tudna tejhez jutni. Miért? Mert az nem a megfelelő módszer tejhez jutásra. Ugyanígy, bármely remete vagy pap, akinek helytelen nézete, helytelen szándéka, helytelen beszéde, helytelen tette, helytelen megélhetése, helytelen törekvése, helytelen ébersége és helytelen összeszedettsége van, ha kívánta \... ha nem kívánta \... ha kívánta és nem kívánta \... ha sem kívánta sem nem kívánta és szent életet él, akkor sem tudna semmilyen eredményre jutni. Miért? Mert az nem a megfelelő módszer az eredményre jutásra."
 
 *Forrás: Bhūmijasutta, MN 126*
 
-## Kétféle betegség: testi és tudati
+## Kétféle betegség: testi és tudati<span id="ktfle-betegsg-testi-s-tudati"> </span>
 
 „Kétféle betegség van. Milyen kettő? Testi betegség és tudati betegség. Találni olyan embereket, akik azt állítják, hogy a testi egészséget élvezik egy, kettő, három, négy vagy öt éven át; vagy tíz, húsz, harminc, vagy negyven éven át; vagy akár száz vagy még több éven át. De azokon kívül, akik elpusztították a szennyeket, nehéz találni olyan embereket a világon, akik azt állíthatják, hogy a tudati egészséget élvezik akár csak egy pillanatra is."
 
 *Forrás: Rogasutta, AN 4.157*
 
-## A függő keletkezés megértése
+## A függő keletkezés megértése<span id="a-fgg-keletkezs-megrtse"> </span>
 
 „A Buddha tanítása útmutatást nyújt saját tapasztalati világunk belső és külső dolgainak tárgyilagos megértéséhez úgy, ahogy igazából vannak. Tárgyilagosan megérteni valamit úgy, ahogy igazából van, azt jelenti, hogy felfedezzük azt, mint függőn keletkező dolog. Függő keletkező dologként felfedezni valamit azt jelenti, hogy megértjük: mulandó; hogy keletkezésnek, változásnak és megszűnésnek alávetett. Azt jelenti, helyes bölcsességgel látjuk a dolgokat, miközben nem ragaszkodó hozzáállást fejlesztünk ki tapasztalati világunk minden alkotórésze iránt; azzal a gondolattal, hogy „az nem az enyém", „az nem én vagyok", és „az nem az énem". Hogy így értsük, meg kell értenünk a függő keletkezést. Így, aki megérti a függő keletkezést, az megérti minden dolog keletkezését és megszűnését is tapasztalati világában."
 
 *Forrás: The Buddha's Teaching: A Budhistic Analysis by G. A. Somaratne, p 68-69*
 
-## Az erény és a bölcsesség
+## Az erény és a bölcsesség<span id="az-erny-s-a-blcsessg"> </span>
 
 "Ahol erény, ott bölcsesség. Ahol bölcsesség, ott erény. Az erényes ember bölcs, a bölcs ember erényes. Az erényt és a bölcsességet mondják legjobbaknak a világon."
 
 *Forrás: Soṇadaṇḍasutta, DN 4*
 
-## Ahogy én, úgy ők
+## Ahogy én, úgy ők<span id="ahogy-n-gy-k"> </span>
 
 *Ahogy én, úgy ők,\
 Ahogy ők, úgy én;\
@@ -2020,7 +2200,7 @@ Ne ölj és ne öless!*
 
 *Forrás: Nālakasutta, Snp 3.11 / v705*
 
-## Amit magadnak nem kívánsz
+## Amit magadnak nem kívánsz<span id="amit-magadnak-nem-kvnsz"> </span>
 
 Jó család sarja! Valaki kérdezheti: „Mi az az egy minőség, amire a bódhiszattvák állandóan és folyamatosan vigyázzanak?" Jó család sarja! Bármi, amit a bódhiszattvák nem kívánnak, ne tegyék másokkal! Jó család sarja! Azon bódhiszattvák, akik vigyáznak erre az egy minőségre, ezzel vigyáznak a tathágata képzésének minden alapjára. Miért van így? Jó család sarja! Bárki, aki fontosnak tartja saját életét, nem öl. Bárki, aki fontosnak tartja saját vagyonát, nem veszi el azt, amit nem adnak. Bárki, aki fontosnak tartja a feleségét, nem környékezi meg más feleségét. Jó család sarja! Elmagyaráztam, hogy akik így vagy hasonlóképp gondolkoznak és értenek: „A Tathágata tanításainak megfelelően kell cselekedjek!", azok erre az egy minőségre kell vigyázzanak.
 
@@ -2028,13 +2208,13 @@ Miért van így? Jó család sarja! Mind, akik a felülmúlhatatlan, tökéletes
 
 *Forrás: [The Basket without Words, The Illuminator's Matrix (read.84000.co)](https://read.84000.co/translation/toh259.html), 1.15-16*
 
-## Disszociáció vagy éberség?
+## Disszociáció vagy éberség?<span id="disszocici-vagy-bersg"> </span>
 
 „Egyesek úgy érkeznek a spirituális gyakorláshoz, hogy igen sok szenvedést tapasztaltak, és az egyik tipikus nem-spirituális módja a sok szenvedés kezelésének a disszociáció (elkülönülés). Ez a psziché egy túlélési technikája. Például, ha sok testi fájdalmunk van, elkülönülünk a testtől; ha sok érzelmi fájdalmunk van, elkülönülünk az érzelmektől. Ha sok tudati fájdalmat vagy zavart szenvedtünk el, elkülönülünk az elménktől. És amikor eljutunk a spirituális gyakorláshoz és hallunk az összeszedettség gyönyörteli állapotairól - áh, disszociáció! Ugyanazt a tünetet váltja ki; ülünk és elkülönülünk. Egyesek igen jók benne; meditálni kezdenek, hogy elkülönüljenek a meditációs tartásban, spirituális erénynek nevezve azt. Ha a mindennapi életben különülünk el, akkor egy kicsit elszálltnak tartanak, de ha a meditációs teremben különülünk el ülés közben, azt gyakran összetévesztik a spirituális haladással, és hacsak nincs egy nagyon jó tanítónk, a legtöbben nem is fogják tudni, mit csinálunk. Tehát egyeseknek eleve van egy meglévő hajlamuk, és a társadalomnak van egy értetlen irányultsága az elkülönült, testtől elvált spiritualitás felé. Azt gondolom azonban, hogy a Buddha tudatában volt ennek a gyakori hajlamnak. Ezért a felébredés hét tényezőjének és a nyolcas útnak a rendszerében az éberség tényezője az összeszedettség tényezője előtt szerepel. Vagyis azon van a hangsúly, hogy kifejlesszük a test, az érzések, és a tudati állapotok szilárdan megalapozott tudatosságát, még mielőtt nekilátnánk az összeszedettség kifejlesztésének, ami aztán a tudat, az észlelés és a valóság megváltozott állapotainak erőteljes tapasztalataihoz vezethet. Éberen és bölcsen ráhangolódva a testre, továbbá igazán tudatában lenni az érzések és tudatállapotok sokféléségének csökkenti a lehetőségét, hogy disszociációs állapotokba essünk."
 
 *Forrás: Contemplations on the Seven Factors of Awakening by Ajahn Thiradhammo, p 111-112*
 
-## A sehol sem időző tudat
+## A sehol sem időző tudat<span id="a-sehol-sem-idz-tudat"> </span>
 
 „Aki nem tartózkodik semmilyen dharmában, annak tudata nem áll sehol. A tudatnak, ami nem áll sehol, nincs keletkezés. És aki így látja, annak nem jön létre torz tudat és tudati állapotok; akinek a tudata nem torzult, megvalósítása hiteles.
 
@@ -2056,7 +2236,7 @@ Ami tiszta az nem keletkezik. A nem keletkezés hibátlan. Ami hibátlan, az az 
 
 *Forrás: The Ornament of the Light of Awareness That Enters the Domain of All Buddhas, 1.63-66*
 
-## A káros dolgok elhagyásáért tanítom
+## A káros dolgok elhagyásáért tanítom<span id="a-kros-dolgok-elhagysrt-tantom"> </span>
 
 Nigródha, azt gondolhatod: „Gótama remete azért mondja ezt, hogy tanítványokat szerezzen". De nem így kéne gondolnod. Aki a tanítód, maradjon a tanítód! Vagy azt gondolhatod: „Azt akarja, hogy elhagyjuk a szabályainkat". De nem így kéne gondolnod. A szabályaid maradjanak, ahogy vannak! Vagy azt gondolhatod: „Azt akarja, hogy felhagyjunk az életvitelünkkel". De nem így kéne gondolnod. Az életviteled maradjon, ahogy volt! Vagy azt gondolhatod: „Azt akarja, hogy olyanokat csináljunk, amik a tanításaink szerint, s szerintünk rosszak". De nem így kéne gondolnod. Amik szerinted rosszak, tartsd továbbra is annak őket! Vagy azt gondolhatod: „Azt akarja, hogy ne csináljunk olyanokat, amik a tanításaink szerint, s szerintünk jók". De nem így kéne gondolnod. Amik szerinted jók, tartsd továbbra is annak őket! Nigródha, nem ezek okán beszélek.
 
@@ -2064,7 +2244,7 @@ Vannak, Nigródha, el nem hagyott káros dolgok, szennyezettek, újraszületésh
 
 *Forrás: Udumbarika-Sīhanāda Sutta: The Great Lion's Roar to the Udumbarikans, DN 25*
 
-## Kútmélyi béka lenyeli a holdat
+## Kútmélyi béka lenyeli a holdat<span id="ktmlyi-bka-lenyeli-a-holdat"> </span>
 
 Egy szerzetes megkérdezte a Fehér Ló-hegyi Hszing-ai tisztelendőt:
 
@@ -2078,7 +2258,7 @@ Egy szerzetes megkérdezte a Fehér Ló-hegyi Hszing-ai tisztelendőt:
 
 *Forrás: Records of the Transmission of the Lamp, vol 6, 23.760 / Treasury of the Eye of the True Teaching, vol 1, case 355; T51n2076p394a18-20 / X67n1309p598c7-8*
 
-## Miért nyeli le a béka a holdat?
+## Miért nyeli le a béka a holdat?<span id="mirt-nyeli-le-a-bka-a-holdat"> </span>
 
 Egy szerzetes megkérdezte Huang-lungot:
 
@@ -2096,19 +2276,19 @@ Egy szerzetes megkérdezte Huang-lungot:
 
 *Forrás: Records of the Transmission of the Lamp, vol 4, 17.435; T51n2076p338c24-25*
 
-## Az öt halmaz épp most a tiszta nirvána
+## Az öt halmaz épp most a tiszta nirvána<span id="az-t-halmaz-pp-most-a-tiszta-nirvna"> </span>
 
 „Mert a közönséges embereknek nincs megértésük, azt mondják: a múlt különbözik a jelentől, és hogy a jelen különbözik a múlttól. Továbbá azt mondják: a négy elemen kívül létezik a Dharma test is. Amikor megérted: az öt halmaz épp most a tökéletes, tiszta nirvána, és ez a test és tudat rendelkezik a tízezer gyakorlattal. Valóban, a nagy tételként ezt jelentik ki. Ha ilyen megértésed van, látod a ragyogó, tiszta gyöngyöt a szennyeződések tengerében, és képes vagy a sugárzásban megvilágítani minden érző lény sötétségét."
 
 *Forrás: Huj-ko csan mester, in The Bodhidharma Anthology, p 49*
 
-## A négy idő
+## A négy idő<span id="a-ngy-id"> </span>
 
 Szerzetesek! Négy idő van. Milyen négy? A Dhamma hallgatásának ideje. A Dhamma megbeszélésének ideje. A nyugalom ideje. A belátás ideje. Ez a négy idő.
 
 *Forrás: Paṭhamakālasutta, AN 4.146*
 
-## A Dhamma megfelelő időben való hallgatásának öt haszna
+## A Dhamma megfelelő időben való hallgatásának öt haszna<span id="a-dhamma-megfelel-idben-val-hallgatsnak-t-haszna"> </span>
 
 Amikor összegyűltök, e két dolog egyikét tegyétek: beszélgessetek a Dhammáról, vagy őrizzétek a nemes csendet!
 
@@ -2130,13 +2310,13 @@ Ez az öt haszna van a Dhamma megfelelő időben hallgatásának és a Dhamma me
 
 *Forrás: Nandakasutta, AN 9.4*
 
-## Mindenki a boldogságot keresi
+## Mindenki a boldogságot keresi<span id="mindenki-a-boldogsgot-keresi"> </span>
 
 „Minden ember természeténél fogva keresi a szenvedéstől szabadulást és a boldogságot. Ez azonban illékony célnak bizonyul, mert a boldogság utáni vágyunk nem jár automatikusan annak tudásával, hogyan találjuk azt meg. Ha a boldogság megszerzésének tudása együtt járna a boldogságra való vággyal, nem lenne szükség egy buddhára, hogy megjelenjen a világban. Mindannyian képesek lennénk önállóan elérni a tökéletes boldogságot. Szükségünk van egy buddha útmutatására, mert bár természetszerűleg vágyunk a szenvedés elkerülésére és a boldogság elérésére, nincs világos fogalmunk az útról, ami elvezet ennek a vágynak a beteljesüléséhez."
 
 *Forrás: The Good, The Beautiful, and The True by Bhikkhu Bodhi, p 4*
 
-## A tudat figyelése
+## A tudat figyelése<span id="a-tudat-figyelse"> </span>
 
 „Amikor tudatosak vagyunk a felmerült boldog vagy boldogtalan tudatállapotra, az a tudatállapot elmúlik. Ennek következtében a tudat semleges lesz, de ez csak egy ideiglenes semlegesség. Hamarosan a kellemes és kellemetlen állapotok egymás után újra megjelennek. Folyamatosan csak megfigyeljük őket. Amint a tudat semleges lesz, figyeld tovább, bármilyen állapot is keletkezzen és múljon el. Így meglátjuk az igazságot, hogy minden jelenség keletkezik és aztán elmúlik. Ez a tudat figyelésének az elve.
 
@@ -2150,13 +2330,13 @@ A tudó, amit az igazi bölcsesség gyakorlására használnak, olyan kell legye
 
 *Forrás: [The Principles of Observing the Mind, in Words of Wisdom: A Collection of Dhamma Talks by Venerable Luangpor Pramote Pamojjo (media.dhamma.com)](https://media.dhamma.com/pramote/books/ENWordsofWisdom.pdf), p 92-96*
 
-## Saját egészségünk apasztja a világ tüzeit
+## Saját egészségünk apasztja a világ tüzeit<span id="sajt-egszsgnk-apasztja-a-vilg-tzeit"> </span>
 
 „Bizonyára saját beteljesedettségünk és egészségünk nem fog másokat meggyógyítani, legalábbis nem közvetlenül és nem minden esetben. Az ártalmatlanságunk csak néha fog másokat visszatartani az ártástól. De megnyerve a szellemi egészséget, legalább eggyel csökkentjük a világban a fertőzés forrásait és ártalmatlanságunk apasztja a világot sújtó gyűlölet tüzeit tápláló olajat."
 
 *Forrás: Why End Suffering? by Nyanaponika Thera, in The Vision of Dhamma, p 308*
 
-## A nézetekhez ragaszkodás kammája
+## A nézetekhez ragaszkodás kammája<span id="a-nzetekhez-ragaszkods-kammja"> </span>
 
 „Üdvös és káros kammák valláshoz ragaszkodásból is születnek. Az emberek általában azt hiszik, hogy az övék az egyedüli igaz vallás, hogy az összes többi téves. Ezért aztán megpróbálják terjeszteni a vallásukat, megtéríteni másokat erőszakkal vagy üldözni a nem hívőket. Mindezek az igazságtalanságok a vallási ragaszkodásból erednek. Kamma politikai nézetekhez vagy ideológiákhoz történő ragaszkodásból is sarjadhat. Egyes emberek rá akarják erőszakolni másokra a véleményüket bárhogy, ahogy csak tudják. Különféleképp terjesztik azt és azokat, akik nem értenek egyet velük, hiteltelenítik, rágalmazzák, vagy aláássák az egységüket. Mindezen erőfeszítések és tevékenységek létesülés, ami a fanatizmusból fakad. Röviden, minden gyakorlattal és az én-hiten kívüli hitekkel való megszállottság nézetekhez ragaszkodás, ami kammához vezet.
 
@@ -2164,19 +2344,19 @@ Vannak emberek, akik azt hiszik, megváltást nyernek gyakorlatokkal, amiknek se
 
 *Forrás: [A Discourse on Dependent Origination by Mahāsi Sayādaw (aimwell.org)](http://aimwell.org/dependentorigination.html)*
 
-## A gondolat tudatosítása megszünteti a gondolkodást
+## A gondolat tudatosítása megszünteti a gondolkodást<span id="a-gondolat-tudatostsa-megsznteti-a-gondolkodst"> </span>
 
 "Ha a gondolatok tartalmának vagy tudatában, akkor folytatódni szoktak. Ha magának a gondolatnak vagy tudatában, akkor a gondolkodás megszűnik."
 
 *Forrás: [Vipassana Meditation Guidelines by Chanmyay Sayadaw (buddhanet.net)](https://www.buddhanet.net/v_guide.htm)*
 
-## Csak föld, víz, tűz, szél
+## Csak föld, víz, tűz, szél<span id="csak-fld-vz-tz-szl"> </span>
 
 „Nincs valódi boldogság vagy valódi szenvedés. Ezek csupán csak létező állapotok: csak boldogság, csak szenvedés, csak meleg, csak hideg, csak egy lény vagy egy személy. Keress tovább, hogy lásd: a dolgok csak ennyi. Csak föld, csak víz, csak tűz, csak szél. „Olvassuk" tovább ezeket a dolgokat és vizsgáljuk meg ezt a pontot. Végül a szemléletünk megváltozik, másként fogunk érezni a dolgokról. A szorosan őrzött meggyőződés, hogy van én és vannak az énhez tartozó dolgok fokozatosan eloszlik. Amikor a dolgok ezen érzete eltűnik, annak ellenkező szemlélete stabilan nőni fog."
 
 *Forrás: It Can Be Done, in The Collected Teachings of Ajahn Chah, p 74*
 
-## Belátás a három jellegbe
+## Belátás a három jellegbe<span id="belts-a-hrom-jellegbe"> </span>
 
 „Személyes tapasztalattal nyerünk belátást a mulandóságba, az elégtelenségbe, és a nem-énbe. Senki nem ismeri ezt a hármat, hacsak nem nézte meg magának. Nagyon szép szavak, amik a többségeteknek ismerős, de közvetlen belső tudással kell megértenetek. Bár minden egyes pillanatban tapasztaljuk őket, általában nem figyelünk eléggé.
 
@@ -2186,13 +2366,13 @@ Mindannyian megtapasztalhatjuk a valóságot - ahogyan a dolgok valóban vannak 
 
 *Forrás: Being Nobody, Going Nowhere by Ayya Khema, BPS ed, p 20-21*
 
-## Nyugalom és különleges felismerés
+## Nyugalom és különleges felismerés<span id="nyugalom-s-klnleges-felismers"> </span>
 
 „A nyugodt megállapodottság meditációjának ereje által az elmét nem zavarják többé a fogalmi gondolatok, és olyan lesz, akár egy mécses lángja, amit nem fúj a szél. A különleges felismerés a téves nézetek minden foltját eltávolítja, így nem lesznek rátok hatással mások (nézetei). A Holdlámpás szútra mondja: »A nyugodt és megállapodott elme meditációjának erejével az elme rendíthetetlenné válhat, a különleges felismerés pedig olyanná teszi, akár egy hegy.« Ezért folytassatok olyan jógikus gyakorlatot, amely mindkettőt magában foglalja."
 
 *Forrás: Kamalasíla, in Dalai Láma: A meditáció szakaszai, Édesvíz kiadó, 103-104. o.*
 
-## A Dhamma egy tó
+## A Dhamma egy tó<span id="a-dhamma-egy-t"> </span>
 
 *„A Dhamma egy tó, erények a strandja,*\
 *Áttetsző, a jó jónak dicséri.*\
@@ -2201,7 +2381,7 @@ Mindannyian megtapasztalhatjuk a valóságot - ahogyan a dolgok valóban vannak 
 
 *Forrás: Saṅgāravasutta, SN 7.21*
 
-## A Buddhát a függő keletkezés látásával látjuk
+## A Buddhát a függő keletkezés látásával látjuk<span id="a-buddht-a-fgg-keletkezs-ltsval-ltjuk"> </span>
 
 „Most, hogy világszerte vannak buddha képmások, van bárki, aki igazán látja a Buddhát? Az emberek a Buddhát a testeként vagy az arról alkotott élettelen képmásokként látják, de azok nem az igazi Buddha. Az igazi Buddhát a Dhamma meglátásával látjuk, és a Dhammát a függő keletkezés látásával látjuk. A függő keletkezés látása azt jelenti, hogy látjuk ahogy a szenvedés megszületik és ahogy kialszik. Látni egyaránt a függő keletkezés és a függő kialvást - ezt jelenti a Dhamma látása és a valódi Buddha látása.
 
@@ -2211,20 +2391,26 @@ Az igazi tudás, amit a függöny mögött felfedezünk, az egyszerűen a felté
 
 *Forrás: Under the Bodhi Tree by Buddhadasa Bhikkhu, p 108-109*
 
-## Három feltétel a nibbána tapasztalásához
+## Három feltétel a nibbána tapasztalásához<span id="hrom-felttel-a-nibbna-tapasztalshoz"> </span>
 
 "Egy alkalommal a Buddha azt mondta Mágandija aszkétának, hogy bárki, aki a nibbána gyönyörét kívánja tapasztalni, annak három feltételt kell teljesítenie: erkölcsös és bölcs embereket keresni és velük lenni, hogy hallják az igaz Dhammát, és annak megfelelően gyakoroljanak. Egy meditálónak, aki szeretne mindenféle szenvedéstől megszabadulni, először találnia kell egy tanítót, aki megfelelő útmutatást tud adni a meditáció módszeréhez. Továbbá, intellektuális megértésre kell jutnia a tanításról. Végül, a meditálónak gyakorolnia kell azt, amit tanult. Egyesek azt mondják, hogy nem szükséges a tanításokat hallgatni és tanulmányozni, csak gyakorolni kell. Ellenkezőleg, a beszédek tanulmányozásával és hallgatásával megfelelő keretre tesz szert az ember, amiben értelmezni kell a meditációs tapasztalatokat. A tanulmányozás motivál, eloszlatja a gyakorlattal kapcsolatos kétségeket és a létezésről való hibás nézeteket, mielőtt valaki elkezdené a képzést, amivel a Dhammát belsővé teszi."
 
 *Forrás: Emptying the Rose-Apple Seat by Rewata Dhamma, p 112*
 
-## Helyes gyakorlás világiaknak és lemondottaknak
+## Helyes gyakorlás világiaknak és lemondottaknak<span id="helyes-gyakorls-vilgiaknak-s-lemondottaknak"> </span>
 
 „Nem dicsérem a hibás gyakorlását sem világiaknak, sem lemondottaknak - mert legyen az világi vagy lemondott, aki hibásan gyakorol, az hibás gyakorlásának következtében nem jut a helyes útra, az üdvös Dhammához. Dicsérem a helyes gyakorlását világiaknak és lemondottaknak - mert legyen az világi vagy lemondott, aki helyesen gyakorol, az helyes gyakorlásának következtében eljut a helyes útra, az üdvös Dhammához."
 
 *Forrás: MN 99*
 
-## Az üdvös minőségek kezdete: erkölcs és helyes nézet
+## Az üdvös minőségek kezdete: erkölcs és helyes nézet<span id="az-dvs-minsgek-kezdete-erklcs-s-helyes-nzet"> </span>
 
 "Mi az üdvös minőségek kezdete? A teljesen tiszta erkölcs és a helyes nézet. Amikor az erkölcsöd teljesen tiszta és nézeted helyes, az erkölcsösség függvényében és arra alapozva fejleszd ki az éberség négyes alapját."
 
 *Forrás: SN 47.3*
+
+## Licenc<span id="toc-licenc"> </span>
+
+*Fordította: Hadházi Zsolt, 2026*
+
+*Ez a Mű a [Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi Licenc](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu) feltételeinek megfelelően felhasználható.*

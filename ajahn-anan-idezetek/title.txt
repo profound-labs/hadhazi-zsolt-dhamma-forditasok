@@ -1,6 +1,7 @@
 ---
-title: Ácsán Ánán Idézetek
+title: Ácsán Ánán Tanításai
 author: Ácsán Ánán
 lang: hu
 keywords: Ácsán Ánán, Ajahn Anan, Dhamma, buddhism, RELIGION / Buddhism / Theravada
+cover-image: cover.jpg
 ...
