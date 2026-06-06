@@ -3,5 +3,5 @@ title: Ácsán Kaljánó Tanításai
 author: Ácsán Kaljánó
 lang: hu
 keywords: Ácsán Kaljánó, Ajahn Kalyano, Dhamma, buddhism, RELIGION / Buddhism / Theravada
-cover-image: cover.jpg
+cover-image: acsan-kaljano-tanitasai-cover.jpg
 ...

@@ -3,5 +3,5 @@ title: Ácsán Ánán Tanításai
 author: Ácsán Ánán
 lang: hu
 keywords: Ácsán Ánán, Ajahn Anan, Dhamma, buddhism, RELIGION / Buddhism / Theravada
-cover-image: cover.jpg
+cover-image: acsan-anan-tanitasai-cover.jpg
 ...
