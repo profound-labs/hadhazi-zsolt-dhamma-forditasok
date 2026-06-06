@@ -1,5 +1,5 @@
 all:
-	@cd ajahn-anan-idezetek && make && cd .. && \
-	cd ajahn-kalyano-idezetek && make && cd .. && \
-	cd dharma-idezetek && make && cd .. && \
+	@cd ajahn-anan-tanitasai && make && cd .. && \
+	cd ajahn-kalyano-tanitasai && make && cd .. && \
+	cd dharma-tanitasok && make && cd .. && \
 	echo "=== 📗 COMPLETED 📗 ==="
