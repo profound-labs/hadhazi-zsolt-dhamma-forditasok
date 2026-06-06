@@ -23,7 +23,7 @@ TOC_RE = re.compile(r'^\s*[-*]\s*\[(?P<title>.+?)\]\(#(?P<id>[^)]+)\)\s*$')
 # Matches a markdown ATX header, capturing the hashes and the (trimmed) text.
 HEADER_RE = re.compile(r'^(?P<hashes>#{1,6})\s+(?P<text>.+?)\s*$')
 # Matches a trailing span so it can be stripped before (re)matching the title.
-ANCHOR_RE = re.compile(r'\s*<span id="[^"]*"> </span>\s*$')
+ANCHOR_RE = re.compile(r'\s*<span id="[^"]*">&nbsp;</span>\s*$')
 
 
 def process(path):
@@ -47,7 +47,7 @@ def process(path):
         anchor_id = title_to_id.get(text)
         if anchor_id is None:
             continue
-        new_line = f'{m.group("hashes")} {text}<span id="{anchor_id}"> </span>'
+        new_line = f'{m.group("hashes")} {text}<span id="{anchor_id}">&nbsp;</span>'
         if new_line != line:
             lines[i] = new_line
             changed += 1

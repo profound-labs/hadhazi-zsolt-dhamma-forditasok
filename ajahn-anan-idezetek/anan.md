@@ -38,7 +38,7 @@
 
 <!-- markdown-toc end -->
 
-## A bölcs és a bolond<span id="a-blcs-s-a-bolond"> </span>
+## A bölcs és a bolond<span id="a-blcs-s-a-bolond">&nbsp;</span>
 
 „Tudnunk kell, hogy milyen a bölcs ember, hogy legyen bölcsességünk, s hogy ne a belső bolonddal barátkozzunk, ami a kapzsiság, utálat, és zavarodottság. A kapzsiság, utálat, és zavarodottság már nagyon régóta itt van az elménkben. Így amikor eljövünk a Dhammát gyakorolni, találkoznunk kell velük, megjelenik a kapzsiság, utálat, és zavarodottság. Ezért gondolkodjunk és szemlélődjünk azon, hogy az életünk halálban végződik. Megszülettünk és meg is kell halnunk. Ez a test pedig tele van betegséggel, tele van nem szép dolgokkal. Szemlélődünk, hogy elengedjük, elengedjük, elengedjük.
 
@@ -54,7 +54,7 @@ Amikor bölcsesség híján vagyunk, felmerülnek gondolatok, s legyenek azok a 
 
 *Forrás: [The Sage & The Fool by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=MGrcETlcP4Q), 20:17-26:35, 29 July 2025*
 
-## A halálfélelem legyőzése és a legnagyobb boldogság<span id="a-hallflelem-legyzse-s-a-legnagyobb-boldogsg"> </span>
+## A halálfélelem legyőzése és a legnagyobb boldogság<span id="a-hallflelem-legyzse-s-a-legnagyobb-boldogsg">&nbsp;</span>
 
 „Ha az elme nagyon szétszórt, két-háromszor mély levegőt vehetünk, hogy visszatérjünk a meditációs tárgyhoz és képezzük magunk az elme megbékítésében. Képezzük, hogy ne gondolkodjon túl sokat mindenféléről, hanem visszatérjen ide, a jelen pillanatba.
 
@@ -66,7 +66,7 @@ Akik a Dhammát gyakorolják, nem halnak meg, az elméjük nagyon sugárzó és 
 
 *Forrás: [Samatha, Vipassanā & the Highest Happiness by Luang Por Anan (youtube.com)](https://www.youtube.com/watch?v=jSlG5EKJOns), 21:20-24:39*
 
-## Az elronthatatlan gyakorlat: a közvetlen út<span id="az-elronthatatlan-gyakorlat-a-kzvetlen-t"> </span>
+## Az elronthatatlan gyakorlat: a közvetlen út<span id="az-elronthatatlan-gyakorlat-a-kzvetlen-t">&nbsp;</span>
 
 „Egy este sétáló meditáció közben azon gondolkoztam, hogy mi ténylegesen a helyes gyakorlás módja? Mi fog elvezetni a Dhamma megértéséhez? Igazán ismerni akarom a gyakorlás útját, hogy teljes erőfeszítéssel, éberséggel, és bölcsességgel követhessem.
 
@@ -74,13 +74,13 @@ Nem sokkal utána lungpó Cshá beszédében az elronthatatlan gyakorlatról \[a
 
 *Forrás: [Sotapattimagga: The Path of the Sotapanna by Ajahn Anan (watmarpjan.org)](https://watmarpjan.org/en/wp-content/uploads/sites/2/Sotapattimagga.pdf), p 27-28*
 
-## A menny az elmében van<span id="a-menny-az-elmben-van"> </span>
+## A menny az elmében van<span id="a-menny-az-elmben-van">&nbsp;</span>
 
 „Akik nem gyakorolják az adakozást, távol vannak a mennytől. A menny a boldogság egy birodalma, vagyis, először az elme lesz boldog, az elme a menny. Nem az van, hogy a menny valahol egy birodalomban van. A menny az elmében van. A zsugoriság az elmében van. Amikor el tudjuk engedni, létrejön a menny, boldogság keletkezik, az elégedettség érzése keletkezik, és ezt saját magunkban igazolhatjuk."
 
 *Forrás: [A Closed Hand, A Closed Heart by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=_NKZwVpRZJw), 9:56-10:31*
 
-## Felkészülni az öregségre, betegségre és halálra<span id="felkszlni-az-regsgre-betegsgre-s-hallra"> </span>
+## Felkészülni az öregségre, betegségre és halálra<span id="felkszlni-az-regsgre-betegsgre-s-hallra">&nbsp;</span>
 
 „Szenvedés vár ránk. Szenvedés öregségtől, betegségtől, illetve az egyszer mindenképp széteső testtől, avagy a haláltól, amivel elkerülhetetlenül találkozunk. De felkészültünk rá? Néha könnyű azt mondani, hogy ez természetes dolog, nemde? Az öregség természetes. A betegség természetes. A halál természetes. De tényleg látjuk, hogy természetes? Már tisztán értjük? Itt kezd nehezedni. Amikor velünk történik, nem tudjuk elfogadni. Miért velem kell történjen ez? Miért? Mert bizonytalan. Minden bizonytalan. Most ver a szívünk. Minden nap ver. De nem tudjuk, mikor áll meg."
 
@@ -96,31 +96,31 @@ Mielőtt még szerzetes lettem, egyszer elmentem megkérdezni luangpó Kruba Int
 
 *Forrás: [Practicing Dhamma in a Materialistic World by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=INFQTqE1RkY), 10:36-11:34, 12:53-15:05, 16:33-17:40*
 
-## Minden dhamma nem-én<span id="minden-dhamma-nem-n"> </span>
+## Minden dhamma nem-én<span id="minden-dhamma-nem-n">&nbsp;</span>
 
 „Ha nem kételkedem, honnan tudom, hogy ez a helyes út? Ezek a gondolatok mindent csak összekuszálnak, zavarossá teszik elménket. Végül, e kételyeket követve sem tudjuk, továbbra is töprengünk, hogy mit kéne csinálnunk. És az elme nem békés, csak zavaros. De valójában a gyakorlás útja könnyű. Csak légy tudatos! Állás, járás, ülés, fekvés, evés, ivás, beszéd, hallgatás, gondolkodás - mindeközben legyél tudatos, legyen sok szampadzsannyád, rálátásod! Végül az elme higgadt és békés lesz, megjelenik benne a nyugalom. A szívet öröm, boldogság tölti meg. Kételyeink vannak, kérdezzük magunktól: az milyen? Olvassuk a szövegeket, de a válasz még nem tiszta. De amikor tényleg csináljuk, akkor magunktól megértjük, meglátjuk, hogy az öröm ilyen, a boldogság ilyen, a szamádhi ilyen. A szamádhi is anattá, nem én, viszont kezdetben arra kell támaszkodnunk és azt kifejlesztenünk, hogy megjelenjen a bölcsesség. Így aztán látjuk, hogy mind dukkha, nem tartós, mind aniccsa, változó, és anattá, nem én, tehát üresek. Ha így látjuk a dhammákat, akkor nem kell mondani magunknak, hogy minden aniccsa, dukkha, anattá, mert létrejön bennünk ez a tudás, személyesen látjuk, hogy miként vannak valójában a dolgok. A szövegek beszélnek az aniccsáról, az állandótlanságról, mulandóságról, és hogy hogyan nem tartósak a dolgok, és hogyan anattá, de amikor gyakorlunk, akkor magunk látjuk meg."
 
 *Forrás: [All Dhammas are Not-Self by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=js9Br-nIIeY), 12:53-15:25, 23 Apr 2022*
 
-## A függő keletkezés a szívünkben<span id="a-fgg-keletkezs-a-szvnkben"> </span>
+## A függő keletkezés a szívünkben<span id="a-fgg-keletkezs-a-szvnkben">&nbsp;</span>
 
 „Ha nem gyakorlunk, a szennyeződések nem fognak eltűnni. Ezért keltsük fel a bölcsességet, és amikor a szívünkben helyes nézet van, a szennyeződések akkor nem képesek megjelenni. Óvatosnak kell lennünk, oda kell figyelnünk a szívünkre. A függő keletkezésnek mind a tizenkét lépése a szívünkben van. A tudatlanság késztetéseket hoz létre: van egy tapasztalatunk, amit szeretünk vagy nem szeretünk, majd a szív elkezdi bonyolítani. De figyelnünk kell ezt a folyamatot, és tudnunk: már megjelentek a szennyeződések, és időben tudnunk, látnunk, hogy mi az; majd folytatnunk a figyelését, s látni mindegyikük változó, bajos, személytelen természetét. Tudni, hogy hamarosan elmúlik; hogy most elmúlt; és hogy amikor elmúlt, semmi sem maradt meg."
 
 *Forrás: [The Harm of Enmity & the Happiness of Forgiveness by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=_TqEVCEyB-A), 8:38-9:46, 07 Oct 2025*
 
-## Az öt halmazhoz ragaszkodás elvágása<span id="az-t-halmazhoz-ragaszkods-elvgsa"> </span>
+## Az öt halmazhoz ragaszkodás elvágása<span id="az-t-halmazhoz-ragaszkods-elvgsa">&nbsp;</span>
 
 „Összeszedhetjük a Dhamma minden pontját, mind a nyolcvannégyezer Dhamma szakaszt az upādāna tanításába: az öt halmazhoz (test, érzés, észlelés, késztetés, tudat) ragaszkodásba, ami a dukkha, a szenvedés keletkezése, és ha elvágjuk az upādānát, akkor ez a szenvedés végének a megvalósítása."
 
 *Forrás: [Firm Intent by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=xTC_DbQJ_5Y), 2:07-2:39, 30 May 2022*
 
-## Minden lélegzettel meghalunk<span id="minden-llegzettel-meghalunk"> </span>
+## Minden lélegzettel meghalunk<span id="minden-llegzettel-meghalunk">&nbsp;</span>
 
 „Azt gondoljuk, az ember csak akkor van a halálán, amikor nem lélegzik többé. De képeznünk kell magunkat a szemlélődésben, hogy lássuk: minden egyes belégzéssel és kilégzéssel meghalunk. Amikor jól összeszedett az elme, amikor nyugodt, amikor békés, akkor tisztán látjuk, hogy születésünk pillanatától a test romlásnak indult. De ha nem békés, akkor nem látjuk ezek természetét, nem látjuk az igazságot. Ezért képeznünk kell magunkat, hogy kifejlesszük ezt a békét. De nem csak akkor képezzük magunk, amikor ülünk, hanem akkor is, amikor állunk, fekszünk, sétálunk, dolgozunk. Elő kell hoznunk a tudatosságot, és ezt sokszor csinálnunk!"
 
 *Forrás: [Don't Stop at Heaven by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=8A0L_-ohtIY), 5:36-6:27*
 
-## A világban élni, a világtól meg nem tévesztve<span id="a-vilgban-lni-a-vilgtl-meg-nem-tvesztve"> </span>
+## A világban élni, a világtól meg nem tévesztve<span id="a-vilgban-lni-a-vilgtl-meg-nem-tvesztve">&nbsp;</span>
 
 „Mi az ész? Az ész a megismerő elem, avagy a vinnyána, a tudat, aminek funkciója az érzéktárgyak észlelése. Amikor észleljük az érzéktárgyakat és nincs bölcsességünk, akkor ragaszkodunk ezekhez a tárgyakhoz, mint ami én vagy enyém. Ezért oktatnunk kell az elmét, művelnünk a megismerőt, megtanítani az eszünket, hogy bölcs legyen, hogy megértse, nem kéne ragaszkodnunk azokhoz az érzéktárgyakhoz, minthogy az szenvedéshez vezet.
 
@@ -134,13 +134,13 @@ Ezért képeznünk kell az eszünket, megtanítani neki, hogy megértse a világ
 
 *Forrás: [Living in the World, Undeluded by the World by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=v67tBWPLeKw), 20:59-24:15*
 
-## A békés elme a belátás alapja<span id="a-bks-elme-a-belts-alapja"> </span>
+## A békés elme a belátás alapja<span id="a-bks-elme-a-belts-alapja">&nbsp;</span>
 
 „Minden meditációs módszer, amit használunk, arra szolgál, hogy összeszedjük az elmét a békességig, hogy lehetővé tegyék az elme lenyugvását. Ha nem nagyon, akkor egy kicsit, csak amennyire képesek vagyunk. Amikor az elme lenyugodott, azt arra használjuk, hogy szemlélődjünk és megértsük a test és az elme természetét; hogy meglássuk: egyik sem én, nem én vagyok, nem az enyémek. De ha az elme nem békés, akkor nem leszünk képesek ezt megtenni, csak szétszórtság és zűrzavar lesz az elménkben."
 
 *Forrás: [The Mind Matters More by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=ZocgjpQ64yo), 12:08-12:49, 28 Apr 2020*
 
-## Az éberek élnek, a figyelmetlenek halottak<span id="az-berek-lnek-a-figyelmetlenek-halottak"> </span>
+## Az éberek élnek, a figyelmetlenek halottak<span id="az-berek-lnek-a-figyelmetlenek-halottak">&nbsp;</span>
 
 „Van hitünk a Buddha tanításában, ezért valóban ismerjük meg, tanulmányozzuk alaposan, vizsgáljuk meg ezeket a tanításokat, majd ültessük gyakorlatba! Így tekintsünk bele és tanulmányozzuk saját elménket! Kérdezzük magunktól: Milyen az elménk? Mindig van benne szennyeződés? Folyamatos szívünkben a tudatlanság áramlása? Nem. A tudatlanság akkor merül fel, amikor a szem lát egy alakot, a fül hall egy hangot, az orr találkozik egy szaggal, a nyelv érez egy ízt, a test találkozik egy érintéssel, vagy egy érzés merül fel a szívben. Akkor jelenik meg a zavarodottság, ami az elmét a szeretem vagy nem szeretem, a boldogság vagy szenvedés felé tolja.
 
@@ -150,31 +150,31 @@ Akik figyelmesek: élnek, nem halnak meg. De akik figyelmetlenek, már halottak.
 
 *Forrás: [Illness is Normal for Me by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=9ehPo1_LjFQ), 22:58-25:37*
 
-## Az érzéki tudat mulandó<span id="az-rzki-tudat-muland"> </span>
+## Az érzéki tudat mulandó<span id="az-rzki-tudat-muland">&nbsp;</span>
 
 „De az érzékelő tudatosságon, a vinnyánán szemlélődve azt látjuk, azt érezzük, hogy amikor a szem egy alakot lát, akkor az mi vagyunk, aki azt látja, hogy az érzés az én. De ha látjuk, hogy a látás az csak látás, akkor nem szenvedünk. Viszont ha azt gondoljuk, hogy a látás tapasztalása én, akkor az egy ok a szenvedés keletkezésére. Míg ha ránézünk és megvizsgáljuk, látjuk, hogy ha van egy működő fizikai látószerv, van világítás, van szándék látni, van egy anyagi forma, akkor van a látás tapasztalata. De ha nincs szem, vagy valamilyen baja van a szemnek, sérült az ideg, akkor nem látunk. De még a nem látás tapasztalatát is énnek gondoljuk, hogy mi vagyunk, akik nem látnak. Vagy mi vagyunk, akik látnak. Bárhogyan is, a tudat énnek veszi. De igazából az érzékelő tudatosság természete, hogy keletkezik és megszűnik. Keletkezik, marad egy kicsit, és megszűnik. Ez a természete. A látás csak látás, a hallás csak hallás. Amikor így értjük, nem szenvedünk. De énnek vesszük az érzékelő tudatosságot, énnek vesszük az anyagi formát és a tudatot. Én vagyok, aki lát -- ez egy ok a szenvedés keletkezésére. Ezért gyakorlunk, hogy műveljük a helyes nézetet, helyes szándékot, a nemes nyolcas út minden tényezőjét, a helyes éberséget, a helyes szamádhit. Gyakorlunk, hogy helyes nézetünk, erényünk legyen. Amennyire rendelkezünk a nemes nyolcas úttal, annyira vagyunk képesek az anyagi formát és a tudatot nem énnek látni. Amennyire látjuk a nem ént, annyira nem szenvedünk, nem keletkezik szenvedés."
 
 *Forrás: [Sense Consciousness is Impermanent by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=I4fOnZR6lV0), Online Retreat Jul 2023, Day 4 Morning, 33:49-36:00*
 
-## A kétely is csak keletkezik és megszűnik<span id="a-ktely-is-csak-keletkezik-s-megsznik"> </span>
+## A kétely is csak keletkezik és megszűnik<span id="a-ktely-is-csak-keletkezik-s-megsznik">&nbsp;</span>
 
 „Amikor tiszteletreméltó Ácsán Cshával voltam, egy tanítást adott a kételyről. Azt mondta, hogy nincs értelme bevonódni a kételybe, mert az csak olyan, ami keletkezik és megszűnik. Azt gondoltam magamban, hogy vajon ennyiről lenne csupán szó? Volt valamiféle megértésem, de igazán nem értettem világosan ezt a tanítást. Pedig valóban ennyi kell a szenvedéstől megszabaduláshoz. Bármilyen boldogság, bármilyen szomorúság, ami felmerül, látjuk, hogy csak keletkezik és megszűnik. Bármilyen harag, bármilyen tudati szétszórtság, csak ismerjük őket, idővel, és a tudat felül kerekedik. És akkor a tudat könnyűnek érződik, nem merül fel szenvedés. De nem ezt látjuk történni, mert nincs világos megértésünk a dolgokról. Viszont ha megértjük a Dhammát, akkor nagy öröm és boldogság van."
 
 *Forrás: [Practice This Way and You Will See the Dhamma by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=sTCHDPyDr8c), 16:26-17:23, 22 Dec 2021*
 
-## A tudatot pusztán tudatként ismerni<span id="a-tudatot-pusztn-tudatknt-ismerni"> </span>
+## A tudatot pusztán tudatként ismerni<span id="a-tudatot-pusztn-tudatknt-ismerni">&nbsp;</span>
 
 „Ha tudatunk a múlttal vagy jövővel kapcsolatos érzésekkel és gondolatokkal elszaladt, akkor az összeszedettség, a szamádhi nem szilárd; az éberség, a szati nincs jelen. Tudjuk, hogy a tudat jelenleg szétszórt. Ha éberségünk szilárdan áll, akkor tudjuk, hogy a tudat szétszórt és a szétszórtság megszűnik. Ezt úgy hívják, hogy a tudatot úgy ismerni, mint egyszerűen egy tudat, nem egy lény, személy, én, önmagam, vagy más. Látjuk, hogy a szétszórtság csak egy tudati jelenség. Keletkezik, fennáll, és megszűnik. Szemlélődhetünk rajta, mint ami egy tudati jelenség. De legtöbbször éberségünk és szamádhink ereje nem elegendő, ezért először szavalnunk kell, mint szavalni az itipiszóval, szvákkhátóval, szupatipannóval kezdődő verseket száznyolcszor, vagy a báhum éneket, vagy a Dzsinapanydzsara gáthát. Addig szavaljuk, ameddig a tudat békés nem lesz."
 
 *Forrás: [The Buddhist View on Happiness by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=Fu7_hUlad9Q), Friday Dhamma, 0:10-1:26, 02 Aug 2024*
 
-## Az ürességhez vezető ösvény<span id="az-ressghez-vezet-svny"> </span>
+## Az ürességhez vezető ösvény<span id="az-ressghez-vezet-svny">&nbsp;</span>
 
 „Ha amikor szemlélődünk, nem látjuk a Dhammát, nem tudjuk a Dhammát, akkor először létre kell hoznunk annak okait, növelnünk kell szívünk erejét. Hogyan csináljuk? A bőkezűség tekintetében, már mind nagyon bőkezűek vagytok. A szílát már gyakoroljátok, ezért folytassátok a gyakorlását. Az éberség és a szamádhi pedig olyan, amit sokat kell végeznetek, hogy létrejöjjön a bölcsesség minősége. A pannyá, a bölcsesség az az átható, teljes körű tudása a feltételes jelenségeknek, azok igazságának, hogy semmilyen testi vagy tudati dolog nem én. Ezen a ponton jutunk világos megértésre. Ezt megtehetitek, még ha világiak is vagytok, elérhetitek ezt a tudást. Ha van bölcsességetek, akkor képesek vagytok tudást szerezni, s így meglátni és elérni a Dhammát."
 
 *Forrás: [The Path Leading to Emptiness by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=DTp_yqFJu9M), Online Retreat July 2024, Day-8, 15:31-16:48*
 
-## Függő megszabadulás<span id="fgg-megszabaduls"> </span>
+## Függő megszabadulás<span id="fgg-megszabaduls">&nbsp;</span>
 
 (részlet az Upanisasuttáról (SN 12.23) szóló beszédből)
 
@@ -182,7 +182,7 @@ Akik figyelmesek: élnek, nem halnak meg. De akik figyelmetlenek, már halottak.
 
 *Forrás: [Dependent Liberation by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=mPWynCZKIIo), 5:09-5:53, 22 Jan 2024*
 
-## Nincs vallás, csak üresség<span id="nincs-valls-csak-ressg"> </span>
+## Nincs vallás, csak üresség<span id="nincs-valls-csak-ressg">&nbsp;</span>
 
 „Csak tudatában vagyunk a légzésnek, és a tudat békés és nyugodt lesz. Ebben nincs semmilyen vallás. Ez a szamádhi békéje. Ha a keletkezés és megszűnés igazságán szemlélődünk, vagy minden testi és tudati jelenség természetén, akkor ez a bölcsesség szintje. De itt sincs vallás. Ez csak üresség.
 
@@ -192,7 +192,7 @@ Van, hogy a szerzetesek különböző irányzatokra oszlanak, mint például mah
 
 *Forrás: [Buddhism & Christianity, Aggregates & Realms by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=bqqlmN_-6tg), Online Retreat Mar 2024, Day-1 Q&A, 3:30-4:45*
 
-## Bármivé válni szenvedés<span id="brmiv-vlni-szenveds"> </span>
+## Bármivé válni szenvedés<span id="brmiv-vlni-szenveds">&nbsp;</span>
 
 - Mit tehetek azért, hogy folyamba lépett legyek?
 
@@ -204,7 +204,7 @@ Van, hogy a szerzetesek különböző irányzatokra oszlanak, mint például mah
 
 *Forrás: [The Wisdom of Children – Dhamma Video Conference Talk and Q&A with Ajahn Anan (watmarpjan.org)](https://watmarpjan.org/en/the-wisdom-of-children/), 28 September 2018*
 
-## A béklyók elpusztítása, amik megkötik az elmét<span id="a-bklyk-elpuszttsa-amik-megktik-az-elmt"> </span>
+## A béklyók elpusztítása, amik megkötik az elmét<span id="a-bklyk-elpuszttsa-amik-megktik-az-elmt">&nbsp;</span>
 
 „Kezdetben a gyakorlók mindenben kétkedhetnek, hogy mit kell csinálniuk. Tele vannak akarással, gyors eredményt akarnak, s ez a tudatot nagyon zaklatottá és aggódóvá teszi, hogy gyors eredményt akarnak. Az elengedés a leggyorsabb módszer. De azt kérdezzük: képesek vagyunk elengedni? Hallottuk, hogy semmi sem én. Már tudjuk, hogy minden testi és tudati nem én. De nem tudjuk elengedni, nem vagyunk képesek csak úgy letenni. Ezért először gyakorolnunk kell.
 
@@ -216,7 +216,7 @@ Amikor a tudat nyugodt, látjuk: a gondolatok nem én. Látjuk a bonyolítást k
 
 *Forrás: [Destroying the Fetters, That Which Tie Down the Mind by Ajahn Anan (youtube.com)](https://youtu.be/hBW4KbWA4I0), 13:09-16:02, Ácsán Ánán október 4-i beszédéből*
 
-## A gondolkodás bölcsessége nem elég<span id="a-gondolkods-blcsessge-nem-elg"> </span>
+## A gondolkodás bölcsessége nem elég<span id="a-gondolkods-blcsessge-nem-elg">&nbsp;</span>
 
 „Meglátni a Dhammát nem bonyolult. Csak azt látjuk, ami normális és természetes. A testi és a tudati keletkezik, marad egy ideig, és megszűnik. Tehát látni a testit és a tudatit keletkezni, maradni egy ideig, és megszűnni. De nem látjuk, nincs meg a bölcsességünk. Valami befedi a tudatunkat, eltakarja a tudatunkat, ezért a látásunk nem tiszta.
 
@@ -226,7 +226,7 @@ Láthatjuk, hogy a ragaszkodás nagyon gyors. Látjuk, hogy a gondolkodás bölc
 
 *Forrás: [Ajahn Anan (youtube.com)](https://youtu.be/OKcQjkIOI9o), 7:01-8:39*
 
-## Minél többet keresel, annál távolabb kerülsz<span id="minl-tbbet-keresel-annl-tvolabb-kerlsz"> </span>
+## Minél többet keresel, annál távolabb kerülsz<span id="minl-tbbet-keresel-annl-tvolabb-kerlsz">&nbsp;</span>
 
 Most lehetőségünk van a Dhammát hallgatni. Gyakoroljuk a szamádhit, a tudat megszilárdítását. Ez nagyon fontos. Így megvan a test, a beszéd és a tudat higgadtsága, összeszedettsége. A test és a beszéd összeszedése a szíla, avagy erény. Ezt sokat kell használnunk a kitartáshoz és béketűréshez, hogy ekként visszahúzzuk a tudatot és megtartóztassuk magunkat.
 
@@ -254,7 +254,7 @@ Képeznünk kell magunkat, mert ha nem képezzük a tudatunk, akkor egyáltalán
 
 *Forrás: [The More You Seek, the Further Away You Become by Ajahn Anan (youtube.com)](https://youtu.be/UnQj6mowrFM), 17 Sep 2023*
 
-## A szenvedés végének okai<span id="a-szenveds-vgnek-okai"> </span>
+## A szenvedés végének okai<span id="a-szenveds-vgnek-okai">&nbsp;</span>
 
 „Kezdetben látjuk, hogy ami a szívet megköti, az a sakkāyadiṭṭhi -- az én nézete, a személyiség nézet, a dolgokat énként és enyémként, teként és tiédként látni. Kezdetben ez az első béklyó, a szív első köteléke, amit meg kell javítanunk, meg kell gyógyítanunk. Ezt már tudjuk, és létrejön az észlelés, hogy ez nem én. A gondolatok nem én. A lélegzet nem én. A víz, amit iszunk, nem én. Az étel, amit eszünk, nem én. A tűz elem -- a test hője -- sem tartozik hozzánk. De még ha ezt észleltük is, amikor érzéki benyomás keletkezik, az én érzete is létrejön vele együtt. Ha a szem lát egy alakot, a fül hall egy hangot, az orr szagol egy szagot, a nyelv ízlel egy ízt, a test érintkezik egy érinthető tárggyal, vagy a tudat egy tudati tárggyal, bármilyen érzéki tárgy merül fel, azzal együtt megjelenik az én érzete is. Ezért vigyáznunk kell ezzel, mivel a békét és összeszedettséget (samādhi) nélkülöző tudat hajhássza az érzéki benyomásokat. Így hát békéssé, nyugodttá és összeszedetté kell tennünk a tudatot, hogy szétválaszthassuk a tudatot az érzéki benyomásoktól, hogy lássuk: a tudat az a tudat és az érzéki benyomások az az érzéki benyomások. Akkor olyan lesz, mint az olaj és a víz szétválása. Ha nem vagyunk összeszedettek, akkor összekeverednek, mintha ugyanazok lennének. A tudat és az érzéki benyomások összekeverednek. Énnek látjuk. Ez egy zaklatott állapot.
 
@@ -262,7 +262,7 @@ Látjuk, hogy minden jelenség okokból keletkezik, ezért művelnünk kell az o
 
 *Forrás: [Causes for the End of Suffering by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=GOgEFnRV9Xo), 5:12-8:01, 24 Jan 2023*
 
-## Senki sem éri el a nibbánát<span id="senki-sem-ri-el-a-nibbnt"> </span>
+## Senki sem éri el a nibbánát<span id="senki-sem-ri-el-a-nibbnt">&nbsp;</span>
 
 „Kitartónak kell lennünk az erőfeszítéseinkben, szívünkben a jóság gondolatait ápolva, azokat egyre jobbá és magasabb fokúvá téve, hogy a tudatot egyre nagyobb fokú tisztaságba emeljük. Milyen fokú tisztaságba kell emelnünk a tudatot? Nos, arra a fokra, ahol nincs én. Ahol én nem vagyok. Nincs valaki, aki eléri a Dhammát. Egyszerűen nem létezik. Csak a Buddha, a felébredés tudata, a felébredés természete. A Buddha, a Dhamma, a Szangha egyetlen dologgá állnak össze. Ezen a ponton ez tiszta üresség. Üresség, emberektől mentes tisztaság. Nincs valaki, aki belép a nibbánába. Nincs valaki, aki eléri vagy eljut abba az állapotba. Nibbána létezik, de az, aki belép a nibbánába, nem létezik. Ha ott még vannak emberek, vagy ha van valaki, aki belép abba az állapotba, akkor az mutatja, hogy az nem nibbána. Megmutatja nekünk, hogy az nem tiszta üresség.
 
@@ -274,7 +274,7 @@ Ezért hát ennek megfelelően próbáljunk gyakorolni, és ha így teszünk, me
 
 *Forrás: [No One Reaches Nibbāna by Ajahn Anan (youtube.com)](https://www.youtube.com/watch?v=ahu0323XMM0), 10:28-13:25*
 
-## Túl a kételyen, túl az énen<span id="tl-a-ktelyen-tl-az-nen"> </span>
+## Túl a kételyen, túl az énen<span id="tl-a-ktelyen-tl-az-nen">&nbsp;</span>
 
 Egész életünkben építettük az én képzetét, önmagunkat, majd egy nap egy bölcs tanító azt mondja: „Igazából nincs semmilyen én." És ezt képesek vagyunk elhinni. De még mindig nem tudjuk feladni. Azért, mert az éberség és belső nyugalom mértéke nem elegendő, hogy belátásra jussunk. Ezért dolgoznunk kell rajta, sétáló és ülő meditációt folytatnunk. Miután a tudat feltöltődött összeszedettséggel, fordulj befele és vizsgálódj. Nézz, hogy meglásd a test miként csak valami mulandó, nem kielégítő, és nem én, és akkor látni fogod a Dhammát. Egyáltalán nincs messze. Épp itt van.
 
@@ -300,7 +300,7 @@ Van úgy, hogy az emberek sietnek gyors eredményeket elérni a gyakorlásban. U
 
 *Forrás: Beyond Doubt, Beyond Self by Ajahn Anan, in [The World and the Heart (abhayagiri.org)](https://www.abhayagiri.org/media/books/en-The-World-and-the-Heart-Book.pdf), p 75-78*
 
-## Szamatha és vipasszaná: a nyugalomtól a belátásig<span id="szamatha-s-vipasszan-a-nyugalomtl-a-beltsig"> </span>
+## Szamatha és vipasszaná: a nyugalomtól a belátásig<span id="szamatha-s-vipasszan-a-nyugalomtl-a-beltsig">&nbsp;</span>
 
 „A Dhamma gyakorlása arra törekvés, hogy elhagyjuk a szívünkben felmerülő káros állapotokat, érdemeket hozzunk létre és fenntartsuk az üdvös állapotokat, és megelőzzük a még létre nem jött káros állapotok keletkezését. Ez megfelel a helyes erőfeszítésnek az út tényezői közt. Ha nem vagyunk éberek, vagy nem uraljuk magunk éberséggel, akkor az olyan, mint a védőgát nélküli folyó. Ha nincs töltés, ami feltartsa a folyót, az természetszerűleg kiönt. Ugyanígy, ha nem vagyunk éberek, vagy az éberségünk elégtelen, akkor a megszokott hangulataink elkerülhetetlenül beömlenek és elárasztják a tudatunkat. Ezért szükséges egy erős és stabil éberséget megalapoznunk azzal, hogy a buddhó meditációs mantrára összpontosítunk.
 
@@ -314,7 +314,7 @@ Ez a kötődő ragaszkodás, avagy upádána az oka az újból létezésnek, oka
 
 *Forrás: [Seeking Buddho: Teachings and Reflections by Ajahn Anan Akiñcano (abhayagiri.org)](https://www.abhayagiri.org/media/books/Seeking-Budho.pdf), p 42-43*
 
-## Licenc<span id="toc-licenc"> </span>
+## Licenc<span id="toc-licenc">&nbsp;</span>
 
 *Fordította: Hadházi Zsolt, 2026*
 
