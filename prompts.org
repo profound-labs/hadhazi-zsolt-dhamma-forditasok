@@ -1,5 +1,0 @@
-#+title: Prompts
-
-Check the Forrás source attribution lines also in ./ajahn-kalyano-idezetek/kalyano.md and find the urls to the YouTube talks or online available PDF books where url is missing.
-
-Run web searches to see if you can identify the sources and add the links.
